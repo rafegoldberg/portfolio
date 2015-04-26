@@ -1,0 +1,30 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*sublime*"
+			],
+			"folder_exclude_patterns":
+			[
+				".*",
+				"node_modules"
+			],
+			"name": "Project Root",
+			"path": "."
+		},
+		{
+			"file_exclude_patterns":
+			[
+				"node_modules/*"
+			],
+			"folder_exclude_patterns":
+			[
+				"node_modules/*/*"
+			],
+			"name": "Installed Modules",
+			"path": "node_modules"
+		}
+	]
+}

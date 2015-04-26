@@ -1,0 +1,2216 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"defa",
+				"default"
+			],
+			[
+				"gl",
+				"glyph"
+			],
+			[
+				"asse",
+				"assets"
+			],
+			[
+				"forma",
+				"format_styles"
+			],
+			[
+				"implode",
+				"implode_assoc"
+			],
+			[
+				"arr",
+				"arr"
+			],
+			[
+				"over",
+				"overrides"
+			],
+			[
+				"XAM",
+				"XAMPP_PHP"
+			],
+			[
+				"maxh",
+				"max-height"
+			],
+			[
+				"mou",
+				"mouseenter	.mouseenter()"
+			],
+			[
+				"focu",
+				"focusremover"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"subnav",
+				"subnav_hide"
+			],
+			[
+				"wrap",
+				"wrapAll	.wrapAll()"
+			],
+			[
+				"pare",
+				"parents	.parents()"
+			],
+			[
+				"item",
+				"itemsub"
+			],
+			[
+				"pos",
+				"post_id"
+			],
+			[
+				"theco",
+				"the_content"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"bower_",
+				"bower_components"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"p",
+				"pre-wrap"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"the",
+				"theme"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"pars",
+				"parseInt"
+			],
+			[
+				"map",
+				"map	$.map()"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"ARRA",
+				"ARRAY_N"
+			],
+			[
+				"acf",
+				"acf_meta"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"format_",
+				"format_octicon_s2"
+			],
+			[
+				"get_postty",
+				"get_post_types"
+			],
+			[
+				"arraymer",
+				"array_merge"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"get_he",
+				"get_header"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"_",
+				"_url_split"
+			],
+			[
+				"podcas",
+				"podcast_url"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inner",
+				"innerHeight	.innerHeight()"
+			],
+			[
+				"post",
+				"post_class"
+			],
+			[
+				"whsn",
+				"whs-n	white-space: normal;"
+			],
+			[
+				"ui",
+				"ui-border"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"parent",
+				"parent	.parent()"
+			],
+			[
+				"out",
+				"outerHeight	.outerHeight()"
+			],
+			[
+				"sc",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"outer",
+				"outerHeight	.outerHeight()"
+			],
+			[
+				"inn",
+				"innerHeight	.innerHeight()"
+			],
+			[
+				"ou",
+				"outerHeight	.outerHeight()"
+			],
+			[
+				"fz-",
+				"fz-xs"
+			],
+			[
+				"top",
+				"topOff"
+			],
+			[
+				"toggl",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"key",
+				"keydown	.keydown()"
+			],
+			[
+				"ke",
+				"keypress	.keypress()"
+			],
+			[
+				"offs",
+				"offset	.offset()"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"fs",
+				"fs_inner"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"res",
+				"resize	.resize"
+			],
+			[
+				"login",
+				"log-in"
+			],
+			[
+				"tal",
+				"ta-l	text-align: left;"
+			],
+			[
+				"ind",
+				"index	index"
+			],
+			[
+				"imp",
+				"imp	scss_atimport"
+			],
+			[
+				"bxz",
+				"bxz-bb	box-sizing: border-box;"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"listpage",
+				"wp_list_pages"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"po",
+				"pos"
+			],
+			[
+				"mxh",
+				"max-height"
+			],
+			[
+				"offset",
+				"offsetParent	.offsetParent()"
+			],
+			[
+				"par",
+				"parentsUntil	parentsUntil"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"numhas",
+				"numhash"
+			],
+			[
+				"show",
+				"show_overlay"
+			],
+			[
+				"mw",
+				"min-width"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"remov",
+				"remove	.remove()"
+			],
+			[
+				"eac",
+				"each	.each()"
+			],
+			[
+				"get_sub_fie",
+				"get_sub_field"
+			],
+			[
+				"gettempl",
+				"get_template_part"
+			],
+			[
+				"gettemp",
+				"get_template_part"
+			],
+			[
+				"title",
+				"the_title"
+			],
+			[
+				"optbox",
+				"opt_boxes"
+			],
+			[
+				"opt",
+				"opt_tabs"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"backl",
+				"background-color"
+			],
+			[
+				"set",
+				"set_scheme"
+			],
+			[
+				"admin",
+				"admin_color"
+			],
+			[
+				"gethead",
+				"get_header"
+			],
+			[
+				"get_style",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"app",
+				"appwrap"
+			],
+			[
+				"push",
+				"pushable"
+			],
+			[
+				"button",
+				"button-group"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"sl2",
+				"select2"
+			],
+			[
+				"sele",
+				"select2"
+			],
+			[
+				"rmv",
+				"removeClass	.removeClass"
+			],
+			[
+				"s2c",
+				"select2-close"
+			],
+			[
+				"sle",
+				"select2-close"
+			],
+			[
+				"acc",
+				"account_credentials_institution_id"
+			],
+			[
+				"togg",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"parents",
+				"parents	.parents()"
+			],
+			[
+				"border-t",
+				"border-top-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"bdra",
+				"border-radius"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"border-right",
+				"border-bottom-right-radius"
+			],
+			[
+				"key_",
+				"key_txt"
+			],
+			[
+				"rgb",
+				"rgba()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "styles/scss/main.scss",
+			"settings":
+			{
+				"buffer_size": 140,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/*\nOn OS X, basic text manipulations (left, right, command+left, etc) make use of the system key bindings,\nand don't need to be repeated here. Anything listed here will take precedence, however.\n*/\n[\n	{ \"keys\": [\"super+shift+n\"], \"command\": \"new_window\" },\n	{ \"keys\": [\"super+shift+w\"], \"command\": \"close_window\" },\n	{ \"keys\": [\"super+o\"], \"command\": \"prompt_open\" },\n	{ \"keys\": [\"super+shift+t\"], \"command\": \"reopen_last_file\" },\n	{ \"keys\": [\"super+alt+up\"], \"command\": \"switch_file\", \"args\": {\"extensions\": [\"cpp\", \"cxx\", \"cc\", \"c\", \"hpp\", \"hxx\", \"hh\", \"h\", \"ipp\", \"inl\", \"m\", \"mm\"]} },\n	{ \"keys\": [\"super+n\"], \"command\": \"new_file\" },\n	{ \"keys\": [\"super+s\"], \"command\": \"save\" },\n	{ \"keys\": [\"super+shift+s\"], \"command\": \"prompt_save_as\" },\n	{ \"keys\": [\"super+alt+s\"], \"command\": \"save_all\" },\n	{ \"keys\": [\"super+w\"], \"command\": \"close\" },\n\n	{ \"keys\": [\"super+k\", \"super+b\"], \"command\": \"toggle_side_bar\" },\n	{ \"keys\": [\"super+ctrl+f\"], \"command\": \"toggle_full_screen\" },\n	{ \"keys\": [\"super+ctrl+shift+f\"], \"command\": \"toggle_distraction_free\" },\n\n	{ \"keys\": [\"super+z\"], \"command\": \"undo\" },\n	{ \"keys\": [\"super+shift+z\"], \"command\": \"redo\" },\n	{ \"keys\": [\"super+y\"], \"command\": \"redo_or_repeat\" },\n	{ \"keys\": [\"super+u\"], \"command\": \"soft_undo\" },\n	{ \"keys\": [\"super+shift+u\"], \"command\": \"soft_redo\" },\n\n	{ \"keys\": [\"super+x\"], \"command\": \"cut\" },\n	{ \"keys\": [\"super+c\"], \"command\": \"copy\" },\n	{ \"keys\": [\"super+v\"], \"command\": \"paste\" },\n	{ \"keys\": [\"super+shift+v\"], \"command\": \"paste_and_indent\" },\n	{ \"keys\": [\"super+k\", \"super+v\"], \"command\": \"paste_from_history\" },\n	{ \"keys\": [\"super+option+v\"], \"command\": \"paste_from_history\" },\n\n	{ \"keys\": [\"ctrl+alt+left\"], \"command\": \"move\", \"args\": {\"by\": \"subwords\", \"forward\": false} },\n	{ \"keys\": [\"ctrl+alt+right\"], \"command\": \"move\", \"args\": {\"by\": \"subword_ends\", \"forward\": true} },\n	{ \"keys\": [\"ctrl+alt+shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"subwords\", \"forward\": false, \"extend\": true} },\n	{ \"keys\": [\"ctrl+alt+shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"subword_ends\", \"forward\": true, \"extend\": true} },\n\n	{ \"keys\": [\"ctrl+left\"], \"command\": \"move\", \"args\": {\"by\": \"subwords\", \"forward\": false} },\n	{ \"keys\": [\"ctrl+right\"], \"command\": \"move\", \"args\": {\"by\": \"subword_ends\", \"forward\": true} },\n	{ \"keys\": [\"ctrl+shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"subwords\", \"forward\": false, \"extend\": true} },\n	{ \"keys\": [\"ctrl+shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"subword_ends\", \"forward\": true, \"extend\": true} },\n\n	{ \"keys\": [\"ctrl+alt+up\"], \"command\": \"scroll_lines\", \"args\": {\"amount\": 1.0} },\n	{ \"keys\": [\"ctrl+alt+down\"], \"command\": \"scroll_lines\", \"args\": {\"amount\": -1.0} },\n\n	{ \"keys\": [\"ctrl+shift+up\"], \"command\": \"select_lines\", \"args\": {\"forward\": false} },\n	{ \"keys\": [\"ctrl+shift+down\"], \"command\": \"select_lines\", \"args\": {\"forward\": true} },\n\n	{ \"keys\": [\"super+shift+[\"], \"command\": \"prev_view\" },\n	{ \"keys\": [\"super+shift+]\"], \"command\": \"next_view\" },\n	{ \"keys\": [\"super+alt+left\"], \"command\": \"prev_view\" },\n	{ \"keys\": [\"super+alt+right\"], \"command\": \"next_view\" },\n\n	{ \"keys\": [\"ctrl+tab\"], \"command\": \"next_view_in_stack\" },\n	{ \"keys\": [\"ctrl+shift+tab\"], \"command\": \"prev_view_in_stack\" },\n\n	{ \"keys\": [\"super+a\"], \"command\": \"select_all\" },\n	{ \"keys\": [\"super+shift+l\"], \"command\": \"split_selection_into_lines\" },\n	{ \"keys\": [\"escape\"], \"command\": \"single_selection\", \"context\":\n		[\n			{ \"key\": \"num_selections\", \"operator\": \"not_equal\", \"operand\": 1 }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"clear_fields\", \"context\":\n		[\n			{ \"key\": \"has_next_field\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"clear_fields\", \"context\":\n		[\n			{ \"key\": \"has_prev_field\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"hide_panel\", \"args\": {\"cancel\": true},\n		\"context\":\n		[\n			{ \"key\": \"panel_visible\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"hide_overlay\", \"context\":\n		[\n			{ \"key\": \"overlay_visible\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"hide_popup\", \"context\":\n		[\n			{ \"key\": \"popup_visible\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"hide_auto_complete\", \"context\":\n		[\n			{ \"key\": \"auto_complete_visible\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n\n	{ \"keys\": [\"super+]\"], \"command\": \"indent\" },\n	{ \"keys\": [\"super+[\"], \"command\": \"unindent\" },\n\n	{ \"keys\": [\"tab\"], \"command\": \"insert_best_completion\", \"args\": {\"default\": \"\\t\", \"exact\": true} },\n	{ \"keys\": [\"tab\"], \"command\": \"insert_best_completion\", \"args\": {\"default\": \"\\t\", \"exact\": false},\n		\"context\":\n		[\n			{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \".*[^0-9]$\", \"match_all\": true },\n		]\n	},\n	{ \"keys\": [\"tab\"], \"command\": \"replace_completion_with_next_completion\", \"context\":\n		[\n			{ \"key\": \"last_command\", \"operator\": \"equal\", \"operand\": \"insert_best_completion\" },\n			{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"tab\"], \"command\": \"reindent\", \"context\":\n		[\n			{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"tab\"], \"command\": \"indent\", \"context\":\n		[\n			{ \"key\": \"text\", \"operator\": \"regex_contains\", \"operand\": \"\\n\" }\n		]\n	},\n	{ \"keys\": [\"tab\"], \"command\": \"next_field\", \"context\":\n		[\n			{ \"key\": \"has_next_field\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"tab\"], \"command\": \"commit_completion\", \"context\":\n		[\n			{ \"key\": \"auto_complete_visible\" },\n			{ \"key\": \"setting.auto_complete_commit_on_tab\" }\n		]\n	},\n\n	{ \"keys\": [\"shift+tab\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\t\"} },\n	{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n		[\n			{ \"key\": \"setting.shift_tab_unindent\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n		[\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \"^[\\t ]*\" }\n		]\n	},\n	{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n		[\n			{ \"key\": \"text\", \"operator\": \"regex_contains\", \"operand\": \"\\n\" }\n		]\n	},\n	{ \"keys\": [\"shift+tab\"], \"command\": \"prev_field\", \"context\":\n		[\n			{ \"key\": \"has_prev_field\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n\n	{ \"keys\": [\"super+l\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"line\"} },\n	{ \"keys\": [\"super+d\"], \"command\": \"find_under_expand\" },\n	{ \"keys\": [\"super+k\", \"super+d\"], \"command\": \"find_under_expand_skip\" },\n	{ \"keys\": [\"super+shift+space\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"scope\"} },\n	{ \"keys\": [\"ctrl+shift+m\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"brackets\"} },\n	{ \"keys\": [\"ctrl+m\"], \"command\": \"move_to\", \"args\": {\"to\": \"brackets\"} },\n	{ \"keys\": [\"super+shift+j\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"indentation\"} },\n	{ \"keys\": [\"super+shift+a\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"tag\"} },\n\n	{ \"keys\": [\"super+alt+.\"], \"command\": \"close_tag\" },\n\n	{ \"keys\": [\"ctrl+q\"], \"command\": \"toggle_record_macro\" },\n	{ \"keys\": [\"ctrl+shift+q\"], \"command\": \"run_macro\" },\n\n	{ \"keys\": [\"super+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line.sublime-macro\"} },\n	{ \"keys\": [\"super+shift+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line Before.sublime-macro\"} },\n	{ \"keys\": [\"enter\"], \"command\": \"commit_completion\", \"context\":\n		[\n			{ \"key\": \"auto_complete_visible\" },\n			{ \"key\": \"setting.auto_complete_commit_on_tab\", \"operand\": false }\n		]\n	},\n\n	{ \"keys\": [\"super+t\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"show_files\": true} },\n	{ \"keys\": [\"super+p\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"show_files\": true} },\n	{ \"keys\": [\"super+shift+p\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"command_palette\"} },\n	{ \"keys\": [\"super+ctrl+p\"], \"command\": \"prompt_select_workspace\" },\n	{ \"keys\": [\"super+r\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \"@\"} },\n	{ \"keys\": [\"ctrl+g\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \":\"} },\n	{ \"keys\": [\"f12\"], \"command\": \"goto_definition\" },\n	{ \"keys\": [\"super+alt+down\"], \"command\": \"goto_definition\" },\n	{ \"keys\": [\"super+shift+r\"], \"command\": \"goto_symbol_in_project\" },\n	{ \"keys\": [\"ctrl+minus\"], \"command\": \"jump_back\" },\n	{ \"keys\": [\"ctrl+shift+minus\"], \"command\": \"jump_forward\" },\n\n	{ \"keys\": [\"super+i\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"incremental_find\", \"reverse\": false} },\n	{ \"keys\": [\"super+shift+i\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"incremental_find\", \"reverse\": true} },\n	{ \"keys\": [\"super+f\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"find\", \"reverse\": false} },\n	{ \"keys\": [\"super+alt+f\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"replace\", \"reverse\": false} },\n	{ \"keys\": [\"super+alt+e\"], \"command\": \"replace_next\" },\n	{ \"keys\": [\"super+g\"], \"command\": \"find_next\" },\n	{ \"keys\": [\"super+shift+g\"], \"command\": \"find_prev\" },\n	{ \"keys\": [\"super+e\"], \"command\": \"slurp_find_string\" },\n	{ \"keys\": [\"super+shift+e\"], \"command\": \"slurp_replace_string\" },\n\n	{ \"keys\": [\"alt+super+g\"], \"command\": \"find_under\" },\n	{ \"keys\": [\"shift+alt+super+g\"], \"command\": \"find_under_prev\" },\n	{ \"keys\": [\"ctrl+super+g\"], \"command\": \"find_all_under\" },\n\n	{ \"keys\": [\"super+shift+f\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"find_in_files\"} },\n	{ \"keys\": [\"f4\"], \"command\": \"next_result\" },\n	{ \"keys\": [\"shift+f4\"], \"command\": \"prev_result\" },\n\n	{ \"keys\": [\"f6\"], \"command\": \"toggle_setting\", \"args\": {\"setting\": \"spell_check\"} },\n	{ \"keys\": [\"ctrl+f6\"], \"command\": \"next_misspelling\" },\n	{ \"keys\": [\"ctrl+shift+f6\"], \"command\": \"prev_misspelling\" },\n\n	{ \"keys\": [\"ctrl+super+up\"], \"command\": \"swap_line_up\" },\n	{ \"keys\": [\"ctrl+super+down\"], \"command\": \"swap_line_down\" },\n\n	{ \"keys\": [\"ctrl+backspace\"], \"command\": \"delete_word\", \"args\": { \"forward\": false, \"sub_words\": true } },\n	{ \"keys\": [\"ctrl+delete\"], \"command\": \"delete_word\", \"args\": { \"forward\": true, \"sub_words\": true } },\n\n	{ \"keys\": [\"super+forward_slash\"], \"command\": \"toggle_comment\", \"args\": { \"block\": false } },\n	{ \"keys\": [\"super+alt+forward_slash\"], \"command\": \"toggle_comment\", \"args\": { \"block\": true } },\n\n	{ \"keys\": [\"super+j\"], \"command\": \"join_lines\" },\n	{ \"keys\": [\"super+shift+d\"], \"command\": \"duplicate_line\" },\n\n	{ \"keys\": [\"ctrl+backquote\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"console\", \"toggle\": true} },\n\n	{ \"keys\": [\"ctrl+space\"], \"command\": \"auto_complete\" },\n	{ \"keys\": [\"ctrl+space\"], \"command\": \"replace_completion_with_auto_complete\", \"context\":\n		[\n			{ \"key\": \"last_command\", \"operator\": \"equal\", \"operand\": \"insert_best_completion\" },\n			{ \"key\": \"auto_complete_visible\", \"operator\": \"equal\", \"operand\": false },\n			{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n\n	{ \"keys\": [\"super+alt+p\"], \"command\": \"show_scope_name\" },\n	{ \"keys\": [\"ctrl+shift+p\"], \"command\": \"show_scope_name\" },\n\n	{ \"keys\": [\"f7\"], \"command\": \"build\" },\n	{ \"keys\": [\"super+b\"], \"command\": \"build\" },\n	{ \"keys\": [\"super+shift+b\"], \"command\": \"build\", \"args\": {\"select\": true} },\n\n	{ \"keys\": [\"ctrl+c\"], \"command\": \"exec\", \"args\": {\"kill\": true} },\n\n	{ \"keys\": [\"ctrl+t\"], \"command\": \"transpose\" },\n\n	{ \"keys\": [\"f5\"], \"command\": \"sort_lines\", \"args\": {\"case_sensitive\": false} },\n	{ \"keys\": [\"ctrl+f5\"], \"command\": \"sort_lines\", \"args\": {\"case_sensitive\": true} },\n\n	// Auto-pair quotes\n	{ \"keys\": [\"\\\"\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\\"$0\\\"\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|>|$)\", \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"not_regex_contains\", \"operand\": \"[\\\"a-zA-Z0-9_]$\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double - punctuation.definition.string.end\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"\\\"\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\\"${0:$SELECTION}\\\"\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"\\\"\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\"\", \"match_all\": true },\n			{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double - punctuation.definition.string.end\", \"match_all\": true },\n		]\n	},\n	{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\"$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\"\", \"match_all\": true },\n			{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double - punctuation.definition.string.end\", \"match_all\": true },\n		]\n	},\n\n	// Auto-pair single quotes\n	{ \"keys\": [\"'\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"'$0'\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|>|$)\", \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"not_regex_contains\", \"operand\": \"['a-zA-Z0-9_]$\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single - punctuation.definition.string.end\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"'\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"'${0:$SELECTION}'\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"'\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^'\", \"match_all\": true },\n			{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single - punctuation.definition.string.end\", \"match_all\": true },\n		]\n	},\n	{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"'$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^'\", \"match_all\": true },\n			{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single - punctuation.definition.string.end\", \"match_all\": true },\n		]\n	},\n\n	// Auto-pair brackets\n	{ \"keys\": [\"(\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"($0)\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|;|\\\\}|$)\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"(\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"(${0:$SELECTION})\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\")\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\)\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\($\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\)\", \"match_all\": true }\n		]\n	},\n\n	// Auto-pair square brackets\n	{ \"keys\": [\"[\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"[$0]\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|;|\\\\}|$)\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"[\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"[${0:$SELECTION}]\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"]\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\]\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\[$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\]\", \"match_all\": true }\n		]\n	},\n\n	// Auto-pair curly brackets\n	{ \"keys\": [\"{\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"{$0}\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|$)\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"{\"], \"command\": \"wrap_block\", \"args\": {\"begin\": \"{\", \"end\": \"}\"}, \"context\":\n		[\n			{ \"key\": \"indented_block\", \"match_all\": true },\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true },\n		]\n	},\n	{ \"keys\": [\"{\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"{${0:$SELECTION}}\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"}\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n		]\n	},\n\n	{ \"keys\": [\"enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line in Braces.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"shift+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line in Braces.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n		]\n	},\n\n	{ \"keys\": [\"enter\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\n\\t$0\\n\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"meta.scope.between-tag-pair\", \"match_all\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n		]\n	},\n	{ \"keys\": [\"shift+enter\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\n\\t$0\\n\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"meta.scope.between-tag-pair\", \"match_all\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n		]\n	},\n\n	{\n		\"keys\": [\"super+alt+1\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 1.0],\n			\"rows\": [0.0, 1.0],\n			\"cells\": [[0, 0, 1, 1]]\n		}\n	},\n	{\n		\"keys\": [\"super+alt+2\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 0.5, 1.0],\n			\"rows\": [0.0, 1.0],\n			\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1]]\n		}\n	},\n	{\n		\"keys\": [\"super+alt+3\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 0.33, 0.66, 1.0],\n			\"rows\": [0.0, 1.0],\n			\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1], [2, 0, 3, 1]]\n		}\n	},\n	{\n		\"keys\": [\"super+alt+4\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 0.25, 0.5, 0.75, 1.0],\n			\"rows\": [0.0, 1.0],\n			\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1], [2, 0, 3, 1], [3, 0, 4, 1]]\n		}\n	},\n	{\n		\"keys\": [\"super+alt+shift+2\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 1.0],\n			\"rows\": [0.0, 0.5, 1.0],\n			\"cells\": [[0, 0, 1, 1], [0, 1, 1, 2]]\n		}\n	},\n	{\n		\"keys\": [\"super+alt+shift+3\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 1.0],\n			\"rows\": [0.0, 0.33, 0.66, 1.0],\n			\"cells\": [[0, 0, 1, 1], [0, 1, 1, 2], [0, 2, 1, 3]]\n		}\n	},\n	{\n		\"keys\": [\"super+alt+5\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 0.5, 1.0],\n			\"rows\": [0.0, 0.5, 1.0],\n			\"cells\":\n			[\n				[0, 0, 1, 1], [1, 0, 2, 1],\n				[0, 1, 1, 2], [1, 1, 2, 2]\n			]\n		}\n	},\n	{ \"keys\": [\"ctrl+1\"], \"command\": \"focus_group\", \"args\": { \"group\": 0 } },\n	{ \"keys\": [\"ctrl+2\"], \"command\": \"focus_group\", \"args\": { \"group\": 1 } },\n	{ \"keys\": [\"ctrl+3\"], \"command\": \"focus_group\", \"args\": { \"group\": 2 } },\n	{ \"keys\": [\"ctrl+4\"], \"command\": \"focus_group\", \"args\": { \"group\": 3 } },\n	{ \"keys\": [\"ctrl+5\"], \"command\": \"focus_group\", \"args\": { \"group\": 4 } },\n	{ \"keys\": [\"ctrl+6\"], \"command\": \"focus_group\", \"args\": { \"group\": 5 } },\n	{ \"keys\": [\"ctrl+7\"], \"command\": \"focus_group\", \"args\": { \"group\": 6 } },\n	{ \"keys\": [\"ctrl+8\"], \"command\": \"focus_group\", \"args\": { \"group\": 7 } },\n	{ \"keys\": [\"ctrl+9\"], \"command\": \"focus_group\", \"args\": { \"group\": 8 } },\n	{ \"keys\": [\"ctrl+shift+1\"], \"command\": \"move_to_group\", \"args\": { \"group\": 0 } },\n	{ \"keys\": [\"ctrl+shift+2\"], \"command\": \"move_to_group\", \"args\": { \"group\": 1 } },\n	{ \"keys\": [\"ctrl+shift+3\"], \"command\": \"move_to_group\", \"args\": { \"group\": 2 } },\n	{ \"keys\": [\"ctrl+shift+4\"], \"command\": \"move_to_group\", \"args\": { \"group\": 3 } },\n	{ \"keys\": [\"ctrl+shift+5\"], \"command\": \"move_to_group\", \"args\": { \"group\": 4 } },\n	{ \"keys\": [\"ctrl+shift+6\"], \"command\": \"move_to_group\", \"args\": { \"group\": 5 } },\n	{ \"keys\": [\"ctrl+shift+7\"], \"command\": \"move_to_group\", \"args\": { \"group\": 6 } },\n	{ \"keys\": [\"ctrl+shift+8\"], \"command\": \"move_to_group\", \"args\": { \"group\": 7 } },\n	{ \"keys\": [\"ctrl+shift+9\"], \"command\": \"move_to_group\", \"args\": { \"group\": 8 } },\n	{ \"keys\": [\"ctrl+0\"], \"command\": \"focus_side_bar\" },\n\n	{ \"keys\": [\"super+k\", \"super+up\"], \"command\": \"new_pane\" },\n	{ \"keys\": [\"super+k\", \"super+shift+up\"], \"command\": \"new_pane\", \"args\": {\"move\": false} },\n	{ \"keys\": [\"super+k\", \"super+down\"], \"command\": \"close_pane\" },\n	{ \"keys\": [\"super+k\", \"super+left\"], \"command\": \"focus_neighboring_group\", \"args\": {\"forward\": false} },\n	{ \"keys\": [\"super+k\", \"super+right\"], \"command\": \"focus_neighboring_group\" },\n	{ \"keys\": [\"super+k\", \"super+shift+left\"], \"command\": \"move_to_neighboring_group\", \"args\": {\"forward\": false} },\n	{ \"keys\": [\"super+k\", \"super+shift+right\"], \"command\": \"move_to_neighboring_group\" },\n\n	{ \"keys\": [\"super+1\"], \"command\": \"select_by_index\", \"args\": { \"index\": 0 } },\n	{ \"keys\": [\"super+2\"], \"command\": \"select_by_index\", \"args\": { \"index\": 1 } },\n	{ \"keys\": [\"super+3\"], \"command\": \"select_by_index\", \"args\": { \"index\": 2 } },\n	{ \"keys\": [\"super+4\"], \"command\": \"select_by_index\", \"args\": { \"index\": 3 } },\n	{ \"keys\": [\"super+5\"], \"command\": \"select_by_index\", \"args\": { \"index\": 4 } },\n	{ \"keys\": [\"super+6\"], \"command\": \"select_by_index\", \"args\": { \"index\": 5 } },\n	{ \"keys\": [\"super+7\"], \"command\": \"select_by_index\", \"args\": { \"index\": 6 } },\n	{ \"keys\": [\"super+8\"], \"command\": \"select_by_index\", \"args\": { \"index\": 7 } },\n	{ \"keys\": [\"super+9\"], \"command\": \"select_by_index\", \"args\": { \"index\": 8 } },\n	{ \"keys\": [\"super+0\"], \"command\": \"select_by_index\", \"args\": { \"index\": 9 } },\n\n	{ \"keys\": [\"f2\"], \"command\": \"next_bookmark\" },\n	{ \"keys\": [\"shift+f2\"], \"command\": \"prev_bookmark\" },\n	{ \"keys\": [\"super+f2\"], \"command\": \"toggle_bookmark\" },\n	{ \"keys\": [\"super+shift+f2\"], \"command\": \"clear_bookmarks\" },\n	{ \"keys\": [\"alt+f2\"], \"command\": \"select_all_bookmarks\" },\n\n	{ \"keys\": [\"super+k\", \"super+u\"], \"command\": \"upper_case\" },\n	{ \"keys\": [\"super+k\", \"super+l\"], \"command\": \"lower_case\" },\n	{ \"keys\": [\"super+k\", \"super+space\"], \"command\": \"set_mark\" },\n	{ \"keys\": [\"super+k\", \"super+a\"], \"command\": \"select_to_mark\" },\n	{ \"keys\": [\"super+k\", \"super+w\"], \"command\": \"delete_to_mark\" },\n	{ \"keys\": [\"super+k\", \"super+x\"], \"command\": \"swap_with_mark\" },\n	{ \"keys\": [\"super+k\", \"super+g\"], \"command\": \"clear_bookmarks\", \"args\": {\"name\": \"mark\"} },\n\n	{ \"keys\": [\"super+equals\"], \"command\": \"increase_font_size\" },\n	{ \"keys\": [\"super+plus\"], \"command\": \"increase_font_size\" },\n	{ \"keys\": [\"super+minus\"], \"command\": \"decrease_font_size\" },\n\n	{ \"keys\": [\"ctrl+shift+w\"], \"command\": \"insert_snippet\", \"args\": { \"name\": \"Packages/XML/long-tag.sublime-snippet\" } },\n\n	{ \"keys\": [\"ctrl+shift+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Line.sublime-macro\"} },\n\n	{ \"keys\": [\"super+alt+q\"], \"command\": \"wrap_lines\" },\n\n	{ \"keys\": [\"super+alt+[\"], \"command\": \"fold\" },\n	{ \"keys\": [\"super+alt+]\"], \"command\": \"unfold\" },\n	{ \"keys\": [\"super+k\", \"super+1\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 1} },\n	{ \"keys\": [\"super+k\", \"super+2\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 2} },\n	{ \"keys\": [\"super+k\", \"super+3\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 3} },\n	{ \"keys\": [\"super+k\", \"super+4\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 4} },\n	{ \"keys\": [\"super+k\", \"super+5\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 5} },\n	{ \"keys\": [\"super+k\", \"super+6\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 6} },\n	{ \"keys\": [\"super+k\", \"super+7\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 7} },\n	{ \"keys\": [\"super+k\", \"super+8\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 8} },\n	{ \"keys\": [\"super+k\", \"super+9\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 9} },\n	{ \"keys\": [\"super+k\", \"super+0\"], \"command\": \"unfold_all\" },\n	{ \"keys\": [\"super+k\", \"super+j\"], \"command\": \"unfold_all\" },\n	{ \"keys\": [\"super+k\", \"super+t\"], \"command\": \"fold_tag_attributes\" },\n\n	{ \"keys\": [\"super+alt+o\"], \"command\": \"toggle_overwrite\" },\n\n	{ \"keys\": [\"alt+f2\"], \"command\": \"context_menu\" },\n\n	{ \"keys\": [\"super+alt+c\"], \"command\": \"toggle_case_sensitive\", \"context\":\n		[\n			{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"super+alt+r\"], \"command\": \"toggle_regex\", \"context\":\n		[\n			{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"super+alt+w\"], \"command\": \"toggle_whole_word\", \"context\":\n		[\n			{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"super+alt+a\"], \"command\": \"toggle_preserve_case\", \"context\":\n		[\n			{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n\n	// Find panel key bindings\n	{ \"keys\": [\"enter\"], \"command\": \"find_next\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n		 \"context\": [{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n\n	// Replace panel key bindings\n	{ \"keys\": [\"enter\"], \"command\": \"find_next\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n		\"context\": [{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"ctrl+alt+enter\"], \"command\": \"replace_all\", \"args\": {\"close_panel\": true},\n		 \"context\": [{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n	},\n\n	// Incremental find panel key bindings\n	{ \"keys\": [\"enter\"], \"command\": \"hide_panel\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n		\"context\": [{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n\n	{ \"keys\": [\"super+,\"], \"command\": \"open_file\", \"args\": {\"file\": \"${packages}/User/Preferences.sublime-settings\"} },\n\n	{ \"keys\": [\"super+k\", \"super+y\"], \"command\": \"yank\" },\n	{ \"keys\": [\"super+k\", \"super+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard EOL.sublime-macro\"} },\n	{ \"keys\": [\"super+k\", \"super+backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard BOL.sublime-macro\"} },\n	{ \"keys\": [\"super+k\", \"super+c\"], \"command\": \"show_at_center\" },\n\n	// These are OS X built in commands, and don't need to be listed here, but\n	// doing so lets them show up in the menu\n	{ \"keys\": [\"ctrl+y\"], \"command\": \"yank\" },\n	{ \"keys\": [\"super+backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard BOL.sublime-macro\"} },\n	// super+delete isn't a built in command, but makes sense anyway\n	{ \"keys\": [\"super+delete\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard EOL.sublime-macro\"} },\n	{ \"keys\": [\"ctrl+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard EOL.sublime-macro\"} },\n	{ \"keys\": [\"ctrl+l\"], \"command\": \"show_at_center\" },\n	{ \"keys\": [\"ctrl+o\"], \"command\": \"insert_snippet\", \"args\": { \"contents\": \"$0\\n\" } },\n	{ \"keys\": [\"ctrl+super+d\"], \"command\": \"noop\" },\n	{ \"keys\": [\"ctrl+super+shift+d\"], \"command\": \"noop\" },\n\n	// HTML, XML close tag\n	{ \"keys\": [\"/\"], \"command\": \"close_tag\", \"args\": { \"insert_slash\": true }, \"context\":\n		[\n			{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"(text.html, text.xml) - string - comment\", \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \".*<$\", \"match_all\": true },\n			{ \"key\": \"setting.auto_close_tags\" }\n		]\n	}\n]\n",
+			"file": "/Users/rafegoldberg/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 34331,
+				"line_ending": "Unix",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "styles/scss/app/_vars.scss",
+			"settings":
+			{
+				"buffer_size": 11,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 1200,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "proje",
+		"selected_items":
+		[
+			[
+				"proje",
+				"Project Manager"
+			],
+			[
+				"pki",
+				"Package Control: Install Package"
+			],
+			[
+				"pjv",
+				"Project: Save As"
+			],
+			[
+				"nrc",
+				"File: New File Relative to Current View"
+			],
+			[
+				"pje",
+				"Project: Edit"
+			],
+			[
+				"mkdv",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ymkd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mkd",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"yht",
+				"Set Syntax: HTML"
+			],
+			[
+				"pmq",
+				"Permute Lines: Unique"
+			],
+			[
+				"ycss",
+				"Set Syntax: CSS"
+			],
+			[
+				"yhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"indb",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"nrp",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"pre",
+				"Preset Command: Manage Presets"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"ind",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"fv",
+				"File: Move"
+			],
+			[
+				"pj",
+				"Project: Save As"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"stat",
+				"View: Toggle Status Bar"
+			],
+			[
+				"col",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"cool",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"t",
+				"View: Toggle Tabs"
+			],
+			[
+				"pq",
+				"Permute Lines: Unique"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"for",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"rev",
+				"File: Reveal"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"coppath",
+				"File: Copy Path"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"style",
+				"File: Copy as Tag style"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as CSS Syntax"
+			],
+			[
+				"ta",
+				"View: Toggle Tabs"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"dle",
+				"File: Delete"
+			],
+			[
+				"nav",
+				"File: New File Relative to Current View"
+			],
+			[
+				"adth",
+				"Origami: Destroy Pane on the Left"
+			],
+			[
+				"blad",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"bla",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"nr",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"bl",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"pkv",
+				"Package Control: Remove Package"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sysc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"copp",
+				"File: Copy Path From Project"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"css",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"syhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"cop",
+				"File: Copy Name"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"syphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"sycs",
+				"Set Syntax: CSS"
+			],
+			[
+				"mj",
+				"File: Copy Path From Project"
+			],
+			[
+				"m",
+				"File: Move"
+			],
+			[
+				"je",
+				"Project: Edit"
+			],
+			[
+				"var",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pkr",
+				"Package Control: Add Repository"
+			],
+			[
+				"colscheme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"syjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"cop p",
+				"File: Copy Path"
+			],
+			[
+				"sycss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ict",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"key",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"i",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"it",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pjs",
+				"Project: Save As"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"proj",
+				"Project: Edit"
+			],
+			[
+				"d",
+				"File: Delete"
+			],
+			[
+				"cla",
+				"File: Close All"
+			],
+			[
+				"scope",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"",
+				"ColorSchemeSelector: Previous Color Scheme"
+			],
+			[
+				"fi",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"cl",
+				"File: Close All"
+			],
+			[
+				"keyus",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"settings",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"pke",
+				"Package Control: Enable Package"
+			],
+			[
+				"easyopen",
+				"EasyOpen;; Jump Back"
+			],
+			[
+				"pkd",
+				"Package Control: Disable Package"
+			],
+			[
+				"openfrom",
+				"OpenFromPath: Input path"
+			],
+			[
+				"op",
+				"OpenFromPath: Input path"
+			],
+			[
+				"pkiu",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"keyuser",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"stsbr",
+				"View: Toggle Status Bar"
+			],
+			[
+				"struc",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"sttb",
+				"View: Toggle Status Bar"
+			],
+			[
+				"ic",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"syhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"syht",
+				"Set Syntax: HTML"
+			],
+			[
+				"tb",
+				"View: Toggle Tabs"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"idnt",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"packl",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Create Binary Package File"
+			],
+			[
+				"kyu",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"nrv",
+				"File: New File Relative to Current View"
+			],
+			[
+				"indent",
+				"Auto indent"
+			],
+			[
+				"pkrv",
+				"Package Control: Remove Package"
+			],
+			[
+				"pkl",
+				"Package Control: List Packages"
+			],
+			[
+				"ttlcas",
+				"Convert Case: Title Case"
+			],
+			[
+				"st",
+				"View: Toggle Status Bar"
+			],
+			[
+				"yphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"nfv",
+				"File: New File Relative to Current View"
+			],
+			[
+				"pkar",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 300.0,
+		"history":
+		[
+			"select_color_scheme",
+			"select_color_schemed",
+			"bash cd ~/Documents",
+			"file",
+			"help",
+			"\\help",
+			"help",
+			"cd ~/Documents/Work",
+			"cd ~",
+			"cd",
+			"ls",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/grunt",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/grunt/scripts",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/grunt/styles",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/grunt/styles/css",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/grunt/styles/scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/grunt/styles/scss/app"
+	],
+	"file_history":
+	[
+		"/Users/rafegoldberg/Library/Application Support/Sublime Text 3/Packages/User/pm.sublime-settings",
+		"/Users/rafegoldberg/Library/Application Support/Sublime Text 3/Packages/Project Manager/pm.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/portfolio/styles/scss/app/_vars.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/portfolio/styles/scss/main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/portfolio/Gruntfile.js",
+		"/Users/rafegoldberg/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/quicktest/index.html",
+		"/Volumes/rafe/Documents/Work/DOTBK/Site/dotbk-public/static/styles/source/app/_iconic.scss",
+		"/Volumes/rafe/Documents/Work/DOTBK/Site/dotbk-public/static/styles/source/master.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/dbk_style_fstruct/example.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/dbk_style_fstruct/index.php",
+		"/Volumes/rafe/Documents/Work/DOTBK/Site/dotbk-public/static/styles/source/app/_variables.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/dbk_style_fstruct/dbk_style_fstruct.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/dbk_style_fstruct/partials/post.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/dbk_style_fstruct/partials/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/dbk_style_fstruct/partials/pre.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/dbk_style_fstruct/partials/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/dbk_style_fstruct/source/modules/example.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/dev/dbk_style_fstruct/build/modules/example.css",
+		"/Users/rafegoldberg/Library/Application Support/Sublime Text 3/Packages/User/Presets.sublime-settings",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/module.php",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/source/modules/module.scss",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/dbk_style_fstruct.sublime-project",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/partials/header.php",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/partials/pre.php",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/partials/post.php",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/template.php",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/partials/nav.php",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/partials/footer.php",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/source/module.html",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/source/modules/example.scss",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/source/style.scss",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/source/modules/example.css",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/source/master.css",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/source/master.scss",
+		"/Users/rafegoldberg/Desktop/dbk_style_fstruct/styles/master.css",
+		"/Users/rafegoldberg/Library/Caches/Cleanup At Startup/Transmit/462755F3-28E9-4481-B77E-AFC95BA1A9D5/page.php",
+		"/Users/rafegoldberg/Library/Caches/Cleanup At Startup/Transmit/90756428-6E93-4C00-87C9-2A27DAA5D5A6/index.php",
+		"/Users/rafegoldberg/Desktop/osn/imports/func/original.php",
+		"/Users/rafegoldberg/Desktop/osn/functions.php",
+		"/Users/rafegoldberg/Desktop/osn/imports/acf_admin_osn.css",
+		"/Users/rafegoldberg/Desktop/osn/imports/scss/compile.scss",
+		"/Users/rafegoldberg/Desktop/osn/imports/scss/old/_acf-admin-osn.scss",
+		"/Users/rafegoldberg/Desktop/osn/osn.sublime-project",
+		"/Users/rafegoldberg/Desktop/osn/acf_admin_osn.css",
+		"/Volumes/OSN Dev Update/template/lib/scss/_acf-admin-old.scss",
+		"/Volumes/OSN Dev Update/template/imports/acf_admin_osn.css",
+		"/Volumes/OSN Dev Update/template/lib/scss/compile.scss",
+		"/Volumes/OSN Dev Update/template/lib/CodeMirror/mode/rpm/spec/spec.css",
+		"/Volumes/OSN Dev Update/template/style.css",
+		"/Volumes/OSN Dev Update/template/lib/CodeMirror/mode/clike/scala.html",
+		"/Volumes/OSN Dev Update/template/single.php",
+		"/Volumes/OSN Dev Update/template/imports/admin_scripts/acf-options-cssjs.js",
+		"/Volumes/OSN Dev Update/template/imports/admin_global.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/sect/_sect-paragraph.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/sect/_sect-heading.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/admin/_acf-edit.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/assets/saved/feature-page.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/func/acf-extend.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/scripts/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/admin.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/.acf-cache/feature-page.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/layouts/feature.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/modules/sect-heading.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/assets/saved/creds.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/style.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/layouts/single.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/landing.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/modules/list-pages.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/modules/sect-paragraph.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/modules/sect-form.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/partials/metadata.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/func/page-parents.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/partials/pre.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/sect/_0A-sect.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/sect/_sect-form.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/func/cpt-services.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/singles/_header.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/partials/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/singles/_hero-box.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/singles/_brand.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/singles/_CF7.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/gridle/_0A-settings.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/.acf-cache/content-feed.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/utils/_controls.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/assets/saved/CF7-contact.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/partials/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/modules/feature-content.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/singles/_form.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/assets/saved/_header-original.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/theme/_0B-vars.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/.acf-cache/user-custom.json",
+		"/Users/rafegoldberg/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/author.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/modules/post-attachments.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/utils/_touched.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/plugins/_tooltipster.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/singles/_Z0-auth-mobile.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/func/blade-conf.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/mulhern.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/.acf-cache/file-well.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/func/tools.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/modules/ttl-box.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/singles/_Z1-fix-wrap.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/assets/saved/typeset-mixin-update.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/template-form.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/assets/saved/navmenu-functionality.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/single-services.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/assets/saved/post-semantic_structure.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/modules/_stretch-list.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/modules/_ttl-box.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/scripts/pre/jquery.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/modules/feed-nav.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/assets/saved/_header-nav-old.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/singles/_adjacent-nav.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/.acf-cache/landing-page.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/singles/_map.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/layouts/master.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/.acf-cache/metadata-optimize.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/iconic/glyphs.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/.acf-cache/metadata-defaults.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/func/debug.php",
+		"/Users/rafegoldberg/Library/Caches/Cleanup At Startup/Transmit/B58816F3-71CD-4D34-B103-6F438AFABC1F/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/modules/sect-iconlist.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/modules/sect-map.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/modules/png"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles",
+			"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/func",
+			"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles",
+			"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/",
+			"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern/lib/styles/",
+			"/Applications/XAMPP/xamppfiles/htdocs/clients/mulhern/wp-content/themes/mulhern-theme/lib/styles/",
+			"/Applications/XAMPP/xamppfiles/htdocs/dev/mulhern/wp-content/themes/mulhern-theme/lib/styles/",
+			"/Applications/XAMPP/xamppfiles/htdocs/dev/mulhern/wp-content/themes/mulhern-theme/lib/styles",
+			"/Applications/XAMPP/xamppfiles/htdocs/dev/mulhern/wp-content/themes/mulhern-theme/",
+			"/Applications/XAMPP/xamppfiles/htdocs/dev/mulhern/wp-content/themes/mulhern-theme/lib/func/cpt-services.php",
+			"",
+			"/Applications/XAMPP/xamppfiles/htdocs/dev/mulhern/wp-content/themes/mulhern-theme/",
+			"/Applications/XAMPP/xamppfiles/htdocs/dev/mulhern/wp-content/themes/mulhern-theme/lib/",
+			"/Applications/XAMPP/xamppfiles/htdocs/dev/mulhern/wp-content/themes/mulhern-theme/lib/styles/",
+			"/Applications/XAMPP/xamppfiles/htdocs/dev/mulhern/wp-content/themes/mulhern-theme",
+			"/Applications/XAMPP/xamppfiles/htdocs/dev/mulhern/wp-content/themes/mulhern-theme/lib/styles",
+			"/Applications/XAMPP/xamppfiles/htdocs/dev/mulhern/wp-content/themes/mulhern-theme/lib/plugins/acf/",
+			"/Applications/XAMPP/xamppfiles/htdocs/dev/mulhern/wp-content/themes/mulhern-theme/lib/styles",
+			"/Applications/XAMPP/xamppfiles/htdocs/dev/mulhern/wp-content/themes/mulhern-theme/",
+			"/Applications/XAMPP/xamppfiles/htdocs/c+c/wp-content/themes/wp-starter-theme/lib/styles/Applications/XAMPP/xamppfiles/htdocs/dev/mulhern/wp-content/themes/mulhern-theme/views/loop.php",
+			"/Applications/XAMPP/xamppfiles/htdocs/c+c/wp-content/themes/wp-starter-theme/lib/styles",
+			"/Applications/XAMPP/xamppfiles/htdocs/c+c/wp-content/themes/wp-starter-theme/",
+			"/Applications/XAMPP/xamppfiles/htdocs/c+c/wp-content/themes/wp-starter-theme/lib/styles",
+			"/Applications/XAMPP/xamppfiles/htdocs/nico/wp-content/themes/nico-hen/",
+			"/Applications/XAMPP/xamppfiles/htdocs/theemotionary/wp-content/themes/themotional/lib/scss/",
+			"/Applications/XAMPP/htdocs/cc",
+			"/Applications/XAMPP/htdocs/launch_now/",
+			"/Applications/XAMPP/htdocs/launch_now/wp-content/themes/",
+			"/Applications/XAMPP/htdocs/launch_now/wp-content/themes/launch_theme",
+			"/Applications/XAMPP/htdocs/newman/",
+			"/Users/rafegoldberg/Documents/Work/Smooth/repo",
+			"<open folders>",
+			"/Users/rafegoldberg/Documents/Work/Smooth/smooth_repo/",
+			"/Users/rafegoldberg/Documents/Work/Smooth/smooth_repo/app/assets,/Users/rafegoldberg/Documents/Work/Smooth/smooth_repo/app/views",
+			"",
+			"/Users/rafegoldberg/Documents/Work/Smooth/smooth_repo",
+			"<open files>",
+			"",
+			"/Users/rafegoldberg/Documents/Work/Ramsay/Site/NationBuilder/Dev Site Custom Theme/carolynramsay-529a1e8101925b037b000002/",
+			"/Users/rafegoldberg/Documents/Work/Smooth/smooth_repo/",
+			"/Users/rafegoldberg/Documents/Work/Smooth/smooth_repo",
+			"/Users/rafegoldberg/Documents/Work/Ramsay/Site/NationBuilder/Dev Site Custom Theme/carolynramsay-529a1e8101925b037b000002",
+			"/Volumes/SE- LeanTheme",
+			"/Users/rafegoldberg/Documents/Work/Ramsay/Site/NationBuilder/Dev Site Custom Theme/carolynramsay-529a1e8101925b037b000002",
+			"/Users/rafegoldberg/Documents/Work/Ramsay/Site/NationBuilder/Dev Site/Custom Theme/carolynramsay-529a1e8101925b037b000002",
+			"/Users/rafegoldberg/Documents/Work/Ramsay/Site/NationBuilder/Dev\\ Site\\ Custom\\ Theme/carolynramsay-529a1e8101925b037b000002",
+			"/Users/rafegoldberg/Documents/Work/Ramsay/NationBuilder/Dev Site Custom Theme",
+			"/Volumes/SE- LeanTheme",
+			"/Users/rafegoldberg/Sites/smooth",
+			"<current file>,<open folders>,/Users/rafegoldberg/Sites/smooth",
+			"<current file>",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"project",
+			"  ",
+			"xclude_patterns",
+			" ",
+			") ",
+			"style=\"background-color:rgb(255,255,0)\"",
+			") <",
+			"&amp;",
+			"&nbsp;",
+			") <",
+			"\n<div>",
+			"<div><br></div>",
+			"   ",
+			"        ",
+			"{}",
+			"\n",
+			"{",
+			"<div>",
+			"—",
+			"009F79",
+			"-",
+			"delimiter",
+			"root",
+			"'",
+			"=>",
+			"self",
+			"=>",
+			"root",
+			"Y",
+			"<?",
+			"partials",
+			"PHP_SELF",
+			"partials",
+			"subclass",
+			"/",
+			"'",
+			"\"",
+			"<? include \"partials",
+			"div",
+			"nav",
+			"tructure",
+			"cache",
+			"Source",
+			"source",
+			"build",
+			"uild",
+			"Build",
+			"cache",
+			":",
+			"base",
+			": ",
+			"; ",
+			" {",
+			", ",
+			" + ",
+			"{",
+			") {",
+			" \n",
+			"// ",
+			"			                     ",
+			"    ",
+			"    \"",
+			"path",
+			"                     ",
+			":",
+			"\":",
+			"\": ",
+			"  ",
+			"true",
+			"follow_symlinks",
+			"    ",
+			"\": ",
+			"wp_enqueue_style",
+			"admin",
+			"//|",
+			"lib",
+			"old",
+			"include",
+			"import",
+			"OSN",
+			"path",
+			"sublime",
+			"file_exclude_patterns",
+			"Light",
+			"sect",
+			"brand",
+			"Dark",
+			"ark",
+			"dark",
+			"onclick=\"void(0)\"",
+			"mixin",
+			"touch",
+			",",
+			":",
+			"speed",
+			",",
+			"grow",
+			"animation",
+			"offsetY",
+			"icon",
+			"link",
+			"left",
+			"975",
+			"bg",
+			"$tip_bg\n",
+			"-6px;",
+			"primary",
+			"fff",
+			"000",
+			"position",
+			"-7px",
+			"text-s",
+			"type",
+			", .",
+			".tooltipster-arrow",
+			"*/",
+			"*",
+			".tooltipster-default",
+			"icon octicon",
+			"  ",
+			"light",
+			"$sect['custom_text'] ? $sect['custom_text'] : $map['address']",
+			"{",
+			",",
+			"d-ib v-am",
+			"left",
+			"hide-not_mobile",
+			"hide-mobile"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Services",
+			"Service",
+			"service",
+			"services",
+			"Services",
+			"loop",
+			"right",
+			"ff",
+			"// Suppose you have a 'project' custom post type and you want to add the publisher\n// and project author in the edit page but remove the post author.\n\nadd_filter( 'manage_edit-project_columns', 'set_custom_edit_project_columns' );\nadd_action( 'manage_project_posts_custom_column' , 'custom_project_column', 10, 2 );\n\nfunction set_custom_edit_project_columns($columns) {\n    // unset( $columns['author'] );\n    $columns['project_area'] = __( 'Area', 'your_text_domain' );\n    // $columns['publisher'] = __( 'Publisher', 'your_text_domain' );\n    return $columns;\n}\n\nfunction custom_project_column( $column, $post_id ) {\n    switch ( $column ) {\n        case 'project_author' :\n            $terms = get_the_term_list( $post_id , 'project_author' , '' , ',' , '' );\n            if ( is_string( $terms ) )\n                echo $terms;\n            else\n                _e( 'Unable to get author(s)', 'your_text_domain' );\n            break;\n        /*case 'publisher' :\n            echo get_post_meta( $post_id , 'publisher' , true ); \n            break;*/\n        \n\n    }\n}",
+			"0",
+			"%);",
+			"$breakpoints",
+			"$push",
+			"$key_",
+			"\nrgba(black,",
+			"\n    ",
+			"com",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "styles/scss/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "scss",
+							"buffer_scroll_name": "c7064f4d",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"syntax_mgr_loaded": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/rafegoldberg/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9354,
+								9354
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "json",
+							"buffer_scroll_name": "7eb9f23c",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"syntax_mgr_loaded": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5345.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "styles/scss/app/_vars.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "scss",
+							"buffer_scroll_name": "69e65b22",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"syntax_mgr_loaded": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								858,
+								858
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "c528ef55",
+							"spell_check": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"syntax_mgr_loaded": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1286.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 678.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio-grunt.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"var",
+				"Project Root/styles/scss/app/_vars.scss"
+			],
+			[
+				"mainsc",
+				"Project Root/styles/scss/main.scss"
+			],
+			[
+				"gr",
+				"Project Root/Gruntfile.js"
+			],
+			[
+				"fo",
+				"Partials/footer.php"
+			],
+			[
+				"p/h",
+				"Partials/header.php"
+			],
+			[
+				"pos",
+				"Partials/post.php"
+			],
+			[
+				"mod",
+				"Root/module.php"
+			],
+			[
+				"roo",
+				"Root/module.php"
+			],
+			[
+				"nav",
+				"Partials/nav.php"
+			],
+			[
+				"m",
+				"source/master.css"
+			],
+			[
+				"f/o",
+				"imports/func/original.php"
+			],
+			[
+				"",
+				"scss/_acf-admin-old.scss"
+			],
+			[
+				"acf",
+				"imports/acf_admin_osn.css"
+			],
+			[
+				"acfed",
+				"|— lib/styles/admin/_acf-edit.scss"
+			],
+			[
+				"admin",
+				"|— lib/styles/admin.scss"
+			],
+			[
+				"acf/feat",
+				"|— ACF Field Groups/feature-page.json"
+			],
+			[
+				"scth",
+				"|— lib/styles/sect/_sect-heading.scss"
+			],
+			[
+				"sctps",
+				"|— lib/styles/sect/_sect-paragraph.scss"
+			],
+			[
+				"para",
+				"|— modules/sect-paragraph.php"
+			],
+			[
+				"sechp",
+				"|— modules/sect-heading.php"
+			],
+			[
+				"sectscss",
+				"|— lib/styles/sect/_sect-heading.scss"
+			],
+			[
+				"secth",
+				"|— modules/sect-heading.php"
+			],
+			[
+				"sectp",
+				"|— modules/sect-paragraph.php"
+			],
+			[
+				"heads",
+				"|— lib/styles/singles/_header.scss"
+			],
+			[
+				"head",
+				"|— partials/header.php"
+			],
+			[
+				"brand",
+				"|— lib/styles/singles/_brand.scss"
+			],
+			[
+				"asec",
+				"|— lib/styles/sect/_0A-sect.scss"
+			],
+			[
+				"cfs",
+				"|— lib/styles/singles/_CF7.scss"
+			],
+			[
+				"fc7",
+				"|— Saved/CF7-contact.php"
+			],
+			[
+				"foot",
+				"|— partials/footer.php"
+			],
+			[
+				"ppj",
+				"|— lib/scripts/app.js"
+			],
+			[
+				"pre",
+				"|— partials/pre.php"
+			],
+			[
+				"cf",
+				"|— lib/styles/singles/_CF7.scss"
+			],
+			[
+				"br",
+				"|— lib/styles/singles/_brand.scss"
+			],
+			[
+				"bran",
+				"|— lib/styles/singles/_brand.scss"
+			],
+			[
+				"atta",
+				"|— modules/post-attachments.php"
+			],
+			[
+				"tou",
+				"|— lib/styles/utils/_touched.scss"
+			],
+			[
+				"touch",
+				"|— lib/styles/utils/_touched.scss"
+			],
+			[
+				"autm",
+				"|— lib/styles/singles/_Z0-auth-mobile.scss"
+			],
+			[
+				"sty",
+				"|— lib/styles/style.scss"
+			],
+			[
+				"auth",
+				"mulhern/author.php"
+			],
+			[
+				"toosc",
+				"|— lib/styles/plugins/_tooltipster.scss"
+			],
+			[
+				"ttl",
+				"|— modules/ttl-box.php"
+			],
+			[
+				"categ",
+				"mulhern/category.php"
+			],
+			[
+				"single",
+				"mulhern/single.php"
+			],
+			[
+				"link",
+				"|— lib/styles/defaults/_links.scss"
+			],
+			[
+				"mapscss",
+				"|— lib/styles/singles/_map.scss"
+			],
+			[
+				"global",
+				"|— lib/styles/defaults/_0B-globals.scss"
+			],
+			[
+				"gridb",
+				"|— lib/styles/gridle/_0B-grid.scss"
+			],
+			[
+				"mapphp",
+				"|— modules/sect-map.php"
+			],
+			[
+				"lis",
+				"|— modules/list-pages.php"
+			],
+			[
+				"style",
+				"|— lib/styles/style.scss"
+			],
+			[
+				"attach",
+				"|— modules/post-attachments.php"
+			],
+			[
+				"file",
+				"|— ACF Field Groups/file-well.json"
+			],
+			[
+				"ttlb",
+				"|— modules/ttl-box.php"
+			],
+			[
+				"template",
+				"mulhern/template-form.php"
+			],
+			[
+				"header",
+				"|— partials/header.php"
+			],
+			[
+				"list",
+				"|— modules/list-pages.php"
+			],
+			[
+				"head.",
+				"|— partials/header.php"
+			],
+			[
+				"hx",
+				"|— lib/styles/singles/_hero-box.scss"
+			],
+			[
+				"impo",
+				"|— lib/styles/iconic/import.scss"
+			],
+			[
+				"func/too",
+				"|— lib/func/tools.php"
+			],
+			[
+				"deb",
+				"|— lib/func/debug.php"
+			],
+			[
+				"too",
+				"|— lib/func/tools.php"
+			],
+			[
+				"acfx",
+				"|— lib/func/acf-extend.php"
+			],
+			[
+				"iconlist",
+				"|— modules/sect-iconlist.php"
+			],
+			[
+				"glyph",
+				"|— lib/styles/iconic/glyphs.css"
+			],
+			[
+				"admi",
+				"|— lib/styles/admin.scss"
+			],
+			[
+				"sav/icon",
+				"|— Saved/iconic-select-propvals.acf"
+			],
+			[
+				"save/",
+				"|— Saved/_colorschemes.scss"
+			],
+			[
+				"iconic/",
+				"|— lib/styles/iconic/iconic-glyphs.scss"
+			],
+			[
+				"st",
+				"|— lib/styles/style.scss"
+			],
+			[
+				"fav",
+				"|— partials/favicon.php"
+			],
+			[
+				"grid/",
+				"|— lib/styles/gridle/_0A-settings.scss"
+			],
+			[
+				"index",
+				"mulhern/index.php"
+			],
+			[
+				"part/",
+				"|— partials/metadata.php"
+			],
+			[
+				"meta",
+				"|— ACF Field Groups/metadata-optimize.json"
+			],
+			[
+				"acfe",
+				"|— lib/func/acf-extend.php"
+			],
+			[
+				"z0",
+				"|— lib/styles/admin/_Z0-podcast-metabox.scss"
+			],
+			[
+				"z1",
+				"|— lib/styles/admin/_Z1-repeater-block-layout-tabs.scss"
+			],
+			[
+				"metadef",
+				"|— ACF Field Groups/metadata-defaults.json"
+			],
+			[
+				"func/acf",
+				"|— lib/func/acf-extend.php"
+			],
+			[
+				"sav/cre",
+				"|— Saved/creds.json"
+			],
+			[
+				"functi",
+				"mulhern2/functions.php"
+			],
+			[
+				"func/por",
+				"|— lib/func/cpt-portfolio.php"
+			],
+			[
+				"de",
+				"|— lib/func/debug.php"
+			],
+			[
+				"part/meta",
+				"|— partials/metadata.php"
+			],
+			[
+				"c4a0b5528b9a6c2ade0d96a160c54225",
+				"mulhern/.bladecache/c4a0b5528b9a6c2ade0d96a160c54225"
+			],
+			[
+				"cf177b7d0ad5da062e3f930531650bb7",
+				"mulhern/.bladecache/cf177b7d0ad5da062e3f930531650bb7"
+			],
+			[
+				"func/to",
+				"|— lib/func/tools.php"
+			],
+			[
+				"theme",
+				"|— lib/func/theme.php"
+			],
+			[
+				"field",
+				"|— lib/func/acf-fieldgroup-renamer.php"
+			],
+			[
+				"page",
+				"|— lib/func/page-parents.php"
+			],
+			[
+				"ext",
+				"|— lib/func/acf-extend.php"
+			],
+			[
+				"f/acf",
+				"|— lib/func/acf-extend.php"
+			],
+			[
+				"custom",
+				"|— lib/styles/theme/_0A-customize.scss"
+			],
+			[
+				"customize",
+				"|— lib/styles/theme/_0A-customize.scss"
+			],
+			[
+				"cus",
+				"|— ACF Field Groups/user-custom.json"
+			],
+			[
+				"conf",
+				"wp-config-sample.php"
+			],
+			[
+				"fu",
+				"mulhern/functions.php"
+			],
+			[
+				"sav",
+				"|— Saved/_colorschemes.scss"
+			],
+			[
+				"top",
+				"|— modules/top-box.php"
+			],
+			[
+				"chec",
+				"|— lib/func/checks.php"
+			],
+			[
+				"feature",
+				"|— layouts/feature.php"
+			],
+			[
+				"servi",
+				"|— lib/func/cpt-services.php"
+			],
+			[
+				"singv",
+				"mulhern/single-services.php"
+			],
+			[
+				"mod/l",
+				"|— modules/list-pages.php"
+			],
+			[
+				"headsc",
+				"|— lib/styles/singles/_header.scss"
+			],
+			[
+				"layout/",
+				"|— layouts/single.php"
+			],
+			[
+				"app",
+				"|— lib/scripts/app.js"
+			],
+			[
+				"single.php",
+				"mulhern/single.php"
+			],
+			[
+				"land",
+				"|— lib/styles/landing.scss"
+			],
+			[
+				"landin",
+				"|— layouts/landing.php"
+			],
+			[
+				"ttlx",
+				"|— lib/styles/modules/_ttl-box.scss"
+			],
+			[
+				"sectfscs",
+				"|— lib/styles/sect/_sect-form.scss"
+			],
+			[
+				"type",
+				"|— lib/styles/utils/_typeset.scss"
+			],
+			[
+				"controscs",
+				"|— lib/styles/utils/_controls.scss"
+			],
+			[
+				"formsc",
+				"|— lib/styles/singles/_form.scss"
+			],
+			[
+				"cfscss",
+				"|— lib/styles/singles/_CF7.scss"
+			],
+			[
+				"mast",
+				"|— layouts/master.php"
+			],
+			[
+				"hxs",
+				"|— lib/styles/singles/_hero-box.scss"
+			],
+			[
+				"orgi",
+				"|— Saved/_header-original.scss"
+			],
+			[
+				"save/nav",
+				"|— Saved/navmenu-functionality.js"
+			],
+			[
+				"herx",
+				"|— lib/styles/singles/_hero-box.scss"
+			],
+			[
+				"octi",
+				"|— lib/styles/singles/_octicon.scss"
+			],
+			[
+				"stret",
+				"|— lib/styles/modules/_stretch-list.scss"
+			],
+			[
+				"prof",
+				"|— modules/profpic.php"
+			],
+			[
+				"tr",
+				"lib/bower_components/jquery/src/traversing.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/private/var/folders/j_/9jnw6lds53jdh9w4m7m6bc4r0000gn/T/ca744634-428a-49a9-8450-014e7d2525ea/www/clients/cup-and-compass/cac.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 363.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
