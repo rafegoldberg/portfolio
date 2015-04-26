@@ -1,0 +1,13 @@
+Title: LA River Corp.
+
+----
+
+Year: 2015
+
+----
+
+Text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis nisi, adipisci dicta consectetur nemo illo earum odio possimus necessitatibus natus quos perferendis quidem tempore, eligendi, iusto numquam dolore fuga eum.
+
+----
+
+Tags: print,web

@@ -1,4 +1,4 @@
-Title: Rafe
+Title: The Works
 
 ----
 
@@ -6,15 +6,11 @@ Author: Rafe Goldberg
 
 ----
 
-Description: 
-
-We're a new, Brooklyn-based creative agency with a keen eye for the web. From plotting digital brand strategy to the actual development and design, we've worked with some awesome clients to deliver tailored brand identities and web solutions that leverage their unique strengths.
-
-We don't think of our job as just building websites. To us, creating a compelling online experience is a high art. Because a great site is more than the sum of the HTML or whathaveyou. It's about crafting your unique voice. And amplifying it.
+Description: Portfolio of Rafe Goldberg
 
 ----
 
-Keywords: development,design,web,frontend,seo,digital strategy,graphics,branding,identity,HTML,CSS,SASS,Javscript,PHP,Wordpress,Django
+Keywords: web,design,development,brand,logos,graphics,print,business cards,corporate identity,website,html,css,wordpress,seo,responsive
 
 ----
 

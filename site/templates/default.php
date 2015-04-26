@@ -1,15 +1,14 @@
 <? snippet('top') ?>
-
-	<header>
-		<? snippet('menu') ?> 
-	</header>
+<? snippet('header'); ?>
 
   <main role="main">
 
-    <?=$page->text()->kirbytext() ?>
+    <h1><?= $page->title()->html() ?></h1>
+    <section>
+    	<?= $page->text()->kirbytext() ?>
+	</section>
 
   </main>
 
-	<? snippet('footer') ?>
-
+<? snippet('footer') ?>
 <? snippet('bottom') ?>

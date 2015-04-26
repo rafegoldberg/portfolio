@@ -1,0 +1,45 @@
+Title: Building Blocks of a Brand
+
+----
+
+Tags: business cards,print,graphics,logo
+
+----
+
+Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Category: branding
+
+----
+
+Start-date: 2014-12-01
+
+----
+
+End-date: 2015-01-01
+
+----
+
+Client: Wilshire Skyline
+
+----
+
+Link-1: https://dribbble.com/rgd2/projects/211595-Wilshire-Skyline
+
+----
+
+Link-2: 
+
+----
+
+Featured-image: 
+
+----
+
+Addresses: 
+
+- 
+  image: shapes-by-numbers.png
+  span: 10

@@ -3,11 +3,13 @@
 username: rafegoldberg
 email: rafegoldberg@gmail.com
 password: >
-  $2a$10$M5BhBIG9eZRQR3cE76J/Q.mENPZ29dA.l08dXSlyzDNwA2Uopy6FW
+  $2a$10$2uQFoPKLAh5MLEtSK7yqBe8NcOAPKvxmkixrSdtb5vCOY8XgttQ.C
 language: en
 role: admin
-token: a0f235ec326ab6c7f966cea674355f2697795a6f
+token: 02d1f87bb4db40641b949657638558667bd416f8
 history:
-  - works
-  - home
-  - null
+  - projects/project-b
+  - projects/wilshire-skyline
+  - projects
+  - projects/the-new-york-times
+  - projects/larrc

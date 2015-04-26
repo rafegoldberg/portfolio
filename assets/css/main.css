@@ -6019,5 +6019,39 @@ html.ipad-landscape .clear-each-ipad-landscape-12 > *:nth-child(12n+1) {
     background-color: #b2d8ee;
   }
 }
+.grid {
+  margin: 0 auto;
+  max-width: 60em;
+  position: relative;
+  z-index: 9999;
+}
+html.default .grid {
+  position: relative;
+  z-index: 9999;
+}
+html.default .grid:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100% !important;
+  background: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.01) 50%, rgba(0, 0, 0, 0.04) 50%);
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.01) 50%, rgba(0, 0, 0, 0.04) 50%);
+  /* Standard syntax */
+  background-size: 16.66667% 100%;
+}
+.grid:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100% !important;
+  background: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.01) 50%, rgba(0, 0, 0, 0.04) 50%);
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.01) 50%, rgba(0, 0, 0, 0.04) 50%);
+  /* Standard syntax */
+  background-size: 16.66667% 100%;
+}
 
 /*# sourceMappingURL=main.css.map */

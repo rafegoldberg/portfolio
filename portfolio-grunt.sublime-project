@@ -4,15 +4,59 @@
 		{
 			"file_exclude_patterns":
 			[
-				"*sublime*"
+				"*sublime*",
+				"*.map"
 			],
 			"folder_exclude_patterns":
 			[
 				".*",
+				"kirby",
+				"panel",
+				"site",
+				"thumbs",
+				"assets",
 				"node_modules"
 			],
-			"name": "Project Root",
+			"name": "root",
 			"path": "."
+		},
+		{
+			"name": "├─ site",
+			"path": "site"
+		},
+		{
+			"name": "│├─ blueprints",
+			"path": "site/blueprints"
+		},
+		{
+			"name": "│├─ snippets",
+			"path": "site/snippets"
+		},
+		{
+			"name": "│└─ templates",
+			"path": "site/templates"
+		},
+		{
+			"file_exclude_patterns": [],
+			"folder_exclude_patterns": [
+				"assets/css",
+				"assets/scss",
+				"assets/scripts",
+			],
+			"name": "├─ assets",
+			"path": "assets"
+		},
+		{
+			"file_exclude_patterns": [
+				"**/gridle/*",
+			],
+			"folder_exclude_patterns": [],
+			"name": "│├─ scss",
+			"path": "assets/scss"
+		},
+		{
+			"name": "│└─ scripts",
+			"path": "assets/scripts"
 		},
 		{
 			"file_exclude_patterns":
@@ -23,7 +67,7 @@
 			[
 				"node_modules/*/*"
 			],
-			"name": "Installed Modules",
+			"name": "└─ nodes",
 			"path": "node_modules"
 		}
 	]

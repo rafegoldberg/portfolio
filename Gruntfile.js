@@ -46,13 +46,14 @@ module.exports = function(grunt) {
 			},
 			default: {
 				files: ['assets/scripts/*.js','assets/scss/**/*.scss'],
-				tasks: ['clean','uglify','sass','autoprefixer'],
+				tasks: ['newer:clean','newer:uglify','newer:sass','newer:autoprefixer'],
 			}
 		}
 	});
 
 	// LOAD PLUGINS
 	// 
+	grunt.loadNpmTasks('grunt-newer');
 	grunt.loadNpmTasks('grunt-contrib-clean');
 	grunt.loadNpmTasks('grunt-contrib-uglify');
 	grunt.loadNpmTasks('grunt-contrib-sass');
@@ -61,7 +62,7 @@ module.exports = function(grunt) {
 
 	// TASK SETUP
 	// 
-	grunt.registerTask('default', []);
+	grunt.registerTask('default', ['clean','uglify','sass','autoprefixer']);
 	grunt.registerTask('dev', ['watch']);
 
 };
