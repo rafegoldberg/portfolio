@@ -1,5 +1,12 @@
 html {
 	font-size: 15px;
+	&, body {
+		margin: 0;
+		height: 0;
+		position: relative;
+		display: block;
+		width: 100%;
+	}
 	body {
 		font-size: 100%;
 		font-family: ff-sans();

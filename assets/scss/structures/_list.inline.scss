@@ -3,5 +3,5 @@
 	@include list('--item') {
 		display: inline-block;
 	}
-	@include link('');
+	@extend .soft--links !optional;
 }

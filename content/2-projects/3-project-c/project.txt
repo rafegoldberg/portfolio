@@ -1,4 +1,4 @@
-Title: Fashionable Ecommerce
+Title: In Style
 
 ----
 
@@ -14,7 +14,7 @@ Client: DOTBK
 
 ----
 
-Category: web
+Category: Web
 
 ----
 

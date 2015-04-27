@@ -6022,6 +6022,13 @@ html.ipad-landscape .clear-each-ipad-landscape-12 > *:nth-child(12n+1) {
 html {
   font-size: 15px;
 }
+html, html body {
+  margin: 0;
+  height: 0;
+  position: relative;
+  display: block;
+  width: 100%;
+}
 html body {
   font-size: 100%;
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
@@ -6042,11 +6049,11 @@ img {
   max-width: 100%;
 }
 
-.link, .soft--links a {
+.link, .soft--links a, .list_inline a {
   text-decoration: none;
 }
 
-.soft--links a {
+.soft--links a, .list_inline a {
   color: inherit;
 }
 
@@ -6059,9 +6066,6 @@ img {
 
 .list_inline .list--item {
   display: inline-block;
-}
-.list_inline .link, .list_inline .soft--links a, .soft--links .list_inline a {
-  text-decoration: none;
 }
 
 .list_sep-space .list--item:after {
@@ -6108,6 +6112,24 @@ img {
 }
 .slider .slide--wrap {
   padding: 0;
+  margin: 0;
+}
+
+.slider_fullscreen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+.slider_fullscreen .slide--wrap {
+  height: 100vh !important;
+}
+.slider_fullscreen .slide {
+  position: relative;
+  top: 50vh;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
 }
 
 /*# sourceMappingURL=main.css.map */

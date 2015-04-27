@@ -10,7 +10,7 @@ Tags: information graphic,user interface,journalism,maps,touch
 
 ----
 
-Category: web
+Category: Web
 
 ----
 
@@ -19,10 +19,6 @@ Start-date: 2012-06-01
 ----
 
 End-date: 2012-08-01
-
-----
-
-Image: 
 
 ----
 
@@ -35,3 +31,7 @@ Link-1: http://www.nytimes.com/interactive/2012/07/30/sports/olympics/passing-th
 ----
 
 Link-2: http://london2012.nytimes.com/beach-volleyball/mens#playoffs
+
+----
+
+Featured-image: 

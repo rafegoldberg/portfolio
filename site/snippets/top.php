@@ -13,4 +13,4 @@
   <?= css('assets/css/main.css') ?>
 
 </head>
-<body class="grid parent vertical-align-middle">
+<body>

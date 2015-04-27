@@ -14,7 +14,7 @@ Client: the LARRC
 
 ----
 
-Category: web
+Category: Graphics
 
 ----
 

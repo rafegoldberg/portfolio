@@ -10,7 +10,7 @@ Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo l
 
 ----
 
-Category: branding
+Category: Branding
 
 ----
 

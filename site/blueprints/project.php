@@ -35,9 +35,9 @@ fields:
 		type: select
 		default: web
 		options:
-			web: Web / Digital
-			branding: Branding / Identity
-			graphics: Print / Graphics
+			Web: Web / Digital
+			Branding: Branding / Identity
+			Graphics: Print / Graphics
 		width: 1/4
 	tags:
 		label: Tags
