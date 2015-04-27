@@ -1,8 +1,4 @@
-Title: LA River Corp.
-
-----
-
-Year: 2015
+Title: Consider the River
 
 ----
 
@@ -11,3 +7,31 @@ Text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis nisi,
 ----
 
 Tags: print,web
+
+----
+
+Client: the LARRC
+
+----
+
+Category: web
+
+----
+
+Link-1: 
+
+----
+
+Link-2: 
+
+----
+
+Start-date: 
+
+----
+
+End-date: 
+
+----
+
+Featured-image: 

@@ -1,0 +1,9 @@
+@mixin header($class:false) {
+	@if $class {
+		.header#{$class} { @content; }
+	} @else {
+		.header {
+			padding: 1em 0 !important;
+		}
+	}
+}

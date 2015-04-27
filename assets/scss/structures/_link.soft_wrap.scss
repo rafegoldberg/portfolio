@@ -1,0 +1,7 @@
+@include link(wrap,soft) {
+	a {
+		@include link(&) {
+			color: inherit;
+		}
+	}
+}

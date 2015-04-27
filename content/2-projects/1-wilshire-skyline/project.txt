@@ -1,4 +1,4 @@
-Title: Building Blocks of a Brand
+Title: Brand, New
 
 ----
 
@@ -34,12 +34,4 @@ Link-2:
 
 ----
 
-Featured-image: 
-
-----
-
-Addresses: 
-
-- 
-  image: shapes-by-numbers.png
-  span: 10
+Featured-image: shapes-by-numbers.png

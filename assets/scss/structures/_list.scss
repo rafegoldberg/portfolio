@@ -1,0 +1,12 @@
+@mixin list($class:false) {
+	@if $class {
+		.list#{$class} { @content; }
+	} @else {
+		.list {
+			padding: 0;
+			.list--item { display: block; }
+		}
+	}
+}
+
+@include list;

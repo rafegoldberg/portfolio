@@ -1,0 +1,19 @@
+@mixin link($is:false,$class:false) {
+	@if $is==& {
+		& {
+			@extend .link !optional;
+			@content;
+		}
+	} @else if $is==wrap {
+		.#{$class}--links { @content; }
+	} @else if $class {
+		.link#{$class} { @content; }
+	} @else {
+		.link {
+			text-decoration: none;
+			@content;
+		}
+	}
+}
+
+@include link;

@@ -35,6 +35,5 @@
 // Max size :
 .grid {
 	margin:0 auto;
-	max-width:60em;
-	@include gridle_grid_background();
+	// max-width:60rem;
 }

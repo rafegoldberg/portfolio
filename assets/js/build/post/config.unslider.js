@@ -1,0 +1,1 @@
+var x=$(".slider").unslider({speed:500,delay:3e3,keys:true,dots:false,fluid:true,items:">.slide--wrap",item:">.slide",complete:function(){}});

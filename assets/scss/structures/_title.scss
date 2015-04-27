@@ -1,0 +1,28 @@
+@mixin title($is:false,$class:false) {
+	@if $is == wrap {
+		.#{$class}--titles {
+			@content;
+		}
+	} @else if $is == & {
+		& {
+			@extend .title !optional;
+		}
+	} @else if $class {
+		.title#{$class} {
+			@content;
+		}
+	} @else {
+		.title {
+			margin: 0;
+			font-size: 1.5em;
+			line-height: 1.5;
+			@content;
+		}
+	}	
+}
+
+@include title;
+
+h1, h2, h3, h4, h5, h6 {
+	@include title(&);
+}

@@ -2,12 +2,36 @@ Title: MindShifting
 
 ----
 
-Year: 
-
-----
-
 Text: 
 
 ----
 
 Tags: 
+
+----
+
+Client: Deborah Mulhern
+
+----
+
+Category: web
+
+----
+
+Link-1: 
+
+----
+
+Link-2: 
+
+----
+
+Start-date: 
+
+----
+
+End-date: 
+
+----
+
+Featured-image: 

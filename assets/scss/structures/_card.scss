@@ -1,0 +1,20 @@
+@mixin card($is:false,$class:false) {
+	@if $is==& {
+		& {
+			@extend .card !optional;
+			@content;
+		}
+	} @else if $is==wrap {
+		.#{$class}--cards { @content; }
+	} @else if $class {
+		.card#{$class} { @content; }
+	} @else {
+		.card {
+			@content;
+		}
+	}
+}
+
+@include card {
+	padding: 3rem;
+}

@@ -1,0 +1,26 @@
+// $(document).ready(function() {
+// 	default_selector = '.slider';
+// 	if (default_selector) {
+		var x = $('.slider').unslider({
+			   speed: 500,             // The speed to animate each slide (in milliseconds)
+			   delay: 3000,            // The delay between slide animations (in milliseconds)
+			    keys: true,            // Enable keyboard (left, right) arrow shortcuts
+			    dots: false,           // Display dot navigation
+			   fluid: true,            // Support responsive design. May break non-responsive designs
+	   		   items: '>.slide--wrap', // Slide wrapper selector 
+			    item: '>.slide',       // Each slide selector
+			complete: function(){},    // A function that gets called after every slide animation
+		});
+// 	}
+// });
+
+//
+// DEFAULT HTML IMPLEMENTATION
+//
+// 1| <div class="banner">
+// 2|     <ul>
+// 3|         <li>This is a slide.</li>
+// 4|         <li>This is another slide.</li>
+// 5|         <li>This is a final slide.</li>
+// 6|     </ul>
+// 7| </div>

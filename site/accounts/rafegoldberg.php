@@ -8,8 +8,8 @@ language: en
 role: admin
 token: 02d1f87bb4db40641b949657638558667bd416f8
 history:
-  - projects/project-b
+  - home
+  - null
   - projects/wilshire-skyline
-  - projects
-  - projects/the-new-york-times
+  - projects/project-c
   - projects/larrc

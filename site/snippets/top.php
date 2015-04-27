@@ -6,10 +6,11 @@
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
   <title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
+  
   <meta name="description" content="<?= $site->description()->html() ?>">
   <meta name="keywords" content="<?= $site->keywords()->html() ?>">
 
   <?= css('assets/css/main.css') ?>
 
 </head>
-<body>
+<body class="grid parent vertical-align-middle">

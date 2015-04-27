@@ -1,4 +1,6 @@
 <header role="banner">
-	<a href="<?=url()?>"><?= $site->title()->html() ?></a>
-	<? snippet('menu') ?>
+	<small><?= $site->author() ?></small>
+	<h1>
+		<a href="<?=url()?>"><?= $site->title()->html() ?></a>
+	</h1>
 </header>

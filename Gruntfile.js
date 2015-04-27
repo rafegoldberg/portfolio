@@ -4,19 +4,39 @@ module.exports = function(grunt) {
 	// 
 	grunt.initConfig({
 		pkg: grunt.file.readJSON('package.json'),
-		clean: ['assets/css','assets/scripts/min'],
+		clean: ['assets/css','assets/js/build'],
 		uglify: {
+			options: {
+				mangle: false,
+				compress: false,
+				beautify: false,
+			},
 			default: {
 				files: [{
 					expand: true,
-					cwd: 'assets/scripts',
+					cwd: 'assets/js',
 					src: '**/*.js',
-					dest: 'assets/scripts/min'
+					dest: 'assets/js/build'
 				}]
 			}
 		},
+		concat: {
+			options: {
+				separator: '',
+			},
+			dev: {
+				src: [
+					'assets/js/build/modernizr.js',
+					'assets/js/build/jquery.js',
+					'assets/js/build/pre/*.js',
+					'assets/js/build/main.js',
+					'assets/js/build/post/*.js',
+				],
+				dest: 'assets/js/build/main.js',
+			},
+		},
 		sass: {
-			dist: {
+			dev: {
 				options: {
 					style: 'expanded'
 				},
@@ -44,9 +64,13 @@ module.exports = function(grunt) {
 			options: {
 				livereload: true,
 			},
-			default: {
-				files: ['assets/scripts/*.js','assets/scss/**/*.scss'],
-				tasks: ['newer:clean','newer:uglify','newer:sass','newer:autoprefixer'],
+			js_first: {
+				files: ['assets/js/**/*.js','!assets/js/build/**/*.js','assets/scss/**/*.scss'],
+				tasks: ['newer:clean','newer:uglify','concat:dev','newer:sass:dev','newer:autoprefixer'],
+			},
+			css_first: {
+				files: ['assets/js/**/*.js','!assets/js/build/**/*.js','assets/scss/**/*.scss'],
+				tasks: ['newer:clean','newer:sass:dev','newer:autoprefixer','newer:uglify','concat:dev'],
 			}
 		}
 	});
@@ -59,10 +83,11 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-contrib-sass');
 	grunt.loadNpmTasks('grunt-autoprefixer');
 	grunt.loadNpmTasks('grunt-contrib-watch');
+	grunt.loadNpmTasks('grunt-contrib-concat');
 
 	// TASK SETUP
 	// 
-	grunt.registerTask('default', ['clean','uglify','sass','autoprefixer']);
+	grunt.registerTask('default', ['clean','uglify','concat','sass:dev','autoprefixer']);
 	grunt.registerTask('dev', ['watch']);
 
 };

@@ -21,6 +21,11 @@
 			"path": "."
 		},
 		{
+			"folder_exclude_patterns": [
+				"templates",
+				"snippets",
+				"blueprints",
+			],
 			"name": "├─ site",
 			"path": "site"
 		},
@@ -41,7 +46,7 @@
 			"folder_exclude_patterns": [
 				"assets/css",
 				"assets/scss",
-				"assets/scripts",
+				"assets/js",
 			],
 			"name": "├─ assets",
 			"path": "assets"
@@ -55,8 +60,12 @@
 			"path": "assets/scss"
 		},
 		{
-			"name": "│└─ scripts",
-			"path": "assets/scripts"
+			"file_exclude_patterns": [
+				"**/build/pre/*",
+				"**/build/post/*",
+			],
+			"name": "│└─ js",
+			"path": "assets/js"
 		},
 		{
 			"file_exclude_patterns":
