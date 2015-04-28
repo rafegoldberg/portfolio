@@ -16,18 +16,25 @@ files:
 			label: Caption
 			type: textarea
 fields:
-	title:
-		label: Project Title
+	project:
+		label: Title
 		type:  text
-		width: 1/2
+		placeholder: Project Title
 		icon: folder-open
-	client:
+	text:
+		label: Project Description
+		type:  textarea
+	_line6:
+		type: line
+	title:
 		label: Client
 		type:  text
 		width: 1/2
 		icon: user
-	text:
-		type:  textarea
+	sidebar:
+		label: Sidebar Snippet
+		type: textarea
+		width: 1/2
 	_line5:
 		type: line
 	category:
@@ -92,7 +99,7 @@ fields:
 			Choose a featured image for this project.
 
 		width: 1/2
-	featured_image:
+	bgi:
 		label: &nbsp;
 		type: select
 		icon: picture-o

@@ -1,4 +1,4 @@
-Title: Brand, New
+Title: Wilshire Skyline
 
 ----
 
@@ -22,10 +22,6 @@ End-date: 2015-01-01
 
 ----
 
-Client: Wilshire Skyline
-
-----
-
 Link-1: https://dribbble.com/rgd2/projects/211595-Wilshire-Skyline
 
 ----
@@ -34,4 +30,8 @@ Link-2:
 
 ----
 
-Featured-image: shapes-by-numbers.png
+Project: Brand, New
+
+----
+
+Bgi: wilshire-skyline.png

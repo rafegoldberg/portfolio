@@ -1,0 +1,7 @@
+@mixin block-legible {
+	max-width: 45em;
+	line-height: 1.75;
+	text-align: left;
+}
+
+.legible-block { @include block-legible; }

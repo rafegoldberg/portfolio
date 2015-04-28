@@ -1,16 +1,14 @@
-<? snippet('top') ?>
-<? snippet('header') ?>
+<? snippet('top',array(
+	'body' => 'grid parent grid-12',
+)) ?>
 
-  <main class="main" role="main">
-  
-    <div class="text">
-      <h1><?= $page->title()->html() ?></h1>
-      <?= $page->text()->kirbytext() ?>
-    </div>
-    
-    <? snippet('projects') ?>
-  
-  </main>
+	<? snippet('sidebar',array('grid'=>3)) ?>
+	<main class="grid-9 parent clearfix">
+		<section class="slider">
+			<? snippet('project-slider',array(
+				'items'  => 'card',
+			)) ?>
+		</section>
+	</main>
 
-<? snippet('footer') ?>
 <? snippet('bottom') ?>

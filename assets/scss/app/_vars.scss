@@ -1,3 +1,50 @@
+
+////////////////////////////////////
+// COLORS                         //
+////////////////////////////////////
+
+$c: (
+	matte:#FDFDFD,
+	stroke:#DDD
+	);
+
+@function c($name) {
+	@return map-get($c,$name);
+}
+
+////////////////////////////////////
+// DIMENSIONS & SIZES             //
+////////////////////////////////////
+
+$z: (
+	rhythm: 16,
+	);
+@function z($name) {
+	@return map-get($z,$name);
+}
+
+$d: (
+	front:   5,
+	middle:  3,
+	back:    1,
+	behind: -1,
+	-1:-1,
+	 0: 0,
+	 1: 1,
+	 2: 2,
+	 3: 3,
+	 4: 4,
+	 5: 5,
+	 6: 6,
+	);
+@function d($name) {
+	@return map-get($d,$name);
+}
+
+////////////////////////////////////
+// FONTS                          //
+////////////////////////////////////
+
 @function ff-sans() {
 	@return #{"Helvetica Neue, Helvetica, Arial, sans-serif"};
 }

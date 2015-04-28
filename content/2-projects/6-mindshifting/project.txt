@@ -1,4 +1,4 @@
-Title: MindShifting
+Title: Deborah Mulhern
 
 ----
 
@@ -7,10 +7,6 @@ Text:
 ----
 
 Tags: 
-
-----
-
-Client: Deborah Mulhern
 
 ----
 
@@ -35,3 +31,7 @@ End-date:
 ----
 
 Featured-image: 
+
+----
+
+Project: MindShifting

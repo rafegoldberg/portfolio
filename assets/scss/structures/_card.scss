@@ -10,11 +10,28 @@
 		.card#{$class} { @content; }
 	} @else {
 		.card {
+			padding: 2rem;
+			&, &:before, &:after {
+				background-size: cover;
+				background-repeat: no-repeat;
+				background-position: center;
+			}
 			@content;
+			box-sizing: border-box;
 		}
 	}
 }
 
 @include card {
-	padding: 3rem;
+	&_big {
+		@include card(&) {
+			padding: 4em;
+			@include gridle_state( tablet mobile ) {
+				padding: 3rem 1.5rem;
+			}
+			@include gridle_state( mobile ) {
+				text-align: center;
+			}
+		}
+	}
 }

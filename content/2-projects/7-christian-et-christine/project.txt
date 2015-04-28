@@ -1,8 +1,4 @@
-Title: «Christian et Christine»
-
-----
-
-Client: Justian Chiao
+Title: Justin Chiao
 
 ----
 
@@ -35,3 +31,7 @@ End-date: 2013-02-01
 ----
 
 Featured-image: 
+
+----
+
+Project: «Christian et Christine»

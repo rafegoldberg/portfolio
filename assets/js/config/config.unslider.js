@@ -1,6 +1,6 @@
-// $(document).ready(function() {
-// 	default_selector = '.slider';
-// 	if (default_selector) {
+$(document).ready(function() {
+	default_selector = '.slider';
+	if (default_selector) {
 		var x = $('.slider').unslider({
 			   speed: 500,             // The speed to animate each slide (in milliseconds)
 			   delay: 3000,            // The delay between slide animations (in milliseconds)
@@ -11,8 +11,11 @@
 			    item: '>.slide',       // Each slide selector
 			complete: function(){},    // A function that gets called after every slide animation
 		});
-// 	}
-// });
+	}
+	setTimeout(function(){
+		$(document).trigger('resize');
+	},300);
+});
 
 //
 // DEFAULT HTML IMPLEMENTATION

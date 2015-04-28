@@ -1,0 +1,63 @@
+#sidebar {
+	$sidebar-grid: (
+		grid: 3,
+		tablet: ( grid:  5 ),
+		mobile: ( grid: 12 )
+	);
+	@include gridle_set(map-merge($sidebar-grid,(parent:true)));
+	@include block-overflow(vertical) {
+		@include gridle_state( desktop tablet ) {
+			height: 96vh;
+			z-index: d(front);
+			position: fixed;
+			top: 2vh;
+			left: 2vh;
+		}
+	};
+	position: relative;
+	background: c(matte);
+	box-sizing: border-box;
+	@include gridle_state( mobile ) {
+	 	padding: 0 !important;
+	}
+
+	header ,
+	footer {
+		@include gridle_state( desktop tablet ) {
+			position: fixed;
+			left: 0;
+			margin: 2vh;
+			background-color: rgba(c(matte),.9);
+		}
+		@include gridle_set($sidebar-grid,desktop tablet);
+	}
+	header { top: 0;
+			 @include gridle_state ( desktop tablet ) {
+			     border-bottom: 1px solid c(stroke);
+			 }
+	       }
+	footer { bottom: 0;
+			 @include gridle_state ( desktop tablet ) {
+		         border-top: 1px solid c(stroke);
+			 }
+	       }
+
+	article {
+		margin: 1em 0;
+		@include gridle_gutter(left right);
+	}
+
+	+ main {
+		@include gridle_set((
+			grid: 9,
+			parent: true,
+			tablet: (
+				grid: 7
+			),
+			mobile: (
+				grid: 12
+			)
+		));
+	}
+
+}

@@ -6,10 +6,10 @@ password: >
   $2a$10$2uQFoPKLAh5MLEtSK7yqBe8NcOAPKvxmkixrSdtb5vCOY8XgttQ.C
 language: en
 role: admin
-token: 02d1f87bb4db40641b949657638558667bd416f8
+token: c5e51d1e86b7575c683006feade12eb54b14f6f7
 history:
-  - projects/christian-et-christine
-  - projects/mindshifting
-  - projects/the-new-york-times
   - projects/larrc
+  - projects/project-c
   - projects/wilshire-skyline
+  - home
+  - projects

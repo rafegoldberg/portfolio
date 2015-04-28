@@ -17,7 +17,7 @@
 				"assets",
 				"node_modules"
 			],
-			"name": "root",
+			"name": "/",
 			"path": "."
 		},
 		{
@@ -26,19 +26,19 @@
 				"snippets",
 				"blueprints",
 			],
-			"name": "├─ site",
+			"name": "site",
 			"path": "site"
 		},
 		{
-			"name": "│├─ blueprints",
+			"name": "│ blueprints",
 			"path": "site/blueprints"
 		},
 		{
-			"name": "│├─ snippets",
+			"name": "│ snippets",
 			"path": "site/snippets"
 		},
 		{
-			"name": "│└─ templates",
+			"name": "└ templates",
 			"path": "site/templates"
 		},
 		{
@@ -48,7 +48,7 @@
 				"assets/scss",
 				"assets/js",
 			],
-			"name": "├─ assets",
+			"name": "assets",
 			"path": "assets"
 		},
 		{
@@ -56,7 +56,7 @@
 				"**/gridle/*",
 			],
 			"folder_exclude_patterns": [],
-			"name": "│├─ scss",
+			"name": "│ scss",
 			"path": "assets/scss"
 		},
 		{
@@ -64,7 +64,7 @@
 				"**/build/pre/*",
 				"**/build/post/*",
 			],
-			"name": "│└─ js",
+			"name": "└ js",
 			"path": "assets/js"
 		},
 		{
@@ -76,7 +76,7 @@
 			[
 				"node_modules/*/*"
 			],
-			"name": "└─ nodes",
+			"name": "nodes",
 			"path": "node_modules"
 		}
 	]

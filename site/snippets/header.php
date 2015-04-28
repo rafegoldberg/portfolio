@@ -1,6 +1,6 @@
-<header role="banner">
-	<small><?= $site->author() ?></small>
-	<h1>
-		<a href="<?=url()?>"><?= $site->title()->html() ?></a>
-	</h1>
+<header id="header" class="gutter-top" role="banner">
+	<? snippet('site-brand') ?>
+	<nav role="navigation">
+		<? snippet('menu',array('layout'=>'list_sep-slash')) ?>
+	</nav>
 </header>

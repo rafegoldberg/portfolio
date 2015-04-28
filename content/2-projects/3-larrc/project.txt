@@ -1,4 +1,4 @@
-Title: Consider the River
+Title: LA River Corp.
 
 ----
 
@@ -7,10 +7,6 @@ Text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis nisi,
 ----
 
 Tags: print,web
-
-----
-
-Client: the LARRC
 
 ----
 
@@ -34,4 +30,8 @@ End-date:
 
 ----
 
-Featured-image: 
+Project: Consider the River
+
+----
+
+Bgi: larrc.png

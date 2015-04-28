@@ -1,4 +1,4 @@
-Title: Olympic Infographics
+Title: The New York Times
 
 ----
 
@@ -22,10 +22,6 @@ End-date: 2012-08-01
 
 ----
 
-Client: The New York Times
-
-----
-
 Link-1: http://www.nytimes.com/interactive/2012/07/30/sports/olympics/passing-the-torch-an-evolution-of-form.html
 
 ----
@@ -35,3 +31,7 @@ Link-2: http://london2012.nytimes.com/beach-volleyball/mens#playoffs
 ----
 
 Featured-image: 
+
+----
+
+Project: Olympic Infographics

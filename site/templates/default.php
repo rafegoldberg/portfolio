@@ -1,14 +1,12 @@
-<? snippet('top') ?>
-<? snippet('header'); ?>
+<? snippet('top',array(
+	'body' => 'grid parent grid-12',
+)) ?>
 
-  <main role="main">
+	<? snippet('sidebar',array('grid'=>3)) ?>
+	<main class="grid-9 parent clearfix">
+		<section class="cms-text">
+			<?= $page->text()->kirbytext() ?>
+		</section>
+	</main>
 
-    <h1><?= $page->title()->html() ?></h1>
-    <section>
-    	<?= $page->text()->kirbytext() ?>
-	</section>
-
-  </main>
-
-<? snippet('footer') ?>
 <? snippet('bottom') ?>

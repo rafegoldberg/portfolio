@@ -1,0 +1,177 @@
+/*///////////////////////////////
+// CONFIG                      //
+///////////////////////////////*/
+/**
+ * Str replace
+ *
+ * @param {string}  $string    String that you want to replace
+ * @param {string}  $substr    String that is to be replaced by `$newsubstr`
+ * @param {string}  $newsubstr String that replaces `$substr`
+ * @param {number*} $all       Flag for replaceing all (1+) or not (0)
+ * @return {string}
+ */
+/**
+ * Map set
+ *
+ * @param 	Map 	$map 		The map to use
+ * @param 	String 	$key 		The key to update
+ * @param 	Mixed 	$value 		The new value
+ * @return 	Map 			The new map
+ */
+/**
+ * Get the column width in percent for the global or a specific context
+ *
+ * @param 	int 		$columns 					The number of columns to calculate
+ * @param 	int 		$context : $gridle-columns-count 	 	The context to use
+ * @return 	percentage 							The width in percent
+ */
+/**
+ *  Get a state map
+ *
+ * @param 	string 		$name 		The name of the state to get
+ * @return 	map 				A state map object
+ */
+/**
+ * Check if a state exist :
+ *
+ * @param 	string 		$name 		The name of the state to check
+ * @return 	Boolean 			true is exist
+ */
+/**
+ * Get the media queries variables :
+ *
+ * @param 	int 		$index 	 	The media query indes
+ * @param 	String 		$var 		The media query variable name
+ * @return 	String|int 			The variable value
+ */
+/**
+ * Get a variable
+ *
+ * @param 	String 		$varName 				The variable name
+ * @param  	String 		$stateMap-or-stateName 	 	The state name or a map state value
+ * @return 	Mixed 							The finded value
+ */
+/**
+ * Set a variable in a state
+ * @param 	Mixed $stateName-or-stateIndex 	The state name of state index
+ * @param  	String $var                    		Variable name to assign
+ * @param  	Mixed $newValue          		The new value to assign
+ * @return 	List                         			The states list (full)
+ */
+/**
+ * Generate a column
+ *
+ * @param 	String 		$name 			The column name (often count)
+ * @param 	int 		$columns 		The column count that the column will take
+ * @param 	int 		$context 		The context on witch the with will be calculed
+ * @param 	Boolean 	$generateClasses 	Set if the column has to be generated in css
+ */
+/**
+ * Generate classname
+ *
+ * @param 	List 		$parrern 	The pattern to use to generate classname
+ * @param 	String 		$state 		The state
+ * @param 	int 		$count 		The column count
+ */
+/**
+ * Get the media query for a particular state, or with, etc...
+ *
+ * @param 	Mixed 		$state-or-min-width 		The state name of the min with
+ * @param 	Mixed 		$max-width 			The max width if first param is a min width
+ * @return 	String 						The media query string without the @media
+ */
+/**
+ * Get states count
+ * 
+ * @return 	int 	The number of states defined
+ */
+/**
+ * Setup
+ */
+/**
+ *  Register a clear each class
+ */
+/**
+ * Register a special class
+ */
+/**
+ * Register default states
+ */
+/**
+ * Register default mobile first states :
+ */
+/**
+ * Set the debug device (not used for now)
+ * 
+ * @param 	String 		$state 		The state to update
+ * @para m 	String 		$device 	The device to use (iphone, etc...)
+ */
+/**
+ * Parent clear each
+ */
+/**
+ * Vertical align :
+ */
+/**
+ * Show inline
+ *
+ * @param 	String 		$state 		The state name
+ */
+/**
+ * Generate a custom class for all the states
+ *
+ * @param 	list 	$pattern 		The name pattern of the class
+ * @param 	list 	$statesNames 		The states names to generate
+ */
+/*///////////////////////////////
+// SPECIAL COLUMNS             //
+///////////////////////////////*/
+/*///////////////////////////////
+// CLEAR CLASSES               //
+///////////////////////////////*/
+/*///////////////////////////////
+// STATES                      //
+///////////////////////////////*/
+html {
+  font-size: 16px;
+}
+html.tablet html {
+  font-size: 15px;
+}
+@media screen and (min-width: 36.063em) and (max-width: 64em) {
+  html {
+    font-size: 15px;
+  }
+}
+html, html body {
+  margin: 0;
+  height: 0;
+  position: relative;
+  display: block;
+  width: 100%;
+}
+html body {
+  font-size: 100%;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  background: #FDFDFD;
+}
+
+.clearfix, .clfx {
+  *zoom: 1;
+}
+.clearfix:before, .clearfix:after, .clfx:before, .clfx:after {
+  content: " ";
+  display: table;
+}
+.clearfix:after, .clfx:after {
+  clear: both;
+}
+
+.slider {
+  color: white;
+  font-size: 2rem;
+  background-color: #222;
+}
+
+/*# sourceMappingURL=home.css.map */

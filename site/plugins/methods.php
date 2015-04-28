@@ -1,4 +1,8 @@
 <?
+/////////////////////////////////
+// DEBUG                       //
+/////////////////////////////////
+
 function jsl($arr,$tag=false,$styles=false){
 	if ($tag) {
 		echo "<script class='php2js'>console.log('".$tag."',".json_encode($arr).")</script>";
@@ -6,6 +10,10 @@ function jsl($arr,$tag=false,$styles=false){
 		echo "<script class='php2js'>console.log(".json_encode($arr).")</script>";
 	}
 }
+
+/////////////////////////////////
+// FIELD METHODS               //
+/////////////////////////////////
 
 field::$methods['list'] = function($field,$layout=false) {
 	$layout = !$layout ? 'list' : implode(' ',array_map(function($n){

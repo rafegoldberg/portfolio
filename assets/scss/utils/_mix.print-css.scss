@@ -1,0 +1,5 @@
+@mixin print-css($pairs:()) {
+	@each $prop, $val in $pairs {
+		@if ($val) { #{$prop}: #{$val}; }
+	}
+}

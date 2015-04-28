@@ -6,6 +6,9 @@ fields:
   title:
     label: Title
     type:  text
+  subtitle:
+    label: Subtitle
+    type:  text
   author:
     label: Author
     type:  text

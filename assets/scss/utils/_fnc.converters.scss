@@ -1,0 +1,7 @@
+@function strip-units($num) {
+	@return $num / ($num * 0 + 1);
+}
+@function str-to-rem($str){
+	$str: if(type-of($str)==num,strip-units($str),$str);
+	@return #{'#{$str}rem'};
+}

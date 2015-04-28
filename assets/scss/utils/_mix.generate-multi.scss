@@ -1,0 +1,12 @@
+@mixin generate-multi($pre:'pre',$prop:'prop',$vals:'vals',$priority:false) {
+	$priority: if($priority,#{' !important'},null);
+    @each $val in $vals {
+		@if type-of($val)==list {
+			$c: nth($val,1); 
+			$v: nth($val,2)$priority;
+	        @include gridle_generate_custom_class(('#{$pre}-#{$c}','%-','%state'))   { #{$prop}: $v; }
+		} @else {
+	        @include gridle_generate_custom_class(('#{$pre}-#{$val}','%-','%state'))   { #{$prop}: $val; }
+		}
+    }
+}

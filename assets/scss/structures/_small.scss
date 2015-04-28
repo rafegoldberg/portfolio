@@ -1,0 +1,13 @@
+@mixin small($css:(),$selector:small) {
+	$css: map-merge((
+		font-family: false,
+		font-weight: normal,
+		font-style: false,
+	),$css);
+	#{$selector} {
+		font-size: .8em;
+		@include print-css($css);
+	}
+}
+
+@include small(){};

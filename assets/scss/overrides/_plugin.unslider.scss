@@ -1,12 +1,23 @@
 .slider {
-	position: relative;
-	overflow: auto;
-	height: auto !important;
 	width: 100%;
 	.slide {
 		list-style: none;
+		margin: 0 0 0 -1px !important;
+		margin-left: -1px !important;
 		&--wrap {
 			padding: 0;
+			margin: 0;
+		}
+		&_big {
+			@include card(&) {
+				padding: 4em;
+				@include gridle_state( tablet mobile ) {
+					padding: 3rem 1.5rem;
+				}
+				@include gridle_state( mobile ) {
+					text-align: center;
+				}
+			}
 		}
 	}
 }

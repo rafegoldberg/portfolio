@@ -1,19 +1,16 @@
-<? snippet('top') ?>
+<? snippet('top',array(
+	'css'=> 'home',
+	'body' => 'grid parent grid-12',
+)) ?>
 
-	<div class="grid-6 card">
-		<? snippet('header') ?>
-	</div>
-	<div class="grid-6 card">
-		<? snippet('menu',array('list_layout'=>'inline')) ?>
-	</div>
-	<main class="grid-12">
-		<section class="slider">
-			<? snippet('projects',array('layout'=>'slider','items'=>'card')) ?>
-		</section>
+	<? snippet('sidebar') ?>
+	<section class="slider">
+		<? snippet('project-slider',array(
+			'items'  => 'card_big card ta-right',
+			'limit'  => 3
+		)) ?>
+	</section>
+	<main class="clearfix prefix-desktop-3 prefix-tablet-6 gutter-left">
 	</main>
-	<main class="grid-6 card" role="main">
-		<?= $page->text()->kirbytext() ?>
-	</main>
-	<div class="grid-6 card"><? snippet('footer') ?></div>
 
 <? snippet('bottom') ?>
