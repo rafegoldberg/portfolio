@@ -2,7 +2,7 @@ Sort: 3
 
 ----
 
-Caption-position: top
+Caption-position: left
 
 ----
 
@@ -11,3 +11,7 @@ Caption-view: overlay
 ----
 
 Caption-text: ### Branded Communications
+
+----
+
+Overrides: 

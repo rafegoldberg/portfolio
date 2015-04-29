@@ -2,12 +2,24 @@ Sort: 2
 
 ----
 
-Description: ### Branded Communications
+Caption-text: 
 
 ----
 
-Position: above
+Caption-position: 
 
 ----
 
-View: fit
+Bgz: fit
+
+----
+
+Bgpx: center
+
+----
+
+Bgpy: center
+
+----
+
+Apply-view: tablet, mobile

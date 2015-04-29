@@ -9,19 +9,43 @@ files:
 			label: Description
 			type: textarea
 		caption_position:
-			label: Position
 			type: select
 			options:
 				top   : Above the Image
 				left  : Left of image
 				right : Right of image
 				bottom: Below the image
-		caption_view:
-			label: View Options
+		_line8:
+			type: line
+		bgz:
+			label: Background Scale
 			type: radio
 			options:
-				fit: Fit image to availble grid
-				overlay: Overlay description on full-width image
+				fit:  Fit
+				fill: Fill
+		bgpx:
+			label: Background Align
+			type: select
+			width: 1/2
+			options: 
+				right:  Right
+				center:  Center
+				left:  Left
+		bgpy:
+			label: &nbsp;
+			type: select
+			width: 1/2
+			options: 
+				top:    Top
+				center: Middle
+				bottom: Bottom
+		apply_view:
+			label: Apply Options To:
+			type: checkboxes
+			options:
+				desktop: Desktop
+				tablet: Tablet
+				mobile: Mobile
 fields:
 	project:
 		label: Title

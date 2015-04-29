@@ -1,6 +1,9 @@
-
+// Text Align
+// 
 @include generate-multi(ta,text-align,justify right left center,!important);
 
+// Displays
+//
 @include generate-multi(d,display,block inline-block inline 'none',!important);
 @include generate-multi(d,display,(
 	b : block       ,
@@ -9,7 +12,71 @@
 	n : none        ,
 ),!important);
 
+// No Margins
+// 
 @include generate-multi(m,margin-top,(top-none: 0, t-none: 0),!important);
 @include generate-multi(m,margin-right,(right-none: 0, r-none: 0),!important);
 @include generate-multi(m,margin-bottom,(bottom-none: 0, b-none: 0),!important);
 @include generate-multi(m,margin-left,(left-none: 0, l-none: 0),!important);
+
+// Background Size
+// 
+@include generate-multi(bgz,background-size,(
+	auto:    auto     ,
+	height:  auto 100%,
+	h:       auto 100%,
+	width:   100% auto,
+	w:       100% auto,
+	cover:   cover    ,
+	fill:    cover    ,
+	cv:      cover    ,
+	v:       cover    ,
+	contain: contain  ,
+	fit:     contain  ,
+	ct:      contain  ,
+	t:       contain  ,
+),!important);
+
+// Background Position
+// 
+@include generate-multi(bgp,background-position,(
+	       center : center       ,
+	          top : center top   ,
+	       bottom : center bottom,
+	         left : left  center ,
+	        right : right center ,
+	    right-top : right top    ,
+	           rt : right top    ,
+	   center-top : center top   ,
+	           ct : center top   ,
+	     left-top : left top     ,
+	           lt : left top     ,
+	 right-center : right center ,
+	           rc : right center ,
+	center-center : center center,
+	           cc : center center,
+	  left-center : left center  ,
+	           lc : left center  ,
+	 right-bottom : right bottom ,
+	           rb : right bottom ,
+	center-bottom : center bottom,
+	           cb : center bottom,
+	  left-bottom : left bottom  ,
+	           lb : left bottom  ,
+),!important);
+@include generate-multi(bgpx,background-position-x,(
+	right:  right ,
+	r:      right ,
+	center: center,
+	c:      center,
+	left:   left  ,
+	l:      left  ,
+),!important);
+@include generate-multi(bgpy,background-position-y,(
+	top:    top   ,
+	t:      top   ,
+	middle: middle,
+	m:      middle,
+	bottom: bottom,
+	b:      bottom,
+),!important);

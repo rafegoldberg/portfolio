@@ -1,15 +1,52 @@
-figure {
-	@extend .card_huge !optional;
+.figure {
+	// box-sizing: border-box;
 	position: relative;
 	display: block;
+	min-height: 500px;          // sensible default
+	height: 65vh;               // sensible default
+	max-height: 700px;          // sensible default
 	margin: 0;
-	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
-	min-height: 65vh;
-	figcaption {
+	background-size: cover;     // sensible default
+
+	&--caption {
 		position: absolute;
-		top: 50%;
-		transform: translateY(-50%);
+		// 
+		// POSITIONS
+		// 
+		//-> Left / Right
+		// 
+		&_left, &_right {
+			top: 50%;
+			transform: translateY(-50%);
+			@include gridle_set((
+				grid: 5,
+				tablet: ( grid: 6 ),
+				mobile: ( grid: 7 )	
+			));
+			@include gridle_state( tablet mobile ) {
+				text-align: center !important;
+			}
+		}
+		&_left   { text-align: left ; }
+		&_right  { text-align: right;
+			@include gridle_prefix(7,desktop);
+			@include gridle_prefix(6,tablet);
+			@include gridle_prefix(5,mobile);
+		}
+		// 
+		//-> Top / Bottom
+		// 
+		&_top, &_bottom {
+			text-align: center;
+			@include gridle_set((
+				grid:12,
+				centered: true,
+				prefix:0,
+			));
+		}
+		&_top    { top:    1.5rem; }
+		&_bottom { bottom: 1.5rem; }
 	}
 }

@@ -15,13 +15,17 @@ function jsl($arr,$tag=false,$styles=false){
 // FIELD METHODS               //
 /////////////////////////////////
 
+
+// function prepend_states ($arr,$delim=' ',$tostr=false){
+// }
+
 function get_stately_classes ($arr,$delim=' ',$tostr=false){
 	$arr = gettype($arr)=='string'?explode($delim,$arr):$arr;
 	$classes = array_map(function($v, $k) {
 		if     ($k==0) { return "grid-$v"; }
 		elseif ($k==1) { return "grid-tablet-$v"; }
 		else           { return "grid-mobile-$v"; }
-	}, $arr, array_keys($arr));;
+	}, $arr, array_keys($arr));
 	return $tostr ? implode(' ',$classes) : $classes;
 }
 

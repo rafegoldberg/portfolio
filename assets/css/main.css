@@ -2603,14 +2603,14 @@
   background-color: #f5f5f5;
 }
 
-.gridle-debug .grid-portrait-0, .grid-portrait-0.gridle-debug, .gridle-debug .grid-portrait-1, .grid-portrait-1.gridle-debug, .gridle-debug .grid-portrait-2, .grid-portrait-2.gridle-debug, .gridle-debug .grid-portrait-3, .grid-portrait-3.gridle-debug, .gridle-debug .grid-portrait-4, .grid-portrait-4.gridle-debug, .gridle-debug .grid-portrait-5, .grid-portrait-5.gridle-debug, .gridle-debug .grid-portrait-6, .grid-portrait-6.gridle-debug, .gridle-debug .grid-portrait-7, .grid-portrait-7.gridle-debug, .gridle-debug .grid-portrait-8, .grid-portrait-8.gridle-debug, .gridle-debug .grid-portrait-9, .grid-portrait-9.gridle-debug, .gridle-debug .grid-portrait-10, .grid-portrait-10.gridle-debug, .gridle-debug .grid-portrait-11, .grid-portrait-11.gridle-debug, .gridle-debug .grid-portrait-12, .grid-portrait-12.gridle-debug, .gridle-debug .grid-landscape-0, .grid-landscape-0.gridle-debug, .gridle-debug .grid-landscape-1, .grid-landscape-1.gridle-debug, .gridle-debug .grid-landscape-2, .grid-landscape-2.gridle-debug, .gridle-debug .grid-landscape-3, .grid-landscape-3.gridle-debug, .gridle-debug .grid-landscape-4, .grid-landscape-4.gridle-debug, .gridle-debug .grid-landscape-5, .grid-landscape-5.gridle-debug, .gridle-debug .grid-landscape-6, .grid-landscape-6.gridle-debug, .gridle-debug .grid-landscape-7, .grid-landscape-7.gridle-debug, .gridle-debug .grid-landscape-8, .grid-landscape-8.gridle-debug, .gridle-debug .grid-landscape-9, .grid-landscape-9.gridle-debug, .gridle-debug .grid-landscape-10, .grid-landscape-10.gridle-debug, .gridle-debug .grid-landscape-11, .grid-landscape-11.gridle-debug, .gridle-debug .grid-landscape-12, .grid-landscape-12.gridle-debug, .gridle-debug .grid-0, .grid-0.gridle-debug, .gridle-debug .grid-1, .grid-1.gridle-debug, .gridle-debug .grid-2, .grid-2.gridle-debug, .gridle-debug .grid-3, .grid-3.gridle-debug, .gridle-debug .grid-4, .grid-4.gridle-debug, .gridle-debug .grid-5, .grid-5.gridle-debug, .gridle-debug .grid-6, .grid-6.gridle-debug, .gridle-debug .grid-7, .grid-7.gridle-debug, .gridle-debug .grid-8, .grid-8.gridle-debug, .gridle-debug .grid-9, .grid-9.gridle-debug, .gridle-debug .grid-10, .grid-10.gridle-debug, .gridle-debug .grid-11, .grid-11.gridle-debug, .gridle-debug .grid-12, .grid-12.gridle-debug, .gridle-debug .grid-desktop-0, .grid-desktop-0.gridle-debug, .gridle-debug .grid-desktop-1, .grid-desktop-1.gridle-debug, .gridle-debug .grid-desktop-2, .grid-desktop-2.gridle-debug, .gridle-debug .grid-desktop-3, .grid-desktop-3.gridle-debug, .gridle-debug .grid-desktop-4, .grid-desktop-4.gridle-debug, .gridle-debug .grid-desktop-5, .grid-desktop-5.gridle-debug, .gridle-debug .grid-desktop-6, .grid-desktop-6.gridle-debug, .gridle-debug .grid-desktop-7, .grid-desktop-7.gridle-debug, .gridle-debug .grid-desktop-8, .grid-desktop-8.gridle-debug, .gridle-debug .grid-desktop-9, .grid-desktop-9.gridle-debug, .gridle-debug .grid-desktop-10, .grid-desktop-10.gridle-debug, .gridle-debug .grid-desktop-11, .grid-desktop-11.gridle-debug, .gridle-debug .grid-desktop-12, .grid-desktop-12.gridle-debug, .gridle-debug .grid-tablet-0, .grid-tablet-0.gridle-debug, .gridle-debug .grid-tablet-1, .grid-tablet-1.gridle-debug, .gridle-debug .grid-tablet-2, .grid-tablet-2.gridle-debug, .gridle-debug .grid-tablet-3, .grid-tablet-3.gridle-debug, .gridle-debug .grid-tablet-4, .grid-tablet-4.gridle-debug, .gridle-debug .grid-tablet-5, .grid-tablet-5.gridle-debug, .gridle-debug .grid-tablet-6, .grid-tablet-6.gridle-debug, .gridle-debug .grid-tablet-7, .grid-tablet-7.gridle-debug, .gridle-debug .grid-tablet-8, .grid-tablet-8.gridle-debug, .gridle-debug .grid-tablet-9, .grid-tablet-9.gridle-debug, .gridle-debug .grid-tablet-10, .grid-tablet-10.gridle-debug, .gridle-debug .grid-tablet-11, .grid-tablet-11.gridle-debug, .gridle-debug .grid-tablet-12, .grid-tablet-12.gridle-debug, .gridle-debug .grid-mobile-0, .grid-mobile-0.gridle-debug, .gridle-debug .grid-mobile-1, .grid-mobile-1.gridle-debug, .gridle-debug .grid-mobile-2, .grid-mobile-2.gridle-debug, .gridle-debug .grid-mobile-3, .grid-mobile-3.gridle-debug, .gridle-debug .grid-mobile-4, .grid-mobile-4.gridle-debug, .gridle-debug .grid-mobile-5, .grid-mobile-5.gridle-debug, .gridle-debug .grid-mobile-6, .grid-mobile-6.gridle-debug, .gridle-debug .grid-mobile-7, .grid-mobile-7.gridle-debug, .gridle-debug .grid-mobile-8, .grid-mobile-8.gridle-debug, .gridle-debug .grid-mobile-9, .grid-mobile-9.gridle-debug, .gridle-debug .grid-mobile-10, .grid-mobile-10.gridle-debug, .gridle-debug .grid-mobile-11, .grid-mobile-11.gridle-debug, .gridle-debug .grid-mobile-12, .grid-mobile-12.gridle-debug, .gridle-debug #sidebar, #sidebar.gridle-debug, .gridle-debug #sidebar #menu, #sidebar #menu.gridle-debug, .gridle-debug
+.gridle-debug .grid-portrait-0, .grid-portrait-0.gridle-debug, .gridle-debug .grid-portrait-1, .grid-portrait-1.gridle-debug, .gridle-debug .grid-portrait-2, .grid-portrait-2.gridle-debug, .gridle-debug .grid-portrait-3, .grid-portrait-3.gridle-debug, .gridle-debug .grid-portrait-4, .grid-portrait-4.gridle-debug, .gridle-debug .grid-portrait-5, .grid-portrait-5.gridle-debug, .gridle-debug .grid-portrait-6, .grid-portrait-6.gridle-debug, .gridle-debug .grid-portrait-7, .grid-portrait-7.gridle-debug, .gridle-debug .grid-portrait-8, .grid-portrait-8.gridle-debug, .gridle-debug .grid-portrait-9, .grid-portrait-9.gridle-debug, .gridle-debug .grid-portrait-10, .grid-portrait-10.gridle-debug, .gridle-debug .grid-portrait-11, .grid-portrait-11.gridle-debug, .gridle-debug .grid-portrait-12, .grid-portrait-12.gridle-debug, .gridle-debug .grid-landscape-0, .grid-landscape-0.gridle-debug, .gridle-debug .grid-landscape-1, .grid-landscape-1.gridle-debug, .gridle-debug .grid-landscape-2, .grid-landscape-2.gridle-debug, .gridle-debug .grid-landscape-3, .grid-landscape-3.gridle-debug, .gridle-debug .grid-landscape-4, .grid-landscape-4.gridle-debug, .gridle-debug .grid-landscape-5, .grid-landscape-5.gridle-debug, .gridle-debug .grid-landscape-6, .grid-landscape-6.gridle-debug, .gridle-debug .grid-landscape-7, .grid-landscape-7.gridle-debug, .gridle-debug .grid-landscape-8, .grid-landscape-8.gridle-debug, .gridle-debug .grid-landscape-9, .grid-landscape-9.gridle-debug, .gridle-debug .grid-landscape-10, .grid-landscape-10.gridle-debug, .gridle-debug .grid-landscape-11, .grid-landscape-11.gridle-debug, .gridle-debug .grid-landscape-12, .grid-landscape-12.gridle-debug, .gridle-debug .grid-0, .grid-0.gridle-debug, .gridle-debug .grid-1, .grid-1.gridle-debug, .gridle-debug .grid-2, .grid-2.gridle-debug, .gridle-debug .grid-3, .grid-3.gridle-debug, .gridle-debug .grid-4, .grid-4.gridle-debug, .gridle-debug .grid-5, .grid-5.gridle-debug, .gridle-debug .grid-6, .grid-6.gridle-debug, .gridle-debug .grid-7, .grid-7.gridle-debug, .gridle-debug .grid-8, .grid-8.gridle-debug, .gridle-debug .grid-9, .grid-9.gridle-debug, .gridle-debug .grid-10, .grid-10.gridle-debug, .gridle-debug .grid-11, .grid-11.gridle-debug, .gridle-debug .grid-12, .grid-12.gridle-debug, .gridle-debug .grid-desktop-0, .grid-desktop-0.gridle-debug, .gridle-debug .grid-desktop-1, .grid-desktop-1.gridle-debug, .gridle-debug .grid-desktop-2, .grid-desktop-2.gridle-debug, .gridle-debug .grid-desktop-3, .grid-desktop-3.gridle-debug, .gridle-debug .grid-desktop-4, .grid-desktop-4.gridle-debug, .gridle-debug .grid-desktop-5, .grid-desktop-5.gridle-debug, .gridle-debug .grid-desktop-6, .grid-desktop-6.gridle-debug, .gridle-debug .grid-desktop-7, .grid-desktop-7.gridle-debug, .gridle-debug .grid-desktop-8, .grid-desktop-8.gridle-debug, .gridle-debug .grid-desktop-9, .grid-desktop-9.gridle-debug, .gridle-debug .grid-desktop-10, .grid-desktop-10.gridle-debug, .gridle-debug .grid-desktop-11, .grid-desktop-11.gridle-debug, .gridle-debug .grid-desktop-12, .grid-desktop-12.gridle-debug, .gridle-debug .grid-tablet-0, .grid-tablet-0.gridle-debug, .gridle-debug .grid-tablet-1, .grid-tablet-1.gridle-debug, .gridle-debug .grid-tablet-2, .grid-tablet-2.gridle-debug, .gridle-debug .grid-tablet-3, .grid-tablet-3.gridle-debug, .gridle-debug .grid-tablet-4, .grid-tablet-4.gridle-debug, .gridle-debug .grid-tablet-5, .grid-tablet-5.gridle-debug, .gridle-debug .grid-tablet-6, .grid-tablet-6.gridle-debug, .gridle-debug .grid-tablet-7, .grid-tablet-7.gridle-debug, .gridle-debug .grid-tablet-8, .grid-tablet-8.gridle-debug, .gridle-debug .grid-tablet-9, .grid-tablet-9.gridle-debug, .gridle-debug .grid-tablet-10, .grid-tablet-10.gridle-debug, .gridle-debug .grid-tablet-11, .grid-tablet-11.gridle-debug, .gridle-debug .grid-tablet-12, .grid-tablet-12.gridle-debug, .gridle-debug .grid-mobile-0, .grid-mobile-0.gridle-debug, .gridle-debug .grid-mobile-1, .grid-mobile-1.gridle-debug, .gridle-debug .grid-mobile-2, .grid-mobile-2.gridle-debug, .gridle-debug .grid-mobile-3, .grid-mobile-3.gridle-debug, .gridle-debug .grid-mobile-4, .grid-mobile-4.gridle-debug, .gridle-debug .grid-mobile-5, .grid-mobile-5.gridle-debug, .gridle-debug .grid-mobile-6, .grid-mobile-6.gridle-debug, .gridle-debug .grid-mobile-7, .grid-mobile-7.gridle-debug, .gridle-debug .grid-mobile-8, .grid-mobile-8.gridle-debug, .gridle-debug .grid-mobile-9, .grid-mobile-9.gridle-debug, .gridle-debug .grid-mobile-10, .grid-mobile-10.gridle-debug, .gridle-debug .grid-mobile-11, .grid-mobile-11.gridle-debug, .gridle-debug .grid-mobile-12, .grid-mobile-12.gridle-debug, .gridle-debug .figure--caption_left, .figure--caption_left.gridle-debug, .gridle-debug .figure--caption_right, .figure--caption_right.gridle-debug, .gridle-debug .figure--caption_top, .figure--caption_top.gridle-debug, .gridle-debug .figure--caption_bottom, .figure--caption_bottom.gridle-debug, .gridle-debug #sidebar, #sidebar.gridle-debug, .gridle-debug #sidebar #menu, #sidebar #menu.gridle-debug, .gridle-debug
 #sidebar #footer,
 #sidebar #footer.gridle-debug, .gridle-debug #sidebar + main, #sidebar + main.gridle-debug {
   background-color: #daeff5;
 }
-.gridle-debug .grid-portrait-0:before, .grid-portrait-0.gridle-debug:before, .gridle-debug .grid-portrait-1:before, .grid-portrait-1.gridle-debug:before, .gridle-debug .grid-portrait-2:before, .grid-portrait-2.gridle-debug:before, .gridle-debug .grid-portrait-3:before, .grid-portrait-3.gridle-debug:before, .gridle-debug .grid-portrait-4:before, .grid-portrait-4.gridle-debug:before, .gridle-debug .grid-portrait-5:before, .grid-portrait-5.gridle-debug:before, .gridle-debug .grid-portrait-6:before, .grid-portrait-6.gridle-debug:before, .gridle-debug .grid-portrait-7:before, .grid-portrait-7.gridle-debug:before, .gridle-debug .grid-portrait-8:before, .grid-portrait-8.gridle-debug:before, .gridle-debug .grid-portrait-9:before, .grid-portrait-9.gridle-debug:before, .gridle-debug .grid-portrait-10:before, .grid-portrait-10.gridle-debug:before, .gridle-debug .grid-portrait-11:before, .grid-portrait-11.gridle-debug:before, .gridle-debug .grid-portrait-12:before, .grid-portrait-12.gridle-debug:before, .gridle-debug .grid-landscape-0:before, .grid-landscape-0.gridle-debug:before, .gridle-debug .grid-landscape-1:before, .grid-landscape-1.gridle-debug:before, .gridle-debug .grid-landscape-2:before, .grid-landscape-2.gridle-debug:before, .gridle-debug .grid-landscape-3:before, .grid-landscape-3.gridle-debug:before, .gridle-debug .grid-landscape-4:before, .grid-landscape-4.gridle-debug:before, .gridle-debug .grid-landscape-5:before, .grid-landscape-5.gridle-debug:before, .gridle-debug .grid-landscape-6:before, .grid-landscape-6.gridle-debug:before, .gridle-debug .grid-landscape-7:before, .grid-landscape-7.gridle-debug:before, .gridle-debug .grid-landscape-8:before, .grid-landscape-8.gridle-debug:before, .gridle-debug .grid-landscape-9:before, .grid-landscape-9.gridle-debug:before, .gridle-debug .grid-landscape-10:before, .grid-landscape-10.gridle-debug:before, .gridle-debug .grid-landscape-11:before, .grid-landscape-11.gridle-debug:before, .gridle-debug .grid-landscape-12:before, .grid-landscape-12.gridle-debug:before, .gridle-debug .grid-0:before, .grid-0.gridle-debug:before, .gridle-debug .grid-1:before, .grid-1.gridle-debug:before, .gridle-debug .grid-2:before, .grid-2.gridle-debug:before, .gridle-debug .grid-3:before, .grid-3.gridle-debug:before, .gridle-debug .grid-4:before, .grid-4.gridle-debug:before, .gridle-debug .grid-5:before, .grid-5.gridle-debug:before, .gridle-debug .grid-6:before, .grid-6.gridle-debug:before, .gridle-debug .grid-7:before, .grid-7.gridle-debug:before, .gridle-debug .grid-8:before, .grid-8.gridle-debug:before, .gridle-debug .grid-9:before, .grid-9.gridle-debug:before, .gridle-debug .grid-10:before, .grid-10.gridle-debug:before, .gridle-debug .grid-11:before, .grid-11.gridle-debug:before, .gridle-debug .grid-12:before, .grid-12.gridle-debug:before, .gridle-debug .grid-desktop-0:before, .grid-desktop-0.gridle-debug:before, .gridle-debug .grid-desktop-1:before, .grid-desktop-1.gridle-debug:before, .gridle-debug .grid-desktop-2:before, .grid-desktop-2.gridle-debug:before, .gridle-debug .grid-desktop-3:before, .grid-desktop-3.gridle-debug:before, .gridle-debug .grid-desktop-4:before, .grid-desktop-4.gridle-debug:before, .gridle-debug .grid-desktop-5:before, .grid-desktop-5.gridle-debug:before, .gridle-debug .grid-desktop-6:before, .grid-desktop-6.gridle-debug:before, .gridle-debug .grid-desktop-7:before, .grid-desktop-7.gridle-debug:before, .gridle-debug .grid-desktop-8:before, .grid-desktop-8.gridle-debug:before, .gridle-debug .grid-desktop-9:before, .grid-desktop-9.gridle-debug:before, .gridle-debug .grid-desktop-10:before, .grid-desktop-10.gridle-debug:before, .gridle-debug .grid-desktop-11:before, .grid-desktop-11.gridle-debug:before, .gridle-debug .grid-desktop-12:before, .grid-desktop-12.gridle-debug:before, .gridle-debug .grid-tablet-0:before, .grid-tablet-0.gridle-debug:before, .gridle-debug .grid-tablet-1:before, .grid-tablet-1.gridle-debug:before, .gridle-debug .grid-tablet-2:before, .grid-tablet-2.gridle-debug:before, .gridle-debug .grid-tablet-3:before, .grid-tablet-3.gridle-debug:before, .gridle-debug .grid-tablet-4:before, .grid-tablet-4.gridle-debug:before, .gridle-debug .grid-tablet-5:before, .grid-tablet-5.gridle-debug:before, .gridle-debug .grid-tablet-6:before, .grid-tablet-6.gridle-debug:before, .gridle-debug .grid-tablet-7:before, .grid-tablet-7.gridle-debug:before, .gridle-debug .grid-tablet-8:before, .grid-tablet-8.gridle-debug:before, .gridle-debug .grid-tablet-9:before, .grid-tablet-9.gridle-debug:before, .gridle-debug .grid-tablet-10:before, .grid-tablet-10.gridle-debug:before, .gridle-debug .grid-tablet-11:before, .grid-tablet-11.gridle-debug:before, .gridle-debug .grid-tablet-12:before, .grid-tablet-12.gridle-debug:before, .gridle-debug .grid-mobile-0:before, .grid-mobile-0.gridle-debug:before, .gridle-debug .grid-mobile-1:before, .grid-mobile-1.gridle-debug:before, .gridle-debug .grid-mobile-2:before, .grid-mobile-2.gridle-debug:before, .gridle-debug .grid-mobile-3:before, .grid-mobile-3.gridle-debug:before, .gridle-debug .grid-mobile-4:before, .grid-mobile-4.gridle-debug:before, .gridle-debug .grid-mobile-5:before, .grid-mobile-5.gridle-debug:before, .gridle-debug .grid-mobile-6:before, .grid-mobile-6.gridle-debug:before, .gridle-debug .grid-mobile-7:before, .grid-mobile-7.gridle-debug:before, .gridle-debug .grid-mobile-8:before, .grid-mobile-8.gridle-debug:before, .gridle-debug .grid-mobile-9:before, .grid-mobile-9.gridle-debug:before, .gridle-debug .grid-mobile-10:before, .grid-mobile-10.gridle-debug:before, .gridle-debug .grid-mobile-11:before, .grid-mobile-11.gridle-debug:before, .gridle-debug .grid-mobile-12:before, .grid-mobile-12.gridle-debug:before, .gridle-debug #sidebar:before, #sidebar.gridle-debug:before, .gridle-debug #sidebar #menu:before, #sidebar #menu.gridle-debug:before, .gridle-debug
+.gridle-debug .grid-portrait-0:before, .grid-portrait-0.gridle-debug:before, .gridle-debug .grid-portrait-1:before, .grid-portrait-1.gridle-debug:before, .gridle-debug .grid-portrait-2:before, .grid-portrait-2.gridle-debug:before, .gridle-debug .grid-portrait-3:before, .grid-portrait-3.gridle-debug:before, .gridle-debug .grid-portrait-4:before, .grid-portrait-4.gridle-debug:before, .gridle-debug .grid-portrait-5:before, .grid-portrait-5.gridle-debug:before, .gridle-debug .grid-portrait-6:before, .grid-portrait-6.gridle-debug:before, .gridle-debug .grid-portrait-7:before, .grid-portrait-7.gridle-debug:before, .gridle-debug .grid-portrait-8:before, .grid-portrait-8.gridle-debug:before, .gridle-debug .grid-portrait-9:before, .grid-portrait-9.gridle-debug:before, .gridle-debug .grid-portrait-10:before, .grid-portrait-10.gridle-debug:before, .gridle-debug .grid-portrait-11:before, .grid-portrait-11.gridle-debug:before, .gridle-debug .grid-portrait-12:before, .grid-portrait-12.gridle-debug:before, .gridle-debug .grid-landscape-0:before, .grid-landscape-0.gridle-debug:before, .gridle-debug .grid-landscape-1:before, .grid-landscape-1.gridle-debug:before, .gridle-debug .grid-landscape-2:before, .grid-landscape-2.gridle-debug:before, .gridle-debug .grid-landscape-3:before, .grid-landscape-3.gridle-debug:before, .gridle-debug .grid-landscape-4:before, .grid-landscape-4.gridle-debug:before, .gridle-debug .grid-landscape-5:before, .grid-landscape-5.gridle-debug:before, .gridle-debug .grid-landscape-6:before, .grid-landscape-6.gridle-debug:before, .gridle-debug .grid-landscape-7:before, .grid-landscape-7.gridle-debug:before, .gridle-debug .grid-landscape-8:before, .grid-landscape-8.gridle-debug:before, .gridle-debug .grid-landscape-9:before, .grid-landscape-9.gridle-debug:before, .gridle-debug .grid-landscape-10:before, .grid-landscape-10.gridle-debug:before, .gridle-debug .grid-landscape-11:before, .grid-landscape-11.gridle-debug:before, .gridle-debug .grid-landscape-12:before, .grid-landscape-12.gridle-debug:before, .gridle-debug .grid-0:before, .grid-0.gridle-debug:before, .gridle-debug .grid-1:before, .grid-1.gridle-debug:before, .gridle-debug .grid-2:before, .grid-2.gridle-debug:before, .gridle-debug .grid-3:before, .grid-3.gridle-debug:before, .gridle-debug .grid-4:before, .grid-4.gridle-debug:before, .gridle-debug .grid-5:before, .grid-5.gridle-debug:before, .gridle-debug .grid-6:before, .grid-6.gridle-debug:before, .gridle-debug .grid-7:before, .grid-7.gridle-debug:before, .gridle-debug .grid-8:before, .grid-8.gridle-debug:before, .gridle-debug .grid-9:before, .grid-9.gridle-debug:before, .gridle-debug .grid-10:before, .grid-10.gridle-debug:before, .gridle-debug .grid-11:before, .grid-11.gridle-debug:before, .gridle-debug .grid-12:before, .grid-12.gridle-debug:before, .gridle-debug .grid-desktop-0:before, .grid-desktop-0.gridle-debug:before, .gridle-debug .grid-desktop-1:before, .grid-desktop-1.gridle-debug:before, .gridle-debug .grid-desktop-2:before, .grid-desktop-2.gridle-debug:before, .gridle-debug .grid-desktop-3:before, .grid-desktop-3.gridle-debug:before, .gridle-debug .grid-desktop-4:before, .grid-desktop-4.gridle-debug:before, .gridle-debug .grid-desktop-5:before, .grid-desktop-5.gridle-debug:before, .gridle-debug .grid-desktop-6:before, .grid-desktop-6.gridle-debug:before, .gridle-debug .grid-desktop-7:before, .grid-desktop-7.gridle-debug:before, .gridle-debug .grid-desktop-8:before, .grid-desktop-8.gridle-debug:before, .gridle-debug .grid-desktop-9:before, .grid-desktop-9.gridle-debug:before, .gridle-debug .grid-desktop-10:before, .grid-desktop-10.gridle-debug:before, .gridle-debug .grid-desktop-11:before, .grid-desktop-11.gridle-debug:before, .gridle-debug .grid-desktop-12:before, .grid-desktop-12.gridle-debug:before, .gridle-debug .grid-tablet-0:before, .grid-tablet-0.gridle-debug:before, .gridle-debug .grid-tablet-1:before, .grid-tablet-1.gridle-debug:before, .gridle-debug .grid-tablet-2:before, .grid-tablet-2.gridle-debug:before, .gridle-debug .grid-tablet-3:before, .grid-tablet-3.gridle-debug:before, .gridle-debug .grid-tablet-4:before, .grid-tablet-4.gridle-debug:before, .gridle-debug .grid-tablet-5:before, .grid-tablet-5.gridle-debug:before, .gridle-debug .grid-tablet-6:before, .grid-tablet-6.gridle-debug:before, .gridle-debug .grid-tablet-7:before, .grid-tablet-7.gridle-debug:before, .gridle-debug .grid-tablet-8:before, .grid-tablet-8.gridle-debug:before, .gridle-debug .grid-tablet-9:before, .grid-tablet-9.gridle-debug:before, .gridle-debug .grid-tablet-10:before, .grid-tablet-10.gridle-debug:before, .gridle-debug .grid-tablet-11:before, .grid-tablet-11.gridle-debug:before, .gridle-debug .grid-tablet-12:before, .grid-tablet-12.gridle-debug:before, .gridle-debug .grid-mobile-0:before, .grid-mobile-0.gridle-debug:before, .gridle-debug .grid-mobile-1:before, .grid-mobile-1.gridle-debug:before, .gridle-debug .grid-mobile-2:before, .grid-mobile-2.gridle-debug:before, .gridle-debug .grid-mobile-3:before, .grid-mobile-3.gridle-debug:before, .gridle-debug .grid-mobile-4:before, .grid-mobile-4.gridle-debug:before, .gridle-debug .grid-mobile-5:before, .grid-mobile-5.gridle-debug:before, .gridle-debug .grid-mobile-6:before, .grid-mobile-6.gridle-debug:before, .gridle-debug .grid-mobile-7:before, .grid-mobile-7.gridle-debug:before, .gridle-debug .grid-mobile-8:before, .grid-mobile-8.gridle-debug:before, .gridle-debug .grid-mobile-9:before, .grid-mobile-9.gridle-debug:before, .gridle-debug .grid-mobile-10:before, .grid-mobile-10.gridle-debug:before, .gridle-debug .grid-mobile-11:before, .grid-mobile-11.gridle-debug:before, .gridle-debug .grid-mobile-12:before, .grid-mobile-12.gridle-debug:before, .gridle-debug .figure--caption_left:before, .figure--caption_left.gridle-debug:before, .gridle-debug .figure--caption_right:before, .figure--caption_right.gridle-debug:before, .gridle-debug .figure--caption_top:before, .figure--caption_top.gridle-debug:before, .gridle-debug .figure--caption_bottom:before, .figure--caption_bottom.gridle-debug:before, .gridle-debug #sidebar:before, #sidebar.gridle-debug:before, .gridle-debug #sidebar #menu:before, #sidebar #menu.gridle-debug:before, .gridle-debug
 #sidebar #footer:before,
-#sidebar #footer.gridle-debug:before, .gridle-debug #sidebar + main:before, #sidebar + main.gridle-debug:before, .gridle-debug .grid-portrait-0:after, .grid-portrait-0.gridle-debug:after, .gridle-debug .grid-portrait-1:after, .grid-portrait-1.gridle-debug:after, .gridle-debug .grid-portrait-2:after, .grid-portrait-2.gridle-debug:after, .gridle-debug .grid-portrait-3:after, .grid-portrait-3.gridle-debug:after, .gridle-debug .grid-portrait-4:after, .grid-portrait-4.gridle-debug:after, .gridle-debug .grid-portrait-5:after, .grid-portrait-5.gridle-debug:after, .gridle-debug .grid-portrait-6:after, .grid-portrait-6.gridle-debug:after, .gridle-debug .grid-portrait-7:after, .grid-portrait-7.gridle-debug:after, .gridle-debug .grid-portrait-8:after, .grid-portrait-8.gridle-debug:after, .gridle-debug .grid-portrait-9:after, .grid-portrait-9.gridle-debug:after, .gridle-debug .grid-portrait-10:after, .grid-portrait-10.gridle-debug:after, .gridle-debug .grid-portrait-11:after, .grid-portrait-11.gridle-debug:after, .gridle-debug .grid-portrait-12:after, .grid-portrait-12.gridle-debug:after, .gridle-debug .grid-landscape-0:after, .grid-landscape-0.gridle-debug:after, .gridle-debug .grid-landscape-1:after, .grid-landscape-1.gridle-debug:after, .gridle-debug .grid-landscape-2:after, .grid-landscape-2.gridle-debug:after, .gridle-debug .grid-landscape-3:after, .grid-landscape-3.gridle-debug:after, .gridle-debug .grid-landscape-4:after, .grid-landscape-4.gridle-debug:after, .gridle-debug .grid-landscape-5:after, .grid-landscape-5.gridle-debug:after, .gridle-debug .grid-landscape-6:after, .grid-landscape-6.gridle-debug:after, .gridle-debug .grid-landscape-7:after, .grid-landscape-7.gridle-debug:after, .gridle-debug .grid-landscape-8:after, .grid-landscape-8.gridle-debug:after, .gridle-debug .grid-landscape-9:after, .grid-landscape-9.gridle-debug:after, .gridle-debug .grid-landscape-10:after, .grid-landscape-10.gridle-debug:after, .gridle-debug .grid-landscape-11:after, .grid-landscape-11.gridle-debug:after, .gridle-debug .grid-landscape-12:after, .grid-landscape-12.gridle-debug:after, .gridle-debug .grid-0:after, .grid-0.gridle-debug:after, .gridle-debug .grid-1:after, .grid-1.gridle-debug:after, .gridle-debug .grid-2:after, .grid-2.gridle-debug:after, .gridle-debug .grid-3:after, .grid-3.gridle-debug:after, .gridle-debug .grid-4:after, .grid-4.gridle-debug:after, .gridle-debug .grid-5:after, .grid-5.gridle-debug:after, .gridle-debug .grid-6:after, .grid-6.gridle-debug:after, .gridle-debug .grid-7:after, .grid-7.gridle-debug:after, .gridle-debug .grid-8:after, .grid-8.gridle-debug:after, .gridle-debug .grid-9:after, .grid-9.gridle-debug:after, .gridle-debug .grid-10:after, .grid-10.gridle-debug:after, .gridle-debug .grid-11:after, .grid-11.gridle-debug:after, .gridle-debug .grid-12:after, .grid-12.gridle-debug:after, .gridle-debug .grid-desktop-0:after, .grid-desktop-0.gridle-debug:after, .gridle-debug .grid-desktop-1:after, .grid-desktop-1.gridle-debug:after, .gridle-debug .grid-desktop-2:after, .grid-desktop-2.gridle-debug:after, .gridle-debug .grid-desktop-3:after, .grid-desktop-3.gridle-debug:after, .gridle-debug .grid-desktop-4:after, .grid-desktop-4.gridle-debug:after, .gridle-debug .grid-desktop-5:after, .grid-desktop-5.gridle-debug:after, .gridle-debug .grid-desktop-6:after, .grid-desktop-6.gridle-debug:after, .gridle-debug .grid-desktop-7:after, .grid-desktop-7.gridle-debug:after, .gridle-debug .grid-desktop-8:after, .grid-desktop-8.gridle-debug:after, .gridle-debug .grid-desktop-9:after, .grid-desktop-9.gridle-debug:after, .gridle-debug .grid-desktop-10:after, .grid-desktop-10.gridle-debug:after, .gridle-debug .grid-desktop-11:after, .grid-desktop-11.gridle-debug:after, .gridle-debug .grid-desktop-12:after, .grid-desktop-12.gridle-debug:after, .gridle-debug .grid-tablet-0:after, .grid-tablet-0.gridle-debug:after, .gridle-debug .grid-tablet-1:after, .grid-tablet-1.gridle-debug:after, .gridle-debug .grid-tablet-2:after, .grid-tablet-2.gridle-debug:after, .gridle-debug .grid-tablet-3:after, .grid-tablet-3.gridle-debug:after, .gridle-debug .grid-tablet-4:after, .grid-tablet-4.gridle-debug:after, .gridle-debug .grid-tablet-5:after, .grid-tablet-5.gridle-debug:after, .gridle-debug .grid-tablet-6:after, .grid-tablet-6.gridle-debug:after, .gridle-debug .grid-tablet-7:after, .grid-tablet-7.gridle-debug:after, .gridle-debug .grid-tablet-8:after, .grid-tablet-8.gridle-debug:after, .gridle-debug .grid-tablet-9:after, .grid-tablet-9.gridle-debug:after, .gridle-debug .grid-tablet-10:after, .grid-tablet-10.gridle-debug:after, .gridle-debug .grid-tablet-11:after, .grid-tablet-11.gridle-debug:after, .gridle-debug .grid-tablet-12:after, .grid-tablet-12.gridle-debug:after, .gridle-debug .grid-mobile-0:after, .grid-mobile-0.gridle-debug:after, .gridle-debug .grid-mobile-1:after, .grid-mobile-1.gridle-debug:after, .gridle-debug .grid-mobile-2:after, .grid-mobile-2.gridle-debug:after, .gridle-debug .grid-mobile-3:after, .grid-mobile-3.gridle-debug:after, .gridle-debug .grid-mobile-4:after, .grid-mobile-4.gridle-debug:after, .gridle-debug .grid-mobile-5:after, .grid-mobile-5.gridle-debug:after, .gridle-debug .grid-mobile-6:after, .grid-mobile-6.gridle-debug:after, .gridle-debug .grid-mobile-7:after, .grid-mobile-7.gridle-debug:after, .gridle-debug .grid-mobile-8:after, .grid-mobile-8.gridle-debug:after, .gridle-debug .grid-mobile-9:after, .grid-mobile-9.gridle-debug:after, .gridle-debug .grid-mobile-10:after, .grid-mobile-10.gridle-debug:after, .gridle-debug .grid-mobile-11:after, .grid-mobile-11.gridle-debug:after, .gridle-debug .grid-mobile-12:after, .grid-mobile-12.gridle-debug:after, .gridle-debug #sidebar:after, #sidebar.gridle-debug:after, .gridle-debug #sidebar #menu:after, #sidebar #menu.gridle-debug:after, .gridle-debug
+#sidebar #footer.gridle-debug:before, .gridle-debug #sidebar + main:before, #sidebar + main.gridle-debug:before, .gridle-debug .grid-portrait-0:after, .grid-portrait-0.gridle-debug:after, .gridle-debug .grid-portrait-1:after, .grid-portrait-1.gridle-debug:after, .gridle-debug .grid-portrait-2:after, .grid-portrait-2.gridle-debug:after, .gridle-debug .grid-portrait-3:after, .grid-portrait-3.gridle-debug:after, .gridle-debug .grid-portrait-4:after, .grid-portrait-4.gridle-debug:after, .gridle-debug .grid-portrait-5:after, .grid-portrait-5.gridle-debug:after, .gridle-debug .grid-portrait-6:after, .grid-portrait-6.gridle-debug:after, .gridle-debug .grid-portrait-7:after, .grid-portrait-7.gridle-debug:after, .gridle-debug .grid-portrait-8:after, .grid-portrait-8.gridle-debug:after, .gridle-debug .grid-portrait-9:after, .grid-portrait-9.gridle-debug:after, .gridle-debug .grid-portrait-10:after, .grid-portrait-10.gridle-debug:after, .gridle-debug .grid-portrait-11:after, .grid-portrait-11.gridle-debug:after, .gridle-debug .grid-portrait-12:after, .grid-portrait-12.gridle-debug:after, .gridle-debug .grid-landscape-0:after, .grid-landscape-0.gridle-debug:after, .gridle-debug .grid-landscape-1:after, .grid-landscape-1.gridle-debug:after, .gridle-debug .grid-landscape-2:after, .grid-landscape-2.gridle-debug:after, .gridle-debug .grid-landscape-3:after, .grid-landscape-3.gridle-debug:after, .gridle-debug .grid-landscape-4:after, .grid-landscape-4.gridle-debug:after, .gridle-debug .grid-landscape-5:after, .grid-landscape-5.gridle-debug:after, .gridle-debug .grid-landscape-6:after, .grid-landscape-6.gridle-debug:after, .gridle-debug .grid-landscape-7:after, .grid-landscape-7.gridle-debug:after, .gridle-debug .grid-landscape-8:after, .grid-landscape-8.gridle-debug:after, .gridle-debug .grid-landscape-9:after, .grid-landscape-9.gridle-debug:after, .gridle-debug .grid-landscape-10:after, .grid-landscape-10.gridle-debug:after, .gridle-debug .grid-landscape-11:after, .grid-landscape-11.gridle-debug:after, .gridle-debug .grid-landscape-12:after, .grid-landscape-12.gridle-debug:after, .gridle-debug .grid-0:after, .grid-0.gridle-debug:after, .gridle-debug .grid-1:after, .grid-1.gridle-debug:after, .gridle-debug .grid-2:after, .grid-2.gridle-debug:after, .gridle-debug .grid-3:after, .grid-3.gridle-debug:after, .gridle-debug .grid-4:after, .grid-4.gridle-debug:after, .gridle-debug .grid-5:after, .grid-5.gridle-debug:after, .gridle-debug .grid-6:after, .grid-6.gridle-debug:after, .gridle-debug .grid-7:after, .grid-7.gridle-debug:after, .gridle-debug .grid-8:after, .grid-8.gridle-debug:after, .gridle-debug .grid-9:after, .grid-9.gridle-debug:after, .gridle-debug .grid-10:after, .grid-10.gridle-debug:after, .gridle-debug .grid-11:after, .grid-11.gridle-debug:after, .gridle-debug .grid-12:after, .grid-12.gridle-debug:after, .gridle-debug .grid-desktop-0:after, .grid-desktop-0.gridle-debug:after, .gridle-debug .grid-desktop-1:after, .grid-desktop-1.gridle-debug:after, .gridle-debug .grid-desktop-2:after, .grid-desktop-2.gridle-debug:after, .gridle-debug .grid-desktop-3:after, .grid-desktop-3.gridle-debug:after, .gridle-debug .grid-desktop-4:after, .grid-desktop-4.gridle-debug:after, .gridle-debug .grid-desktop-5:after, .grid-desktop-5.gridle-debug:after, .gridle-debug .grid-desktop-6:after, .grid-desktop-6.gridle-debug:after, .gridle-debug .grid-desktop-7:after, .grid-desktop-7.gridle-debug:after, .gridle-debug .grid-desktop-8:after, .grid-desktop-8.gridle-debug:after, .gridle-debug .grid-desktop-9:after, .grid-desktop-9.gridle-debug:after, .gridle-debug .grid-desktop-10:after, .grid-desktop-10.gridle-debug:after, .gridle-debug .grid-desktop-11:after, .grid-desktop-11.gridle-debug:after, .gridle-debug .grid-desktop-12:after, .grid-desktop-12.gridle-debug:after, .gridle-debug .grid-tablet-0:after, .grid-tablet-0.gridle-debug:after, .gridle-debug .grid-tablet-1:after, .grid-tablet-1.gridle-debug:after, .gridle-debug .grid-tablet-2:after, .grid-tablet-2.gridle-debug:after, .gridle-debug .grid-tablet-3:after, .grid-tablet-3.gridle-debug:after, .gridle-debug .grid-tablet-4:after, .grid-tablet-4.gridle-debug:after, .gridle-debug .grid-tablet-5:after, .grid-tablet-5.gridle-debug:after, .gridle-debug .grid-tablet-6:after, .grid-tablet-6.gridle-debug:after, .gridle-debug .grid-tablet-7:after, .grid-tablet-7.gridle-debug:after, .gridle-debug .grid-tablet-8:after, .grid-tablet-8.gridle-debug:after, .gridle-debug .grid-tablet-9:after, .grid-tablet-9.gridle-debug:after, .gridle-debug .grid-tablet-10:after, .grid-tablet-10.gridle-debug:after, .gridle-debug .grid-tablet-11:after, .grid-tablet-11.gridle-debug:after, .gridle-debug .grid-tablet-12:after, .grid-tablet-12.gridle-debug:after, .gridle-debug .grid-mobile-0:after, .grid-mobile-0.gridle-debug:after, .gridle-debug .grid-mobile-1:after, .grid-mobile-1.gridle-debug:after, .gridle-debug .grid-mobile-2:after, .grid-mobile-2.gridle-debug:after, .gridle-debug .grid-mobile-3:after, .grid-mobile-3.gridle-debug:after, .gridle-debug .grid-mobile-4:after, .grid-mobile-4.gridle-debug:after, .gridle-debug .grid-mobile-5:after, .grid-mobile-5.gridle-debug:after, .gridle-debug .grid-mobile-6:after, .grid-mobile-6.gridle-debug:after, .gridle-debug .grid-mobile-7:after, .grid-mobile-7.gridle-debug:after, .gridle-debug .grid-mobile-8:after, .grid-mobile-8.gridle-debug:after, .gridle-debug .grid-mobile-9:after, .grid-mobile-9.gridle-debug:after, .gridle-debug .grid-mobile-10:after, .grid-mobile-10.gridle-debug:after, .gridle-debug .grid-mobile-11:after, .grid-mobile-11.gridle-debug:after, .gridle-debug .grid-mobile-12:after, .grid-mobile-12.gridle-debug:after, .gridle-debug .figure--caption_left:after, .figure--caption_left.gridle-debug:after, .gridle-debug .figure--caption_right:after, .figure--caption_right.gridle-debug:after, .gridle-debug .figure--caption_top:after, .figure--caption_top.gridle-debug:after, .gridle-debug .figure--caption_bottom:after, .figure--caption_bottom.gridle-debug:after, .gridle-debug #sidebar:after, #sidebar.gridle-debug:after, .gridle-debug #sidebar #menu:after, #sidebar #menu.gridle-debug:after, .gridle-debug
 #sidebar #footer:after,
 #sidebar #footer.gridle-debug:after, .gridle-debug #sidebar + main:after, #sidebar + main.gridle-debug:after {
   content: "";
@@ -2625,14 +2625,14 @@
   display: block !important;
 }
 
-.grid-portrait-0, .grid-portrait-1, .grid-portrait-2, .grid-portrait-3, .grid-portrait-4, .grid-portrait-5, .grid-portrait-6, .grid-portrait-7, .grid-portrait-8, .grid-portrait-9, .grid-portrait-10, .grid-portrait-11, .grid-portrait-12, .grid-landscape-0, .grid-landscape-1, .grid-landscape-2, .grid-landscape-3, .grid-landscape-4, .grid-landscape-5, .grid-landscape-6, .grid-landscape-7, .grid-landscape-8, .grid-landscape-9, .grid-landscape-10, .grid-landscape-11, .grid-landscape-12, .grid-0, .grid-1, .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10, .grid-11, .grid-12, .grid-desktop-0, .grid-desktop-1, .grid-desktop-2, .grid-desktop-3, .grid-desktop-4, .grid-desktop-5, .grid-desktop-6, .grid-desktop-7, .grid-desktop-8, .grid-desktop-9, .grid-desktop-10, .grid-desktop-11, .grid-desktop-12, .grid-tablet-0, .grid-tablet-1, .grid-tablet-2, .grid-tablet-3, .grid-tablet-4, .grid-tablet-5, .grid-tablet-6, .grid-tablet-7, .grid-tablet-8, .grid-tablet-9, .grid-tablet-10, .grid-tablet-11, .grid-tablet-12, .grid-mobile-0, .grid-mobile-1, .grid-mobile-2, .grid-mobile-3, .grid-mobile-4, .grid-mobile-5, .grid-mobile-6, .grid-mobile-7, .grid-mobile-8, .grid-mobile-9, .grid-mobile-10, .grid-mobile-11, .grid-mobile-12, #sidebar, #sidebar #menu,
+.grid-portrait-0, .grid-portrait-1, .grid-portrait-2, .grid-portrait-3, .grid-portrait-4, .grid-portrait-5, .grid-portrait-6, .grid-portrait-7, .grid-portrait-8, .grid-portrait-9, .grid-portrait-10, .grid-portrait-11, .grid-portrait-12, .grid-landscape-0, .grid-landscape-1, .grid-landscape-2, .grid-landscape-3, .grid-landscape-4, .grid-landscape-5, .grid-landscape-6, .grid-landscape-7, .grid-landscape-8, .grid-landscape-9, .grid-landscape-10, .grid-landscape-11, .grid-landscape-12, .grid-0, .grid-1, .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10, .grid-11, .grid-12, .grid-desktop-0, .grid-desktop-1, .grid-desktop-2, .grid-desktop-3, .grid-desktop-4, .grid-desktop-5, .grid-desktop-6, .grid-desktop-7, .grid-desktop-8, .grid-desktop-9, .grid-desktop-10, .grid-desktop-11, .grid-desktop-12, .grid-tablet-0, .grid-tablet-1, .grid-tablet-2, .grid-tablet-3, .grid-tablet-4, .grid-tablet-5, .grid-tablet-6, .grid-tablet-7, .grid-tablet-8, .grid-tablet-9, .grid-tablet-10, .grid-tablet-11, .grid-tablet-12, .grid-mobile-0, .grid-mobile-1, .grid-mobile-2, .grid-mobile-3, .grid-mobile-4, .grid-mobile-5, .grid-mobile-6, .grid-mobile-7, .grid-mobile-8, .grid-mobile-9, .grid-mobile-10, .grid-mobile-11, .grid-mobile-12, .figure--caption_left, .figure--caption_right, .figure--caption_top, .figure--caption_bottom, #sidebar, #sidebar #menu,
 #sidebar #footer, #sidebar + main {
   display: inline-block;
   min-height: 1px;
   box-sizing: border-box;
 }
 
-.gridle-debug .prefix-portrait-0, .prefix-portrait-0.gridle-debug, .gridle-debug .prefix-portrait-1, .prefix-portrait-1.gridle-debug, .gridle-debug .prefix-portrait-2, .prefix-portrait-2.gridle-debug, .gridle-debug .prefix-portrait-3, .prefix-portrait-3.gridle-debug, .gridle-debug .prefix-portrait-4, .prefix-portrait-4.gridle-debug, .gridle-debug .prefix-portrait-5, .prefix-portrait-5.gridle-debug, .gridle-debug .prefix-portrait-6, .prefix-portrait-6.gridle-debug, .gridle-debug .prefix-portrait-7, .prefix-portrait-7.gridle-debug, .gridle-debug .prefix-portrait-8, .prefix-portrait-8.gridle-debug, .gridle-debug .prefix-portrait-9, .prefix-portrait-9.gridle-debug, .gridle-debug .prefix-portrait-10, .prefix-portrait-10.gridle-debug, .gridle-debug .prefix-portrait-11, .prefix-portrait-11.gridle-debug, .gridle-debug .prefix-portrait-12, .prefix-portrait-12.gridle-debug, .gridle-debug .prefix-landscape-0, .prefix-landscape-0.gridle-debug, .gridle-debug .prefix-landscape-1, .prefix-landscape-1.gridle-debug, .gridle-debug .prefix-landscape-2, .prefix-landscape-2.gridle-debug, .gridle-debug .prefix-landscape-3, .prefix-landscape-3.gridle-debug, .gridle-debug .prefix-landscape-4, .prefix-landscape-4.gridle-debug, .gridle-debug .prefix-landscape-5, .prefix-landscape-5.gridle-debug, .gridle-debug .prefix-landscape-6, .prefix-landscape-6.gridle-debug, .gridle-debug .prefix-landscape-7, .prefix-landscape-7.gridle-debug, .gridle-debug .prefix-landscape-8, .prefix-landscape-8.gridle-debug, .gridle-debug .prefix-landscape-9, .prefix-landscape-9.gridle-debug, .gridle-debug .prefix-landscape-10, .prefix-landscape-10.gridle-debug, .gridle-debug .prefix-landscape-11, .prefix-landscape-11.gridle-debug, .gridle-debug .prefix-landscape-12, .prefix-landscape-12.gridle-debug, .gridle-debug .prefix-0, .prefix-0.gridle-debug, .gridle-debug .prefix-1, .prefix-1.gridle-debug, .gridle-debug .prefix-2, .prefix-2.gridle-debug, .gridle-debug .prefix-3, .prefix-3.gridle-debug, .gridle-debug .prefix-4, .prefix-4.gridle-debug, .gridle-debug .prefix-5, .prefix-5.gridle-debug, .gridle-debug .prefix-6, .prefix-6.gridle-debug, .gridle-debug .prefix-7, .prefix-7.gridle-debug, .gridle-debug .prefix-8, .prefix-8.gridle-debug, .gridle-debug .prefix-9, .prefix-9.gridle-debug, .gridle-debug .prefix-10, .prefix-10.gridle-debug, .gridle-debug .prefix-11, .prefix-11.gridle-debug, .gridle-debug .prefix-12, .prefix-12.gridle-debug, .gridle-debug .prefix-desktop-0, .prefix-desktop-0.gridle-debug, .gridle-debug .prefix-desktop-1, .prefix-desktop-1.gridle-debug, .gridle-debug .prefix-desktop-2, .prefix-desktop-2.gridle-debug, .gridle-debug .prefix-desktop-3, .prefix-desktop-3.gridle-debug, .gridle-debug .prefix-desktop-4, .prefix-desktop-4.gridle-debug, .gridle-debug .prefix-desktop-5, .prefix-desktop-5.gridle-debug, .gridle-debug .prefix-desktop-6, .prefix-desktop-6.gridle-debug, .gridle-debug .prefix-desktop-7, .prefix-desktop-7.gridle-debug, .gridle-debug .prefix-desktop-8, .prefix-desktop-8.gridle-debug, .gridle-debug .prefix-desktop-9, .prefix-desktop-9.gridle-debug, .gridle-debug .prefix-desktop-10, .prefix-desktop-10.gridle-debug, .gridle-debug .prefix-desktop-11, .prefix-desktop-11.gridle-debug, .gridle-debug .prefix-desktop-12, .prefix-desktop-12.gridle-debug, .gridle-debug .prefix-tablet-0, .prefix-tablet-0.gridle-debug, .gridle-debug .prefix-tablet-1, .prefix-tablet-1.gridle-debug, .gridle-debug .prefix-tablet-2, .prefix-tablet-2.gridle-debug, .gridle-debug .prefix-tablet-3, .prefix-tablet-3.gridle-debug, .gridle-debug .prefix-tablet-4, .prefix-tablet-4.gridle-debug, .gridle-debug .prefix-tablet-5, .prefix-tablet-5.gridle-debug, .gridle-debug .prefix-tablet-6, .prefix-tablet-6.gridle-debug, .gridle-debug .prefix-tablet-7, .prefix-tablet-7.gridle-debug, .gridle-debug .prefix-tablet-8, .prefix-tablet-8.gridle-debug, .gridle-debug .prefix-tablet-9, .prefix-tablet-9.gridle-debug, .gridle-debug .prefix-tablet-10, .prefix-tablet-10.gridle-debug, .gridle-debug .prefix-tablet-11, .prefix-tablet-11.gridle-debug, .gridle-debug .prefix-tablet-12, .prefix-tablet-12.gridle-debug, .gridle-debug .prefix-mobile-0, .prefix-mobile-0.gridle-debug, .gridle-debug .prefix-mobile-1, .prefix-mobile-1.gridle-debug, .gridle-debug .prefix-mobile-2, .prefix-mobile-2.gridle-debug, .gridle-debug .prefix-mobile-3, .prefix-mobile-3.gridle-debug, .gridle-debug .prefix-mobile-4, .prefix-mobile-4.gridle-debug, .gridle-debug .prefix-mobile-5, .prefix-mobile-5.gridle-debug, .gridle-debug .prefix-mobile-6, .prefix-mobile-6.gridle-debug, .gridle-debug .prefix-mobile-7, .prefix-mobile-7.gridle-debug, .gridle-debug .prefix-mobile-8, .prefix-mobile-8.gridle-debug, .gridle-debug .prefix-mobile-9, .prefix-mobile-9.gridle-debug, .gridle-debug .prefix-mobile-10, .prefix-mobile-10.gridle-debug, .gridle-debug .prefix-mobile-11, .prefix-mobile-11.gridle-debug, .gridle-debug .prefix-mobile-12, .prefix-mobile-12.gridle-debug, .gridle-debug #sidebar + main, #sidebar + main.gridle-debug {
+.gridle-debug .prefix-portrait-0, .prefix-portrait-0.gridle-debug, .gridle-debug .prefix-portrait-1, .prefix-portrait-1.gridle-debug, .gridle-debug .prefix-portrait-2, .prefix-portrait-2.gridle-debug, .gridle-debug .prefix-portrait-3, .prefix-portrait-3.gridle-debug, .gridle-debug .prefix-portrait-4, .prefix-portrait-4.gridle-debug, .gridle-debug .prefix-portrait-5, .prefix-portrait-5.gridle-debug, .gridle-debug .prefix-portrait-6, .prefix-portrait-6.gridle-debug, .gridle-debug .prefix-portrait-7, .prefix-portrait-7.gridle-debug, .gridle-debug .prefix-portrait-8, .prefix-portrait-8.gridle-debug, .gridle-debug .prefix-portrait-9, .prefix-portrait-9.gridle-debug, .gridle-debug .prefix-portrait-10, .prefix-portrait-10.gridle-debug, .gridle-debug .prefix-portrait-11, .prefix-portrait-11.gridle-debug, .gridle-debug .prefix-portrait-12, .prefix-portrait-12.gridle-debug, .gridle-debug .prefix-landscape-0, .prefix-landscape-0.gridle-debug, .gridle-debug .prefix-landscape-1, .prefix-landscape-1.gridle-debug, .gridle-debug .prefix-landscape-2, .prefix-landscape-2.gridle-debug, .gridle-debug .prefix-landscape-3, .prefix-landscape-3.gridle-debug, .gridle-debug .prefix-landscape-4, .prefix-landscape-4.gridle-debug, .gridle-debug .prefix-landscape-5, .prefix-landscape-5.gridle-debug, .gridle-debug .prefix-landscape-6, .prefix-landscape-6.gridle-debug, .gridle-debug .prefix-landscape-7, .prefix-landscape-7.gridle-debug, .gridle-debug .prefix-landscape-8, .prefix-landscape-8.gridle-debug, .gridle-debug .prefix-landscape-9, .prefix-landscape-9.gridle-debug, .gridle-debug .prefix-landscape-10, .prefix-landscape-10.gridle-debug, .gridle-debug .prefix-landscape-11, .prefix-landscape-11.gridle-debug, .gridle-debug .prefix-landscape-12, .prefix-landscape-12.gridle-debug, .gridle-debug .prefix-0, .prefix-0.gridle-debug, .gridle-debug .prefix-1, .prefix-1.gridle-debug, .gridle-debug .prefix-2, .prefix-2.gridle-debug, .gridle-debug .prefix-3, .prefix-3.gridle-debug, .gridle-debug .prefix-4, .prefix-4.gridle-debug, .gridle-debug .prefix-5, .prefix-5.gridle-debug, .gridle-debug .prefix-6, .prefix-6.gridle-debug, .gridle-debug .prefix-7, .prefix-7.gridle-debug, .gridle-debug .prefix-8, .prefix-8.gridle-debug, .gridle-debug .prefix-9, .prefix-9.gridle-debug, .gridle-debug .prefix-10, .prefix-10.gridle-debug, .gridle-debug .prefix-11, .prefix-11.gridle-debug, .gridle-debug .prefix-12, .prefix-12.gridle-debug, .gridle-debug .prefix-desktop-0, .prefix-desktop-0.gridle-debug, .gridle-debug .prefix-desktop-1, .prefix-desktop-1.gridle-debug, .gridle-debug .prefix-desktop-2, .prefix-desktop-2.gridle-debug, .gridle-debug .prefix-desktop-3, .prefix-desktop-3.gridle-debug, .gridle-debug .prefix-desktop-4, .prefix-desktop-4.gridle-debug, .gridle-debug .prefix-desktop-5, .prefix-desktop-5.gridle-debug, .gridle-debug .prefix-desktop-6, .prefix-desktop-6.gridle-debug, .gridle-debug .prefix-desktop-7, .prefix-desktop-7.gridle-debug, .gridle-debug .prefix-desktop-8, .prefix-desktop-8.gridle-debug, .gridle-debug .prefix-desktop-9, .prefix-desktop-9.gridle-debug, .gridle-debug .prefix-desktop-10, .prefix-desktop-10.gridle-debug, .gridle-debug .prefix-desktop-11, .prefix-desktop-11.gridle-debug, .gridle-debug .prefix-desktop-12, .prefix-desktop-12.gridle-debug, .gridle-debug .prefix-tablet-0, .prefix-tablet-0.gridle-debug, .gridle-debug .prefix-tablet-1, .prefix-tablet-1.gridle-debug, .gridle-debug .prefix-tablet-2, .prefix-tablet-2.gridle-debug, .gridle-debug .prefix-tablet-3, .prefix-tablet-3.gridle-debug, .gridle-debug .prefix-tablet-4, .prefix-tablet-4.gridle-debug, .gridle-debug .prefix-tablet-5, .prefix-tablet-5.gridle-debug, .gridle-debug .prefix-tablet-6, .prefix-tablet-6.gridle-debug, .gridle-debug .prefix-tablet-7, .prefix-tablet-7.gridle-debug, .gridle-debug .prefix-tablet-8, .prefix-tablet-8.gridle-debug, .gridle-debug .prefix-tablet-9, .prefix-tablet-9.gridle-debug, .gridle-debug .prefix-tablet-10, .prefix-tablet-10.gridle-debug, .gridle-debug .prefix-tablet-11, .prefix-tablet-11.gridle-debug, .gridle-debug .prefix-tablet-12, .prefix-tablet-12.gridle-debug, .gridle-debug .prefix-mobile-0, .prefix-mobile-0.gridle-debug, .gridle-debug .prefix-mobile-1, .prefix-mobile-1.gridle-debug, .gridle-debug .prefix-mobile-2, .prefix-mobile-2.gridle-debug, .gridle-debug .prefix-mobile-3, .prefix-mobile-3.gridle-debug, .gridle-debug .prefix-mobile-4, .prefix-mobile-4.gridle-debug, .gridle-debug .prefix-mobile-5, .prefix-mobile-5.gridle-debug, .gridle-debug .prefix-mobile-6, .prefix-mobile-6.gridle-debug, .gridle-debug .prefix-mobile-7, .prefix-mobile-7.gridle-debug, .gridle-debug .prefix-mobile-8, .prefix-mobile-8.gridle-debug, .gridle-debug .prefix-mobile-9, .prefix-mobile-9.gridle-debug, .gridle-debug .prefix-mobile-10, .prefix-mobile-10.gridle-debug, .gridle-debug .prefix-mobile-11, .prefix-mobile-11.gridle-debug, .gridle-debug .prefix-mobile-12, .prefix-mobile-12.gridle-debug, .gridle-debug .figure--caption_right, .figure--caption_right.gridle-debug, .gridle-debug .figure--caption_top, .figure--caption_top.gridle-debug, .gridle-debug .figure--caption_bottom, .figure--caption_bottom.gridle-debug, .gridle-debug #sidebar + main, #sidebar + main.gridle-debug {
   background-color: #dae7e9 !important;
 }
 
@@ -11017,15 +11017,10 @@ html body {
 }
 
 .legible-block {
-  max-width: 45em;
+  max-width: 46em;
   line-height: 1.75;
   text-align: left;
-  padding-left: 0.75rem;
-  padding-right: 0.75rem;
-}
-html.default .legible-block {
-  padding-left: 0.75rem;
-  padding-right: 0.75rem;
+  padding: 0 2em;
 }
 
 .block-center-solo > *:only-child {
@@ -11052,21 +11047,232 @@ img {
   max-width: 100%;
 }
 
-figure {
+.figure {
   position: relative;
   display: block;
+  min-height: 500px;
+  height: 65vh;
+  max-height: 700px;
   margin: 0;
-  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-  min-height: 65vh;
+  background-size: cover;
 }
-figure figcaption {
+.figure--caption {
   position: absolute;
+}
+.figure--caption_left, .figure--caption_right {
   top: 50%;
   -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
           transform: translateY(-50%);
+  float: left;
+  direction: ltr;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  width: 41.66667%;
+}
+html.default .figure--caption_left, html.default .figure--caption_right {
+  float: left;
+  direction: ltr;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+html.mobile .figure--caption_left, html.mobile .figure--caption_right {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+@media screen and (max-width: 36em) {
+  .figure--caption_left, .figure--caption_right {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+}
+html.default .figure--caption_left, html.default .figure--caption_right {
+  width: 41.66667%;
+}
+.gridle-debug html.default .figure--caption_left:before, html.default .figure--caption_left.gridle-debug:before, .gridle-debug html.default .figure--caption_right:before, html.default .figure--caption_right.gridle-debug:before {
+  content: "grid-default-5";
+}
+.gridle-debug html.default .figure--caption_left.parent:before, html.default .figure--caption_left.gridle-debug.parent:before, .gridle-debug html.default .figure--caption_right.parent:before, html.default .figure--caption_right.gridle-debug.parent:before {
+  content: "grid-parent-default-5";
+}
+.gridle-debug .figure--caption_left:before, .figure--caption_left.gridle-debug:before, .gridle-debug .figure--caption_right:before, .figure--caption_right.gridle-debug:before {
+  content: "grid-default-5";
+}
+.gridle-debug .figure--caption_left.parent:before, .figure--caption_left.gridle-debug.parent:before, .gridle-debug .figure--caption_right.parent:before, .figure--caption_right.gridle-debug.parent:before {
+  content: "grid-parent-default-5";
+}
+html.tablet .figure--caption_left, html.tablet .figure--caption_right {
+  width: 50%;
+}
+.gridle-debug html.tablet .figure--caption_left:before, html.tablet .figure--caption_left.gridle-debug:before, .gridle-debug html.tablet .figure--caption_right:before, html.tablet .figure--caption_right.gridle-debug:before {
+  content: "grid-tablet-6" !important;
+}
+.gridle-debug html.tablet .figure--caption_left.parent:before, html.tablet .figure--caption_left.gridle-debug.parent:before, .gridle-debug html.tablet .figure--caption_right.parent:before, html.tablet .figure--caption_right.gridle-debug.parent:before {
+  content: "grid-parent-tablet-6" !important;
+}
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .figure--caption_left, .figure--caption_right {
+    width: 50%;
+  }
+  .gridle-debug .figure--caption_left:before, .figure--caption_left.gridle-debug:before, .gridle-debug .figure--caption_right:before, .figure--caption_right.gridle-debug:before {
+    content: "grid-tablet-6" !important;
+  }
+  .gridle-debug .figure--caption_left.parent:before, .figure--caption_left.gridle-debug.parent:before, .gridle-debug .figure--caption_right.parent:before, .figure--caption_right.gridle-debug.parent:before {
+    content: "grid-parent-tablet-6" !important;
+  }
+}
+html.mobile .figure--caption_left, html.mobile .figure--caption_right {
+  width: 58.33333%;
+}
+.gridle-debug html.mobile .figure--caption_left:before, html.mobile .figure--caption_left.gridle-debug:before, .gridle-debug html.mobile .figure--caption_right:before, html.mobile .figure--caption_right.gridle-debug:before {
+  content: "grid-mobile-7" !important;
+}
+.gridle-debug html.mobile .figure--caption_left.parent:before, html.mobile .figure--caption_left.gridle-debug.parent:before, .gridle-debug html.mobile .figure--caption_right.parent:before, html.mobile .figure--caption_right.gridle-debug.parent:before {
+  content: "grid-parent-mobile-7" !important;
+}
+@media screen and (max-width: 36em) {
+  .figure--caption_left, .figure--caption_right {
+    width: 58.33333%;
+  }
+  .gridle-debug .figure--caption_left:before, .figure--caption_left.gridle-debug:before, .gridle-debug .figure--caption_right:before, .figure--caption_right.gridle-debug:before {
+    content: "grid-mobile-7" !important;
+  }
+  .gridle-debug .figure--caption_left.parent:before, .figure--caption_left.gridle-debug.parent:before, .gridle-debug .figure--caption_right.parent:before, .figure--caption_right.gridle-debug.parent:before {
+    content: "grid-parent-mobile-7" !important;
+  }
+}
+html.tablet .figure--caption_left, html.tablet .figure--caption_right {
+  text-align: center !important;
+}
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .figure--caption_left, .figure--caption_right {
+    text-align: center !important;
+  }
+}
+html.mobile .figure--caption_left, html.mobile .figure--caption_right {
+  text-align: center !important;
+}
+@media screen and (max-width: 36em) {
+  .figure--caption_left, .figure--caption_right {
+    text-align: center !important;
+  }
+}
+.figure--caption_left {
+  text-align: left;
+}
+.figure--caption_right {
+  text-align: right;
+}
+html.desktop .figure--caption_right {
+  margin-left: 58.33333%;
+}
+.gridle-debug html.desktop .figure--caption_right:after, html.desktop .figure--caption_right.gridle-debug:after {
+  content: "prefix-desktop-7" !important;
+}
+@media screen and (min-width: 64em) {
+  .figure--caption_right {
+    margin-left: 58.33333%;
+  }
+  .gridle-debug .figure--caption_right:after, .figure--caption_right.gridle-debug:after {
+    content: "prefix-desktop-7" !important;
+  }
+}
+html.tablet .figure--caption_right {
+  margin-left: 50.0%;
+}
+.gridle-debug html.tablet .figure--caption_right:after, html.tablet .figure--caption_right.gridle-debug:after {
+  content: "prefix-tablet-6" !important;
+}
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .figure--caption_right {
+    margin-left: 50.0%;
+  }
+  .gridle-debug .figure--caption_right:after, .figure--caption_right.gridle-debug:after {
+    content: "prefix-tablet-6" !important;
+  }
+}
+html.mobile .figure--caption_right {
+  margin-left: 41.66667%;
+}
+.gridle-debug html.mobile .figure--caption_right:after, html.mobile .figure--caption_right.gridle-debug:after {
+  content: "prefix-mobile-5" !important;
+}
+@media screen and (max-width: 36em) {
+  .figure--caption_right {
+    margin-left: 41.66667%;
+  }
+  .gridle-debug .figure--caption_right:after, .figure--caption_right.gridle-debug:after {
+    content: "prefix-mobile-5" !important;
+  }
+}
+.figure--caption_top, .figure--caption_bottom {
+  text-align: center;
+  float: left;
+  direction: ltr;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  width: 100%;
+  display: block !important;
+  float: none !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  clear: both !important;
+  margin-left: 0%;
+}
+html.default .figure--caption_top, html.default .figure--caption_bottom {
+  float: left;
+  direction: ltr;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+html.mobile .figure--caption_top, html.mobile .figure--caption_bottom {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+@media screen and (max-width: 36em) {
+  .figure--caption_top, .figure--caption_bottom {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+}
+html.default .figure--caption_top, html.default .figure--caption_bottom {
+  width: 100%;
+}
+.gridle-debug html.default .figure--caption_top:before, html.default .figure--caption_top.gridle-debug:before, .gridle-debug html.default .figure--caption_bottom:before, html.default .figure--caption_bottom.gridle-debug:before {
+  content: "grid-default-12";
+}
+.gridle-debug html.default .figure--caption_top.parent:before, html.default .figure--caption_top.gridle-debug.parent:before, .gridle-debug html.default .figure--caption_bottom.parent:before, html.default .figure--caption_bottom.gridle-debug.parent:before {
+  content: "grid-parent-default-12";
+}
+.gridle-debug .figure--caption_top:before, .figure--caption_top.gridle-debug:before, .gridle-debug .figure--caption_bottom:before, .figure--caption_bottom.gridle-debug:before {
+  content: "grid-default-12";
+}
+.gridle-debug .figure--caption_top.parent:before, .figure--caption_top.gridle-debug.parent:before, .gridle-debug .figure--caption_bottom.parent:before, .figure--caption_bottom.gridle-debug.parent:before {
+  content: "grid-parent-default-12";
+}
+html.default .figure--caption_top, html.default .figure--caption_bottom {
+  display: block !important;
+  float: none !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  clear: both !important;
+}
+html.default .figure--caption_top, html.default .figure--caption_bottom {
+  margin-left: 0%;
+}
+.gridle-debug html.default .figure--caption_top:after, html.default .figure--caption_top.gridle-debug:after, .gridle-debug html.default .figure--caption_bottom:after, html.default .figure--caption_bottom.gridle-debug:after {
+  content: "prefix-default-0";
+}
+.gridle-debug .figure--caption_top:after, .figure--caption_top.gridle-debug:after, .gridle-debug .figure--caption_bottom:after, .figure--caption_bottom.gridle-debug:after {
+  content: "prefix-default-0";
+}
+.figure--caption_top {
+  top: 1.5rem;
+}
+.figure--caption_bottom {
+  bottom: 1.5rem;
 }
 
 .link, .soft--links a, .list_inline a, .list_sep-space a, .list_sep-slash a, .list_sep-comma a {
@@ -11129,11 +11335,11 @@ html.default .list_padded .list--item {
   line-height: 1.5;
 }
 
-.card, .card_big, .card_huge, figure, .slider .slide_big {
+.card, .card_big, .card_huge, .slider .slide_big {
   padding: 2rem;
   box-sizing: border-box;
 }
-.card, .card_big, .card_huge, figure, .slider .slide_big, .card:before, .card_big:before, .card_huge:before, figure:before, .slider .slide_big:before, .card:after, .card_big:after, .card_huge:after, figure:after, .slider .slide_big:after {
+.card, .card_big, .card_huge, .slider .slide_big, .card:before, .card_big:before, .card_huge:before, .slider .slide_big:before, .card:after, .card_big:after, .card_huge:after, .slider .slide_big:after {
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -11164,23 +11370,23 @@ html.mobile .card_big {
     text-align: center;
   }
 }
-.card_huge, figure {
+.card_huge {
   padding: 6em 3em;
 }
-html.tablet .card_huge, html.tablet figure {
+html.tablet .card_huge {
   padding: 5rem 2rem;
 }
 @media screen and (min-width: 36.063em) and (max-width: 63.938em) {
-  .card_huge, figure {
+  .card_huge {
     padding: 5rem 2rem;
   }
 }
-html.mobile .card_huge, html.mobile figure {
+html.mobile .card_huge {
   padding: 4.5rem 1rem;
   text-align: center;
 }
 @media screen and (max-width: 36em) {
-  .card_huge, figure {
+  .card_huge {
     padding: 4.5rem 1rem;
     text-align: center;
   }
@@ -11649,15 +11855,10 @@ html.mobile #sidebar + main {
 }
 
 .cms-text {
-  max-width: 45em;
+  max-width: 46em;
   line-height: 1.75;
   text-align: left;
-  padding-left: 0.75rem;
-  padding-right: 0.75rem;
-}
-html.default .cms-text {
-  padding-left: 0.75rem;
-  padding-right: 0.75rem;
+  padding: 0 2em;
 }
 
 html.portrait .ta-justify-portrait {
@@ -12718,6 +12919,2550 @@ html.mobile .m-l-none-mobile {
 @media screen and (max-width: 36em) {
   .m-l-none-mobile {
     margin-left: 0  !important;
+  }
+}
+html.portrait .bgz-auto-portrait {
+  background-size: auto  !important;
+}
+
+@media (orientation: portrait) {
+  .bgz-auto-portrait {
+    background-size: auto  !important;
+  }
+}
+html.landscape .bgz-auto-landscape {
+  background-size: auto  !important;
+}
+
+@media (orientation: landscape) {
+  .bgz-auto-landscape {
+    background-size: auto  !important;
+  }
+}
+html.default .bgz-auto {
+  background-size: auto  !important;
+}
+
+.bgz-auto {
+  background-size: auto  !important;
+}
+
+html.desktop .bgz-auto-desktop {
+  background-size: auto  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgz-auto-desktop {
+    background-size: auto  !important;
+  }
+}
+html.tablet .bgz-auto-tablet {
+  background-size: auto  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgz-auto-tablet {
+    background-size: auto  !important;
+  }
+}
+html.mobile .bgz-auto-mobile {
+  background-size: auto  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgz-auto-mobile {
+    background-size: auto  !important;
+  }
+}
+html.portrait .bgz-height-portrait {
+  background-size: auto 100%  !important;
+}
+
+@media (orientation: portrait) {
+  .bgz-height-portrait {
+    background-size: auto 100%  !important;
+  }
+}
+html.landscape .bgz-height-landscape {
+  background-size: auto 100%  !important;
+}
+
+@media (orientation: landscape) {
+  .bgz-height-landscape {
+    background-size: auto 100%  !important;
+  }
+}
+html.default .bgz-height {
+  background-size: auto 100%  !important;
+}
+
+.bgz-height {
+  background-size: auto 100%  !important;
+}
+
+html.desktop .bgz-height-desktop {
+  background-size: auto 100%  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgz-height-desktop {
+    background-size: auto 100%  !important;
+  }
+}
+html.tablet .bgz-height-tablet {
+  background-size: auto 100%  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgz-height-tablet {
+    background-size: auto 100%  !important;
+  }
+}
+html.mobile .bgz-height-mobile {
+  background-size: auto 100%  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgz-height-mobile {
+    background-size: auto 100%  !important;
+  }
+}
+html.portrait .bgz-h-portrait {
+  background-size: auto 100%  !important;
+}
+
+@media (orientation: portrait) {
+  .bgz-h-portrait {
+    background-size: auto 100%  !important;
+  }
+}
+html.landscape .bgz-h-landscape {
+  background-size: auto 100%  !important;
+}
+
+@media (orientation: landscape) {
+  .bgz-h-landscape {
+    background-size: auto 100%  !important;
+  }
+}
+html.default .bgz-h {
+  background-size: auto 100%  !important;
+}
+
+.bgz-h {
+  background-size: auto 100%  !important;
+}
+
+html.desktop .bgz-h-desktop {
+  background-size: auto 100%  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgz-h-desktop {
+    background-size: auto 100%  !important;
+  }
+}
+html.tablet .bgz-h-tablet {
+  background-size: auto 100%  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgz-h-tablet {
+    background-size: auto 100%  !important;
+  }
+}
+html.mobile .bgz-h-mobile {
+  background-size: auto 100%  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgz-h-mobile {
+    background-size: auto 100%  !important;
+  }
+}
+html.portrait .bgz-width-portrait {
+  background-size: 100% auto  !important;
+}
+
+@media (orientation: portrait) {
+  .bgz-width-portrait {
+    background-size: 100% auto  !important;
+  }
+}
+html.landscape .bgz-width-landscape {
+  background-size: 100% auto  !important;
+}
+
+@media (orientation: landscape) {
+  .bgz-width-landscape {
+    background-size: 100% auto  !important;
+  }
+}
+html.default .bgz-width {
+  background-size: 100% auto  !important;
+}
+
+.bgz-width {
+  background-size: 100% auto  !important;
+}
+
+html.desktop .bgz-width-desktop {
+  background-size: 100% auto  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgz-width-desktop {
+    background-size: 100% auto  !important;
+  }
+}
+html.tablet .bgz-width-tablet {
+  background-size: 100% auto  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgz-width-tablet {
+    background-size: 100% auto  !important;
+  }
+}
+html.mobile .bgz-width-mobile {
+  background-size: 100% auto  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgz-width-mobile {
+    background-size: 100% auto  !important;
+  }
+}
+html.portrait .bgz-w-portrait {
+  background-size: 100% auto  !important;
+}
+
+@media (orientation: portrait) {
+  .bgz-w-portrait {
+    background-size: 100% auto  !important;
+  }
+}
+html.landscape .bgz-w-landscape {
+  background-size: 100% auto  !important;
+}
+
+@media (orientation: landscape) {
+  .bgz-w-landscape {
+    background-size: 100% auto  !important;
+  }
+}
+html.default .bgz-w {
+  background-size: 100% auto  !important;
+}
+
+.bgz-w {
+  background-size: 100% auto  !important;
+}
+
+html.desktop .bgz-w-desktop {
+  background-size: 100% auto  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgz-w-desktop {
+    background-size: 100% auto  !important;
+  }
+}
+html.tablet .bgz-w-tablet {
+  background-size: 100% auto  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgz-w-tablet {
+    background-size: 100% auto  !important;
+  }
+}
+html.mobile .bgz-w-mobile {
+  background-size: 100% auto  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgz-w-mobile {
+    background-size: 100% auto  !important;
+  }
+}
+html.portrait .bgz-cover-portrait {
+  background-size: cover  !important;
+}
+
+@media (orientation: portrait) {
+  .bgz-cover-portrait {
+    background-size: cover  !important;
+  }
+}
+html.landscape .bgz-cover-landscape {
+  background-size: cover  !important;
+}
+
+@media (orientation: landscape) {
+  .bgz-cover-landscape {
+    background-size: cover  !important;
+  }
+}
+html.default .bgz-cover {
+  background-size: cover  !important;
+}
+
+.bgz-cover {
+  background-size: cover  !important;
+}
+
+html.desktop .bgz-cover-desktop {
+  background-size: cover  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgz-cover-desktop {
+    background-size: cover  !important;
+  }
+}
+html.tablet .bgz-cover-tablet {
+  background-size: cover  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgz-cover-tablet {
+    background-size: cover  !important;
+  }
+}
+html.mobile .bgz-cover-mobile {
+  background-size: cover  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgz-cover-mobile {
+    background-size: cover  !important;
+  }
+}
+html.portrait .bgz-fill-portrait {
+  background-size: cover  !important;
+}
+
+@media (orientation: portrait) {
+  .bgz-fill-portrait {
+    background-size: cover  !important;
+  }
+}
+html.landscape .bgz-fill-landscape {
+  background-size: cover  !important;
+}
+
+@media (orientation: landscape) {
+  .bgz-fill-landscape {
+    background-size: cover  !important;
+  }
+}
+html.default .bgz-fill {
+  background-size: cover  !important;
+}
+
+.bgz-fill {
+  background-size: cover  !important;
+}
+
+html.desktop .bgz-fill-desktop {
+  background-size: cover  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgz-fill-desktop {
+    background-size: cover  !important;
+  }
+}
+html.tablet .bgz-fill-tablet {
+  background-size: cover  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgz-fill-tablet {
+    background-size: cover  !important;
+  }
+}
+html.mobile .bgz-fill-mobile {
+  background-size: cover  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgz-fill-mobile {
+    background-size: cover  !important;
+  }
+}
+html.portrait .bgz-cv-portrait {
+  background-size: cover  !important;
+}
+
+@media (orientation: portrait) {
+  .bgz-cv-portrait {
+    background-size: cover  !important;
+  }
+}
+html.landscape .bgz-cv-landscape {
+  background-size: cover  !important;
+}
+
+@media (orientation: landscape) {
+  .bgz-cv-landscape {
+    background-size: cover  !important;
+  }
+}
+html.default .bgz-cv {
+  background-size: cover  !important;
+}
+
+.bgz-cv {
+  background-size: cover  !important;
+}
+
+html.desktop .bgz-cv-desktop {
+  background-size: cover  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgz-cv-desktop {
+    background-size: cover  !important;
+  }
+}
+html.tablet .bgz-cv-tablet {
+  background-size: cover  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgz-cv-tablet {
+    background-size: cover  !important;
+  }
+}
+html.mobile .bgz-cv-mobile {
+  background-size: cover  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgz-cv-mobile {
+    background-size: cover  !important;
+  }
+}
+html.portrait .bgz-v-portrait {
+  background-size: cover  !important;
+}
+
+@media (orientation: portrait) {
+  .bgz-v-portrait {
+    background-size: cover  !important;
+  }
+}
+html.landscape .bgz-v-landscape {
+  background-size: cover  !important;
+}
+
+@media (orientation: landscape) {
+  .bgz-v-landscape {
+    background-size: cover  !important;
+  }
+}
+html.default .bgz-v {
+  background-size: cover  !important;
+}
+
+.bgz-v {
+  background-size: cover  !important;
+}
+
+html.desktop .bgz-v-desktop {
+  background-size: cover  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgz-v-desktop {
+    background-size: cover  !important;
+  }
+}
+html.tablet .bgz-v-tablet {
+  background-size: cover  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgz-v-tablet {
+    background-size: cover  !important;
+  }
+}
+html.mobile .bgz-v-mobile {
+  background-size: cover  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgz-v-mobile {
+    background-size: cover  !important;
+  }
+}
+html.portrait .bgz-contain-portrait {
+  background-size: contain  !important;
+}
+
+@media (orientation: portrait) {
+  .bgz-contain-portrait {
+    background-size: contain  !important;
+  }
+}
+html.landscape .bgz-contain-landscape {
+  background-size: contain  !important;
+}
+
+@media (orientation: landscape) {
+  .bgz-contain-landscape {
+    background-size: contain  !important;
+  }
+}
+html.default .bgz-contain {
+  background-size: contain  !important;
+}
+
+.bgz-contain {
+  background-size: contain  !important;
+}
+
+html.desktop .bgz-contain-desktop {
+  background-size: contain  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgz-contain-desktop {
+    background-size: contain  !important;
+  }
+}
+html.tablet .bgz-contain-tablet {
+  background-size: contain  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgz-contain-tablet {
+    background-size: contain  !important;
+  }
+}
+html.mobile .bgz-contain-mobile {
+  background-size: contain  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgz-contain-mobile {
+    background-size: contain  !important;
+  }
+}
+html.portrait .bgz-fit-portrait {
+  background-size: contain  !important;
+}
+
+@media (orientation: portrait) {
+  .bgz-fit-portrait {
+    background-size: contain  !important;
+  }
+}
+html.landscape .bgz-fit-landscape {
+  background-size: contain  !important;
+}
+
+@media (orientation: landscape) {
+  .bgz-fit-landscape {
+    background-size: contain  !important;
+  }
+}
+html.default .bgz-fit {
+  background-size: contain  !important;
+}
+
+.bgz-fit {
+  background-size: contain  !important;
+}
+
+html.desktop .bgz-fit-desktop {
+  background-size: contain  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgz-fit-desktop {
+    background-size: contain  !important;
+  }
+}
+html.tablet .bgz-fit-tablet {
+  background-size: contain  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgz-fit-tablet {
+    background-size: contain  !important;
+  }
+}
+html.mobile .bgz-fit-mobile {
+  background-size: contain  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgz-fit-mobile {
+    background-size: contain  !important;
+  }
+}
+html.portrait .bgz-ct-portrait {
+  background-size: contain  !important;
+}
+
+@media (orientation: portrait) {
+  .bgz-ct-portrait {
+    background-size: contain  !important;
+  }
+}
+html.landscape .bgz-ct-landscape {
+  background-size: contain  !important;
+}
+
+@media (orientation: landscape) {
+  .bgz-ct-landscape {
+    background-size: contain  !important;
+  }
+}
+html.default .bgz-ct {
+  background-size: contain  !important;
+}
+
+.bgz-ct {
+  background-size: contain  !important;
+}
+
+html.desktop .bgz-ct-desktop {
+  background-size: contain  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgz-ct-desktop {
+    background-size: contain  !important;
+  }
+}
+html.tablet .bgz-ct-tablet {
+  background-size: contain  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgz-ct-tablet {
+    background-size: contain  !important;
+  }
+}
+html.mobile .bgz-ct-mobile {
+  background-size: contain  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgz-ct-mobile {
+    background-size: contain  !important;
+  }
+}
+html.portrait .bgz-t-portrait {
+  background-size: contain  !important;
+}
+
+@media (orientation: portrait) {
+  .bgz-t-portrait {
+    background-size: contain  !important;
+  }
+}
+html.landscape .bgz-t-landscape {
+  background-size: contain  !important;
+}
+
+@media (orientation: landscape) {
+  .bgz-t-landscape {
+    background-size: contain  !important;
+  }
+}
+html.default .bgz-t {
+  background-size: contain  !important;
+}
+
+.bgz-t {
+  background-size: contain  !important;
+}
+
+html.desktop .bgz-t-desktop {
+  background-size: contain  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgz-t-desktop {
+    background-size: contain  !important;
+  }
+}
+html.tablet .bgz-t-tablet {
+  background-size: contain  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgz-t-tablet {
+    background-size: contain  !important;
+  }
+}
+html.mobile .bgz-t-mobile {
+  background-size: contain  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgz-t-mobile {
+    background-size: contain  !important;
+  }
+}
+html.portrait .bgp-center-portrait {
+  background-position: center  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-center-portrait {
+    background-position: center  !important;
+  }
+}
+html.landscape .bgp-center-landscape {
+  background-position: center  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-center-landscape {
+    background-position: center  !important;
+  }
+}
+html.default .bgp-center {
+  background-position: center  !important;
+}
+
+.bgp-center {
+  background-position: center  !important;
+}
+
+html.desktop .bgp-center-desktop {
+  background-position: center  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-center-desktop {
+    background-position: center  !important;
+  }
+}
+html.tablet .bgp-center-tablet {
+  background-position: center  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-center-tablet {
+    background-position: center  !important;
+  }
+}
+html.mobile .bgp-center-mobile {
+  background-position: center  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-center-mobile {
+    background-position: center  !important;
+  }
+}
+html.portrait .bgp-top-portrait {
+  background-position: center top  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-top-portrait {
+    background-position: center top  !important;
+  }
+}
+html.landscape .bgp-top-landscape {
+  background-position: center top  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-top-landscape {
+    background-position: center top  !important;
+  }
+}
+html.default .bgp-top {
+  background-position: center top  !important;
+}
+
+.bgp-top {
+  background-position: center top  !important;
+}
+
+html.desktop .bgp-top-desktop {
+  background-position: center top  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-top-desktop {
+    background-position: center top  !important;
+  }
+}
+html.tablet .bgp-top-tablet {
+  background-position: center top  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-top-tablet {
+    background-position: center top  !important;
+  }
+}
+html.mobile .bgp-top-mobile {
+  background-position: center top  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-top-mobile {
+    background-position: center top  !important;
+  }
+}
+html.portrait .bgp-bottom-portrait {
+  background-position: center bottom  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-bottom-portrait {
+    background-position: center bottom  !important;
+  }
+}
+html.landscape .bgp-bottom-landscape {
+  background-position: center bottom  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-bottom-landscape {
+    background-position: center bottom  !important;
+  }
+}
+html.default .bgp-bottom {
+  background-position: center bottom  !important;
+}
+
+.bgp-bottom {
+  background-position: center bottom  !important;
+}
+
+html.desktop .bgp-bottom-desktop {
+  background-position: center bottom  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-bottom-desktop {
+    background-position: center bottom  !important;
+  }
+}
+html.tablet .bgp-bottom-tablet {
+  background-position: center bottom  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-bottom-tablet {
+    background-position: center bottom  !important;
+  }
+}
+html.mobile .bgp-bottom-mobile {
+  background-position: center bottom  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-bottom-mobile {
+    background-position: center bottom  !important;
+  }
+}
+html.portrait .bgp-left-portrait {
+  background-position: left center  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-left-portrait {
+    background-position: left center  !important;
+  }
+}
+html.landscape .bgp-left-landscape {
+  background-position: left center  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-left-landscape {
+    background-position: left center  !important;
+  }
+}
+html.default .bgp-left {
+  background-position: left center  !important;
+}
+
+.bgp-left {
+  background-position: left center  !important;
+}
+
+html.desktop .bgp-left-desktop {
+  background-position: left center  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-left-desktop {
+    background-position: left center  !important;
+  }
+}
+html.tablet .bgp-left-tablet {
+  background-position: left center  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-left-tablet {
+    background-position: left center  !important;
+  }
+}
+html.mobile .bgp-left-mobile {
+  background-position: left center  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-left-mobile {
+    background-position: left center  !important;
+  }
+}
+html.portrait .bgp-right-portrait {
+  background-position: right center  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-right-portrait {
+    background-position: right center  !important;
+  }
+}
+html.landscape .bgp-right-landscape {
+  background-position: right center  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-right-landscape {
+    background-position: right center  !important;
+  }
+}
+html.default .bgp-right {
+  background-position: right center  !important;
+}
+
+.bgp-right {
+  background-position: right center  !important;
+}
+
+html.desktop .bgp-right-desktop {
+  background-position: right center  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-right-desktop {
+    background-position: right center  !important;
+  }
+}
+html.tablet .bgp-right-tablet {
+  background-position: right center  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-right-tablet {
+    background-position: right center  !important;
+  }
+}
+html.mobile .bgp-right-mobile {
+  background-position: right center  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-right-mobile {
+    background-position: right center  !important;
+  }
+}
+html.portrait .bgp-right-top-portrait {
+  background-position: right top  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-right-top-portrait {
+    background-position: right top  !important;
+  }
+}
+html.landscape .bgp-right-top-landscape {
+  background-position: right top  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-right-top-landscape {
+    background-position: right top  !important;
+  }
+}
+html.default .bgp-right-top {
+  background-position: right top  !important;
+}
+
+.bgp-right-top {
+  background-position: right top  !important;
+}
+
+html.desktop .bgp-right-top-desktop {
+  background-position: right top  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-right-top-desktop {
+    background-position: right top  !important;
+  }
+}
+html.tablet .bgp-right-top-tablet {
+  background-position: right top  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-right-top-tablet {
+    background-position: right top  !important;
+  }
+}
+html.mobile .bgp-right-top-mobile {
+  background-position: right top  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-right-top-mobile {
+    background-position: right top  !important;
+  }
+}
+html.portrait .bgp-rt-portrait {
+  background-position: right top  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-rt-portrait {
+    background-position: right top  !important;
+  }
+}
+html.landscape .bgp-rt-landscape {
+  background-position: right top  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-rt-landscape {
+    background-position: right top  !important;
+  }
+}
+html.default .bgp-rt {
+  background-position: right top  !important;
+}
+
+.bgp-rt {
+  background-position: right top  !important;
+}
+
+html.desktop .bgp-rt-desktop {
+  background-position: right top  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-rt-desktop {
+    background-position: right top  !important;
+  }
+}
+html.tablet .bgp-rt-tablet {
+  background-position: right top  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-rt-tablet {
+    background-position: right top  !important;
+  }
+}
+html.mobile .bgp-rt-mobile {
+  background-position: right top  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-rt-mobile {
+    background-position: right top  !important;
+  }
+}
+html.portrait .bgp-center-top-portrait {
+  background-position: center top  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-center-top-portrait {
+    background-position: center top  !important;
+  }
+}
+html.landscape .bgp-center-top-landscape {
+  background-position: center top  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-center-top-landscape {
+    background-position: center top  !important;
+  }
+}
+html.default .bgp-center-top {
+  background-position: center top  !important;
+}
+
+.bgp-center-top {
+  background-position: center top  !important;
+}
+
+html.desktop .bgp-center-top-desktop {
+  background-position: center top  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-center-top-desktop {
+    background-position: center top  !important;
+  }
+}
+html.tablet .bgp-center-top-tablet {
+  background-position: center top  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-center-top-tablet {
+    background-position: center top  !important;
+  }
+}
+html.mobile .bgp-center-top-mobile {
+  background-position: center top  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-center-top-mobile {
+    background-position: center top  !important;
+  }
+}
+html.portrait .bgp-ct-portrait {
+  background-position: center top  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-ct-portrait {
+    background-position: center top  !important;
+  }
+}
+html.landscape .bgp-ct-landscape {
+  background-position: center top  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-ct-landscape {
+    background-position: center top  !important;
+  }
+}
+html.default .bgp-ct {
+  background-position: center top  !important;
+}
+
+.bgp-ct {
+  background-position: center top  !important;
+}
+
+html.desktop .bgp-ct-desktop {
+  background-position: center top  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-ct-desktop {
+    background-position: center top  !important;
+  }
+}
+html.tablet .bgp-ct-tablet {
+  background-position: center top  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-ct-tablet {
+    background-position: center top  !important;
+  }
+}
+html.mobile .bgp-ct-mobile {
+  background-position: center top  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-ct-mobile {
+    background-position: center top  !important;
+  }
+}
+html.portrait .bgp-left-top-portrait {
+  background-position: left top  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-left-top-portrait {
+    background-position: left top  !important;
+  }
+}
+html.landscape .bgp-left-top-landscape {
+  background-position: left top  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-left-top-landscape {
+    background-position: left top  !important;
+  }
+}
+html.default .bgp-left-top {
+  background-position: left top  !important;
+}
+
+.bgp-left-top {
+  background-position: left top  !important;
+}
+
+html.desktop .bgp-left-top-desktop {
+  background-position: left top  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-left-top-desktop {
+    background-position: left top  !important;
+  }
+}
+html.tablet .bgp-left-top-tablet {
+  background-position: left top  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-left-top-tablet {
+    background-position: left top  !important;
+  }
+}
+html.mobile .bgp-left-top-mobile {
+  background-position: left top  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-left-top-mobile {
+    background-position: left top  !important;
+  }
+}
+html.portrait .bgp-lt-portrait {
+  background-position: left top  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-lt-portrait {
+    background-position: left top  !important;
+  }
+}
+html.landscape .bgp-lt-landscape {
+  background-position: left top  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-lt-landscape {
+    background-position: left top  !important;
+  }
+}
+html.default .bgp-lt {
+  background-position: left top  !important;
+}
+
+.bgp-lt {
+  background-position: left top  !important;
+}
+
+html.desktop .bgp-lt-desktop {
+  background-position: left top  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-lt-desktop {
+    background-position: left top  !important;
+  }
+}
+html.tablet .bgp-lt-tablet {
+  background-position: left top  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-lt-tablet {
+    background-position: left top  !important;
+  }
+}
+html.mobile .bgp-lt-mobile {
+  background-position: left top  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-lt-mobile {
+    background-position: left top  !important;
+  }
+}
+html.portrait .bgp-right-center-portrait {
+  background-position: right center  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-right-center-portrait {
+    background-position: right center  !important;
+  }
+}
+html.landscape .bgp-right-center-landscape {
+  background-position: right center  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-right-center-landscape {
+    background-position: right center  !important;
+  }
+}
+html.default .bgp-right-center {
+  background-position: right center  !important;
+}
+
+.bgp-right-center {
+  background-position: right center  !important;
+}
+
+html.desktop .bgp-right-center-desktop {
+  background-position: right center  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-right-center-desktop {
+    background-position: right center  !important;
+  }
+}
+html.tablet .bgp-right-center-tablet {
+  background-position: right center  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-right-center-tablet {
+    background-position: right center  !important;
+  }
+}
+html.mobile .bgp-right-center-mobile {
+  background-position: right center  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-right-center-mobile {
+    background-position: right center  !important;
+  }
+}
+html.portrait .bgp-rc-portrait {
+  background-position: right center  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-rc-portrait {
+    background-position: right center  !important;
+  }
+}
+html.landscape .bgp-rc-landscape {
+  background-position: right center  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-rc-landscape {
+    background-position: right center  !important;
+  }
+}
+html.default .bgp-rc {
+  background-position: right center  !important;
+}
+
+.bgp-rc {
+  background-position: right center  !important;
+}
+
+html.desktop .bgp-rc-desktop {
+  background-position: right center  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-rc-desktop {
+    background-position: right center  !important;
+  }
+}
+html.tablet .bgp-rc-tablet {
+  background-position: right center  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-rc-tablet {
+    background-position: right center  !important;
+  }
+}
+html.mobile .bgp-rc-mobile {
+  background-position: right center  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-rc-mobile {
+    background-position: right center  !important;
+  }
+}
+html.portrait .bgp-center-center-portrait {
+  background-position: center center  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-center-center-portrait {
+    background-position: center center  !important;
+  }
+}
+html.landscape .bgp-center-center-landscape {
+  background-position: center center  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-center-center-landscape {
+    background-position: center center  !important;
+  }
+}
+html.default .bgp-center-center {
+  background-position: center center  !important;
+}
+
+.bgp-center-center {
+  background-position: center center  !important;
+}
+
+html.desktop .bgp-center-center-desktop {
+  background-position: center center  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-center-center-desktop {
+    background-position: center center  !important;
+  }
+}
+html.tablet .bgp-center-center-tablet {
+  background-position: center center  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-center-center-tablet {
+    background-position: center center  !important;
+  }
+}
+html.mobile .bgp-center-center-mobile {
+  background-position: center center  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-center-center-mobile {
+    background-position: center center  !important;
+  }
+}
+html.portrait .bgp-cc-portrait {
+  background-position: center center  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-cc-portrait {
+    background-position: center center  !important;
+  }
+}
+html.landscape .bgp-cc-landscape {
+  background-position: center center  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-cc-landscape {
+    background-position: center center  !important;
+  }
+}
+html.default .bgp-cc {
+  background-position: center center  !important;
+}
+
+.bgp-cc {
+  background-position: center center  !important;
+}
+
+html.desktop .bgp-cc-desktop {
+  background-position: center center  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-cc-desktop {
+    background-position: center center  !important;
+  }
+}
+html.tablet .bgp-cc-tablet {
+  background-position: center center  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-cc-tablet {
+    background-position: center center  !important;
+  }
+}
+html.mobile .bgp-cc-mobile {
+  background-position: center center  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-cc-mobile {
+    background-position: center center  !important;
+  }
+}
+html.portrait .bgp-left-center-portrait {
+  background-position: left center  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-left-center-portrait {
+    background-position: left center  !important;
+  }
+}
+html.landscape .bgp-left-center-landscape {
+  background-position: left center  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-left-center-landscape {
+    background-position: left center  !important;
+  }
+}
+html.default .bgp-left-center {
+  background-position: left center  !important;
+}
+
+.bgp-left-center {
+  background-position: left center  !important;
+}
+
+html.desktop .bgp-left-center-desktop {
+  background-position: left center  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-left-center-desktop {
+    background-position: left center  !important;
+  }
+}
+html.tablet .bgp-left-center-tablet {
+  background-position: left center  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-left-center-tablet {
+    background-position: left center  !important;
+  }
+}
+html.mobile .bgp-left-center-mobile {
+  background-position: left center  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-left-center-mobile {
+    background-position: left center  !important;
+  }
+}
+html.portrait .bgp-lc-portrait {
+  background-position: left center  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-lc-portrait {
+    background-position: left center  !important;
+  }
+}
+html.landscape .bgp-lc-landscape {
+  background-position: left center  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-lc-landscape {
+    background-position: left center  !important;
+  }
+}
+html.default .bgp-lc {
+  background-position: left center  !important;
+}
+
+.bgp-lc {
+  background-position: left center  !important;
+}
+
+html.desktop .bgp-lc-desktop {
+  background-position: left center  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-lc-desktop {
+    background-position: left center  !important;
+  }
+}
+html.tablet .bgp-lc-tablet {
+  background-position: left center  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-lc-tablet {
+    background-position: left center  !important;
+  }
+}
+html.mobile .bgp-lc-mobile {
+  background-position: left center  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-lc-mobile {
+    background-position: left center  !important;
+  }
+}
+html.portrait .bgp-right-bottom-portrait {
+  background-position: right bottom  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-right-bottom-portrait {
+    background-position: right bottom  !important;
+  }
+}
+html.landscape .bgp-right-bottom-landscape {
+  background-position: right bottom  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-right-bottom-landscape {
+    background-position: right bottom  !important;
+  }
+}
+html.default .bgp-right-bottom {
+  background-position: right bottom  !important;
+}
+
+.bgp-right-bottom {
+  background-position: right bottom  !important;
+}
+
+html.desktop .bgp-right-bottom-desktop {
+  background-position: right bottom  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-right-bottom-desktop {
+    background-position: right bottom  !important;
+  }
+}
+html.tablet .bgp-right-bottom-tablet {
+  background-position: right bottom  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-right-bottom-tablet {
+    background-position: right bottom  !important;
+  }
+}
+html.mobile .bgp-right-bottom-mobile {
+  background-position: right bottom  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-right-bottom-mobile {
+    background-position: right bottom  !important;
+  }
+}
+html.portrait .bgp-rb-portrait {
+  background-position: right bottom  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-rb-portrait {
+    background-position: right bottom  !important;
+  }
+}
+html.landscape .bgp-rb-landscape {
+  background-position: right bottom  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-rb-landscape {
+    background-position: right bottom  !important;
+  }
+}
+html.default .bgp-rb {
+  background-position: right bottom  !important;
+}
+
+.bgp-rb {
+  background-position: right bottom  !important;
+}
+
+html.desktop .bgp-rb-desktop {
+  background-position: right bottom  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-rb-desktop {
+    background-position: right bottom  !important;
+  }
+}
+html.tablet .bgp-rb-tablet {
+  background-position: right bottom  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-rb-tablet {
+    background-position: right bottom  !important;
+  }
+}
+html.mobile .bgp-rb-mobile {
+  background-position: right bottom  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-rb-mobile {
+    background-position: right bottom  !important;
+  }
+}
+html.portrait .bgp-center-bottom-portrait {
+  background-position: center bottom  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-center-bottom-portrait {
+    background-position: center bottom  !important;
+  }
+}
+html.landscape .bgp-center-bottom-landscape {
+  background-position: center bottom  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-center-bottom-landscape {
+    background-position: center bottom  !important;
+  }
+}
+html.default .bgp-center-bottom {
+  background-position: center bottom  !important;
+}
+
+.bgp-center-bottom {
+  background-position: center bottom  !important;
+}
+
+html.desktop .bgp-center-bottom-desktop {
+  background-position: center bottom  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-center-bottom-desktop {
+    background-position: center bottom  !important;
+  }
+}
+html.tablet .bgp-center-bottom-tablet {
+  background-position: center bottom  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-center-bottom-tablet {
+    background-position: center bottom  !important;
+  }
+}
+html.mobile .bgp-center-bottom-mobile {
+  background-position: center bottom  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-center-bottom-mobile {
+    background-position: center bottom  !important;
+  }
+}
+html.portrait .bgp-cb-portrait {
+  background-position: center bottom  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-cb-portrait {
+    background-position: center bottom  !important;
+  }
+}
+html.landscape .bgp-cb-landscape {
+  background-position: center bottom  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-cb-landscape {
+    background-position: center bottom  !important;
+  }
+}
+html.default .bgp-cb {
+  background-position: center bottom  !important;
+}
+
+.bgp-cb {
+  background-position: center bottom  !important;
+}
+
+html.desktop .bgp-cb-desktop {
+  background-position: center bottom  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-cb-desktop {
+    background-position: center bottom  !important;
+  }
+}
+html.tablet .bgp-cb-tablet {
+  background-position: center bottom  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-cb-tablet {
+    background-position: center bottom  !important;
+  }
+}
+html.mobile .bgp-cb-mobile {
+  background-position: center bottom  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-cb-mobile {
+    background-position: center bottom  !important;
+  }
+}
+html.portrait .bgp-left-bottom-portrait {
+  background-position: left bottom  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-left-bottom-portrait {
+    background-position: left bottom  !important;
+  }
+}
+html.landscape .bgp-left-bottom-landscape {
+  background-position: left bottom  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-left-bottom-landscape {
+    background-position: left bottom  !important;
+  }
+}
+html.default .bgp-left-bottom {
+  background-position: left bottom  !important;
+}
+
+.bgp-left-bottom {
+  background-position: left bottom  !important;
+}
+
+html.desktop .bgp-left-bottom-desktop {
+  background-position: left bottom  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-left-bottom-desktop {
+    background-position: left bottom  !important;
+  }
+}
+html.tablet .bgp-left-bottom-tablet {
+  background-position: left bottom  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-left-bottom-tablet {
+    background-position: left bottom  !important;
+  }
+}
+html.mobile .bgp-left-bottom-mobile {
+  background-position: left bottom  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-left-bottom-mobile {
+    background-position: left bottom  !important;
+  }
+}
+html.portrait .bgp-lb-portrait {
+  background-position: left bottom  !important;
+}
+
+@media (orientation: portrait) {
+  .bgp-lb-portrait {
+    background-position: left bottom  !important;
+  }
+}
+html.landscape .bgp-lb-landscape {
+  background-position: left bottom  !important;
+}
+
+@media (orientation: landscape) {
+  .bgp-lb-landscape {
+    background-position: left bottom  !important;
+  }
+}
+html.default .bgp-lb {
+  background-position: left bottom  !important;
+}
+
+.bgp-lb {
+  background-position: left bottom  !important;
+}
+
+html.desktop .bgp-lb-desktop {
+  background-position: left bottom  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgp-lb-desktop {
+    background-position: left bottom  !important;
+  }
+}
+html.tablet .bgp-lb-tablet {
+  background-position: left bottom  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgp-lb-tablet {
+    background-position: left bottom  !important;
+  }
+}
+html.mobile .bgp-lb-mobile {
+  background-position: left bottom  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgp-lb-mobile {
+    background-position: left bottom  !important;
+  }
+}
+html.portrait .bgpx-right-portrait {
+  background-position-x: right  !important;
+}
+
+@media (orientation: portrait) {
+  .bgpx-right-portrait {
+    background-position-x: right  !important;
+  }
+}
+html.landscape .bgpx-right-landscape {
+  background-position-x: right  !important;
+}
+
+@media (orientation: landscape) {
+  .bgpx-right-landscape {
+    background-position-x: right  !important;
+  }
+}
+html.default .bgpx-right {
+  background-position-x: right  !important;
+}
+
+.bgpx-right {
+  background-position-x: right  !important;
+}
+
+html.desktop .bgpx-right-desktop {
+  background-position-x: right  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgpx-right-desktop {
+    background-position-x: right  !important;
+  }
+}
+html.tablet .bgpx-right-tablet {
+  background-position-x: right  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgpx-right-tablet {
+    background-position-x: right  !important;
+  }
+}
+html.mobile .bgpx-right-mobile {
+  background-position-x: right  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgpx-right-mobile {
+    background-position-x: right  !important;
+  }
+}
+html.portrait .bgpx-r-portrait {
+  background-position-x: right  !important;
+}
+
+@media (orientation: portrait) {
+  .bgpx-r-portrait {
+    background-position-x: right  !important;
+  }
+}
+html.landscape .bgpx-r-landscape {
+  background-position-x: right  !important;
+}
+
+@media (orientation: landscape) {
+  .bgpx-r-landscape {
+    background-position-x: right  !important;
+  }
+}
+html.default .bgpx-r {
+  background-position-x: right  !important;
+}
+
+.bgpx-r {
+  background-position-x: right  !important;
+}
+
+html.desktop .bgpx-r-desktop {
+  background-position-x: right  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgpx-r-desktop {
+    background-position-x: right  !important;
+  }
+}
+html.tablet .bgpx-r-tablet {
+  background-position-x: right  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgpx-r-tablet {
+    background-position-x: right  !important;
+  }
+}
+html.mobile .bgpx-r-mobile {
+  background-position-x: right  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgpx-r-mobile {
+    background-position-x: right  !important;
+  }
+}
+html.portrait .bgpx-center-portrait {
+  background-position-x: center  !important;
+}
+
+@media (orientation: portrait) {
+  .bgpx-center-portrait {
+    background-position-x: center  !important;
+  }
+}
+html.landscape .bgpx-center-landscape {
+  background-position-x: center  !important;
+}
+
+@media (orientation: landscape) {
+  .bgpx-center-landscape {
+    background-position-x: center  !important;
+  }
+}
+html.default .bgpx-center {
+  background-position-x: center  !important;
+}
+
+.bgpx-center {
+  background-position-x: center  !important;
+}
+
+html.desktop .bgpx-center-desktop {
+  background-position-x: center  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgpx-center-desktop {
+    background-position-x: center  !important;
+  }
+}
+html.tablet .bgpx-center-tablet {
+  background-position-x: center  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgpx-center-tablet {
+    background-position-x: center  !important;
+  }
+}
+html.mobile .bgpx-center-mobile {
+  background-position-x: center  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgpx-center-mobile {
+    background-position-x: center  !important;
+  }
+}
+html.portrait .bgpx-c-portrait {
+  background-position-x: center  !important;
+}
+
+@media (orientation: portrait) {
+  .bgpx-c-portrait {
+    background-position-x: center  !important;
+  }
+}
+html.landscape .bgpx-c-landscape {
+  background-position-x: center  !important;
+}
+
+@media (orientation: landscape) {
+  .bgpx-c-landscape {
+    background-position-x: center  !important;
+  }
+}
+html.default .bgpx-c {
+  background-position-x: center  !important;
+}
+
+.bgpx-c {
+  background-position-x: center  !important;
+}
+
+html.desktop .bgpx-c-desktop {
+  background-position-x: center  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgpx-c-desktop {
+    background-position-x: center  !important;
+  }
+}
+html.tablet .bgpx-c-tablet {
+  background-position-x: center  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgpx-c-tablet {
+    background-position-x: center  !important;
+  }
+}
+html.mobile .bgpx-c-mobile {
+  background-position-x: center  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgpx-c-mobile {
+    background-position-x: center  !important;
+  }
+}
+html.portrait .bgpx-left-portrait {
+  background-position-x: left  !important;
+}
+
+@media (orientation: portrait) {
+  .bgpx-left-portrait {
+    background-position-x: left  !important;
+  }
+}
+html.landscape .bgpx-left-landscape {
+  background-position-x: left  !important;
+}
+
+@media (orientation: landscape) {
+  .bgpx-left-landscape {
+    background-position-x: left  !important;
+  }
+}
+html.default .bgpx-left {
+  background-position-x: left  !important;
+}
+
+.bgpx-left {
+  background-position-x: left  !important;
+}
+
+html.desktop .bgpx-left-desktop {
+  background-position-x: left  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgpx-left-desktop {
+    background-position-x: left  !important;
+  }
+}
+html.tablet .bgpx-left-tablet {
+  background-position-x: left  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgpx-left-tablet {
+    background-position-x: left  !important;
+  }
+}
+html.mobile .bgpx-left-mobile {
+  background-position-x: left  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgpx-left-mobile {
+    background-position-x: left  !important;
+  }
+}
+html.portrait .bgpx-l-portrait {
+  background-position-x: left  !important;
+}
+
+@media (orientation: portrait) {
+  .bgpx-l-portrait {
+    background-position-x: left  !important;
+  }
+}
+html.landscape .bgpx-l-landscape {
+  background-position-x: left  !important;
+}
+
+@media (orientation: landscape) {
+  .bgpx-l-landscape {
+    background-position-x: left  !important;
+  }
+}
+html.default .bgpx-l {
+  background-position-x: left  !important;
+}
+
+.bgpx-l {
+  background-position-x: left  !important;
+}
+
+html.desktop .bgpx-l-desktop {
+  background-position-x: left  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgpx-l-desktop {
+    background-position-x: left  !important;
+  }
+}
+html.tablet .bgpx-l-tablet {
+  background-position-x: left  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgpx-l-tablet {
+    background-position-x: left  !important;
+  }
+}
+html.mobile .bgpx-l-mobile {
+  background-position-x: left  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgpx-l-mobile {
+    background-position-x: left  !important;
+  }
+}
+html.portrait .bgpy-top-portrait {
+  background-position-y: top  !important;
+}
+
+@media (orientation: portrait) {
+  .bgpy-top-portrait {
+    background-position-y: top  !important;
+  }
+}
+html.landscape .bgpy-top-landscape {
+  background-position-y: top  !important;
+}
+
+@media (orientation: landscape) {
+  .bgpy-top-landscape {
+    background-position-y: top  !important;
+  }
+}
+html.default .bgpy-top {
+  background-position-y: top  !important;
+}
+
+.bgpy-top {
+  background-position-y: top  !important;
+}
+
+html.desktop .bgpy-top-desktop {
+  background-position-y: top  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgpy-top-desktop {
+    background-position-y: top  !important;
+  }
+}
+html.tablet .bgpy-top-tablet {
+  background-position-y: top  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgpy-top-tablet {
+    background-position-y: top  !important;
+  }
+}
+html.mobile .bgpy-top-mobile {
+  background-position-y: top  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgpy-top-mobile {
+    background-position-y: top  !important;
+  }
+}
+html.portrait .bgpy-t-portrait {
+  background-position-y: top  !important;
+}
+
+@media (orientation: portrait) {
+  .bgpy-t-portrait {
+    background-position-y: top  !important;
+  }
+}
+html.landscape .bgpy-t-landscape {
+  background-position-y: top  !important;
+}
+
+@media (orientation: landscape) {
+  .bgpy-t-landscape {
+    background-position-y: top  !important;
+  }
+}
+html.default .bgpy-t {
+  background-position-y: top  !important;
+}
+
+.bgpy-t {
+  background-position-y: top  !important;
+}
+
+html.desktop .bgpy-t-desktop {
+  background-position-y: top  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgpy-t-desktop {
+    background-position-y: top  !important;
+  }
+}
+html.tablet .bgpy-t-tablet {
+  background-position-y: top  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgpy-t-tablet {
+    background-position-y: top  !important;
+  }
+}
+html.mobile .bgpy-t-mobile {
+  background-position-y: top  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgpy-t-mobile {
+    background-position-y: top  !important;
+  }
+}
+html.portrait .bgpy-middle-portrait {
+  background-position-y: middle  !important;
+}
+
+@media (orientation: portrait) {
+  .bgpy-middle-portrait {
+    background-position-y: middle  !important;
+  }
+}
+html.landscape .bgpy-middle-landscape {
+  background-position-y: middle  !important;
+}
+
+@media (orientation: landscape) {
+  .bgpy-middle-landscape {
+    background-position-y: middle  !important;
+  }
+}
+html.default .bgpy-middle {
+  background-position-y: middle  !important;
+}
+
+.bgpy-middle {
+  background-position-y: middle  !important;
+}
+
+html.desktop .bgpy-middle-desktop {
+  background-position-y: middle  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgpy-middle-desktop {
+    background-position-y: middle  !important;
+  }
+}
+html.tablet .bgpy-middle-tablet {
+  background-position-y: middle  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgpy-middle-tablet {
+    background-position-y: middle  !important;
+  }
+}
+html.mobile .bgpy-middle-mobile {
+  background-position-y: middle  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgpy-middle-mobile {
+    background-position-y: middle  !important;
+  }
+}
+html.portrait .bgpy-m-portrait {
+  background-position-y: middle  !important;
+}
+
+@media (orientation: portrait) {
+  .bgpy-m-portrait {
+    background-position-y: middle  !important;
+  }
+}
+html.landscape .bgpy-m-landscape {
+  background-position-y: middle  !important;
+}
+
+@media (orientation: landscape) {
+  .bgpy-m-landscape {
+    background-position-y: middle  !important;
+  }
+}
+html.default .bgpy-m {
+  background-position-y: middle  !important;
+}
+
+.bgpy-m {
+  background-position-y: middle  !important;
+}
+
+html.desktop .bgpy-m-desktop {
+  background-position-y: middle  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgpy-m-desktop {
+    background-position-y: middle  !important;
+  }
+}
+html.tablet .bgpy-m-tablet {
+  background-position-y: middle  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgpy-m-tablet {
+    background-position-y: middle  !important;
+  }
+}
+html.mobile .bgpy-m-mobile {
+  background-position-y: middle  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgpy-m-mobile {
+    background-position-y: middle  !important;
+  }
+}
+html.portrait .bgpy-bottom-portrait {
+  background-position-y: bottom  !important;
+}
+
+@media (orientation: portrait) {
+  .bgpy-bottom-portrait {
+    background-position-y: bottom  !important;
+  }
+}
+html.landscape .bgpy-bottom-landscape {
+  background-position-y: bottom  !important;
+}
+
+@media (orientation: landscape) {
+  .bgpy-bottom-landscape {
+    background-position-y: bottom  !important;
+  }
+}
+html.default .bgpy-bottom {
+  background-position-y: bottom  !important;
+}
+
+.bgpy-bottom {
+  background-position-y: bottom  !important;
+}
+
+html.desktop .bgpy-bottom-desktop {
+  background-position-y: bottom  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgpy-bottom-desktop {
+    background-position-y: bottom  !important;
+  }
+}
+html.tablet .bgpy-bottom-tablet {
+  background-position-y: bottom  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgpy-bottom-tablet {
+    background-position-y: bottom  !important;
+  }
+}
+html.mobile .bgpy-bottom-mobile {
+  background-position-y: bottom  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgpy-bottom-mobile {
+    background-position-y: bottom  !important;
+  }
+}
+html.portrait .bgpy-b-portrait {
+  background-position-y: bottom  !important;
+}
+
+@media (orientation: portrait) {
+  .bgpy-b-portrait {
+    background-position-y: bottom  !important;
+  }
+}
+html.landscape .bgpy-b-landscape {
+  background-position-y: bottom  !important;
+}
+
+@media (orientation: landscape) {
+  .bgpy-b-landscape {
+    background-position-y: bottom  !important;
+  }
+}
+html.default .bgpy-b {
+  background-position-y: bottom  !important;
+}
+
+.bgpy-b {
+  background-position-y: bottom  !important;
+}
+
+html.desktop .bgpy-b-desktop {
+  background-position-y: bottom  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .bgpy-b-desktop {
+    background-position-y: bottom  !important;
+  }
+}
+html.tablet .bgpy-b-tablet {
+  background-position-y: bottom  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .bgpy-b-tablet {
+    background-position-y: bottom  !important;
+  }
+}
+html.mobile .bgpy-b-mobile {
+  background-position-y: bottom  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .bgpy-b-mobile {
+    background-position-y: bottom  !important;
   }
 }
 .slider {

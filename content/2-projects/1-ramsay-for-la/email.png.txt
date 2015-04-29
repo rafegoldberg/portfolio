@@ -10,4 +10,16 @@ Caption-position: right
 
 ----
 
-Caption-view: fit
+Bgz: fit
+
+----
+
+Bgpx: left
+
+----
+
+Bgpy: bottom
+
+----
+
+Apply-view: tablet, mobile

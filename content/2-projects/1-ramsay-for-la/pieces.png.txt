@@ -2,8 +2,24 @@ Sort: 5
 
 ----
 
-Category: 
+Caption-text: # Built with HTML and (S)CSS for Nation Builder
 
 ----
 
-Caption: 
+Caption-position: bottom
+
+----
+
+Bgz: fit
+
+----
+
+Bgpx: center
+
+----
+
+Bgpy: top
+
+----
+
+Apply-view: tablet, mobile

@@ -1,8 +1,8 @@
 @mixin block-legible {
-	max-width: 45em;
+	max-width: 46em;
 	line-height: 1.75;
 	text-align: left;
-	@include gridle_gutter();
+	padding: 0 2em;
 }
 
 .legible-block { @include block-legible; }

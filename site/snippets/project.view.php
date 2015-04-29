@@ -3,7 +3,7 @@
 <? foreach($page->images()->sortBy('sort', 'asc') as $img): ?>
 	<? if ( $img!==$page->file($page->bgi()) ) : // ignore featured proj image ?>
 
-		<?=$img->caption_position()->renderAround($img)?>
+		<?=$img->caption_text()->renderAround($img)?>
 
 	<? endif ?>
 <? endforeach ?>
