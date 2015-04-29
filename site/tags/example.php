@@ -1,19 +1,22 @@
 <?
-kirbytext::$tags['downloads'] = array(
-  'html' => function($tag) {
 
-    $html  = '<h2>' . $tag->attr('downloads') . '</h2>';
-    $html .= '<ul>';
+kirbytext::$tags['test'] = array(
+	'attr' => array(
+		'text',
+		'grid',
+		'class'
+	),
+	'html' => function($tag) {
 
-    foreach($tag->page()->documents() as $doc) {
-      $html .= '<li>';
-      $html .= '<a href="' . $doc->url() . '">' . $doc->filename() . '</a>';
-      $html .= '</li>';
-    }
+		$grids = get_stately_classes(explode(' ',$tag->attr('grid')));
+		$class = explode(' ',$tag->attr('class', ''));
 
-    $html .= '</ul>';
+		$text = $tag->attr('text', 'Wikipedia');
 
-    return $html;
+		// compound classes
+		$class = implode(' ',array_merge($class,$grids));
 
-  }
+		return "<a class='$class'>" . $text . "</a>";
+
+	}
 );

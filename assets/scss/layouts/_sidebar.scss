@@ -1,63 +1,70 @@
 #sidebar {
 	$sidebar-grid: (
 		grid: 3,
-		tablet: ( grid:  5 ),
+		tablet: ( grid: 12 ),
 		mobile: ( grid: 12 )
 	);
 	@include gridle_set(map-merge($sidebar-grid,(parent:true)));
 	@include block-overflow(vertical) {
-		@include gridle_state( desktop tablet ) {
+		@include gridle_state( desktop ) {
 			height: 96vh;
 			z-index: d(front);
 			position: fixed;
+			// match to #sidebar v-offset
+			// and tablet/desktop gutters:
 			top: 2vh;
-			left: 2vh;
+			left: _gridle_get_state_var(desktop,gutter-width)/2;
 		}
 	};
 	position: relative;
-	background: c(matte);
+	background: rgba( c(matte), .8 );
 	box-sizing: border-box;
-	@include gridle_state( mobile ) {
+	@include gridle_state( tablet mobile ) {
 	 	padding: 0 !important;
 	}
 
-	header ,
-	footer {
-		@include gridle_state( desktop tablet ) {
+	#header ,
+	#footer {
+		@include gridle_set($sidebar-grid,desktop);
+		@include gridle_state( desktop ) {
 			position: fixed;
 			left: 0;
-			margin: 2vh;
-			background-color: rgba(c(matte),.9);
+			background-color: rgba(c(matte),.75);
+			// match to #sidebar v-offset,
+			// tablet/desktop gutters:
+			margin: 2vh _gridle_get_state_var(desktop,gutter-width)/2;
 		}
-		@include gridle_set($sidebar-grid,desktop tablet);
 	}
-	header { top: 0;
-			 @include gridle_state ( desktop tablet ) {
+	#header { top: 0;
+			 @include gridle_state ( desktop ) {
 			     border-bottom: 1px solid c(stroke);
 			 }
 	       }
-	footer { bottom: 0;
-			 @include gridle_state ( desktop tablet ) {
+	#footer { bottom: 0;
+			 @include gridle_state ( desktop ) {
 		         border-top: 1px solid c(stroke);
 			 }
 	       }
 
-	article {
-		margin: 1em 0;
-		@include gridle_gutter(left right);
-	}
-
-	+ main {
+	~ main {
 		@include gridle_set((
-			grid: 9,
-			parent: true,
+			grid:           9,
+			parent:         true,
+			gutter:         left,
+			prefix:         3,
+			vertical_align: middle,
 			tablet: (
-				grid: 7
+				grid:      12,
+				no_gutter: left
 			),
 			mobile: (
-				grid: 12
+				grid:      12,
+				no_gutter: left
 			)
 		));
+		// article {
+		// 	@include gridle_set((gutter:1),desktop);
+		// }
 	}
 
 }

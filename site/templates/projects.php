@@ -1,14 +1,11 @@
 <? snippet('top',array(
+	'css'=> 'home',
 	'body' => 'grid parent grid-12',
 )) ?>
 
-	<? snippet('sidebar',array('grid'=>3)) ?>
-	<main class="grid-9 parent clearfix">
-		<section class="slider">
-			<? snippet('project-slider',array(
-				'items'  => 'card',
-			)) ?>
-		</section>
+	<? snippet('sidebar') ?>
+	<main class="clearfix prefix-desktop-3 prefix-tablet-6 gutter-left">
+		
 	</main>
 
 <? snippet('bottom') ?>

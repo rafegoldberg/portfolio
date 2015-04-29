@@ -1,3 +1,7 @@
+/*|
+|*| Version 0 0 3
+|*/
+
 ///////////////////////////////////////////////////////////
 //                                                       //
 // APP                                                   //
@@ -10,6 +14,7 @@
 //
 // GRID
 // 
+@import "iconic.config";
 @import "gridle.config";
 //
 // BASE STYLES
@@ -28,6 +33,7 @@
 // Mixins
 @import "../utils/mix.clearfix";
 @import "../utils/mix.print-css";
+@import "../utils/mix.generate-multi";
 
 // Extensions
 @import "../utils/ext.clearfix";

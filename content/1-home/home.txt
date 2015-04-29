@@ -1,9 +1,9 @@
-Title: Home
-
-----
-
-Text: <label>I strive to <select style="-webkit-appearance:none;-moz-appearance:none;appearance:none;font:inherit;display:inline;padding:0;border:none;background:transparent;color:inherit;margin:0;"><option value="design">Design Thoughtfully</option><option value="learn">Learn Quickly</option><option value="build">Build Modularly</option></select></label>
+Title: About
 
 ----
 
 Limit: 4
+
+----
+
+Sidebar: In my five years experience, I've played many roles from design director, to web developer and designer. No matter the hat, the beauty of it is in the details. This site showcases some of my selected works and thinking on the design and development process. Check it out!

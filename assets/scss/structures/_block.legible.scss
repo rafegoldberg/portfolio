@@ -2,6 +2,7 @@
 	max-width: 45em;
 	line-height: 1.75;
 	text-align: left;
+	@include gridle_gutter();
 }
 
 .legible-block { @include block-legible; }

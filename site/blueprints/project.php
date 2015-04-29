@@ -82,12 +82,12 @@ fields:
 	start_date:
 		label: From
 		type: date
-		format: M/YY
+		format: MM/YY
 		width: 1/4
 	end_date:
 		label: To
 		type: date
-		format: M/YY
+		format: MM/YY
 		width: 1/4
 	_line2:
 		type: line

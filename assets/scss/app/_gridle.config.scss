@@ -9,7 +9,7 @@
 
 @include gridle_setup((
 	context : 12,
-	gutter-width : 2rem,
+	gutter-width : 1.5rem,
 	debug : true
 ));
 
@@ -35,21 +35,25 @@
 // @include gridle_register_default_mobile_first_states();
 
 //—> Custom Viewport-Based States
-@include gridle_register_state(mobile ,(
-    max-width : 36em ,// 480px
+@include gridle_register_state(desktop,(
+    min-width:    50.063em, // 801px
+	gutter-width: 1.5rem  , // 24px
 ));
 @include gridle_register_state(tablet ,(
-    min-width : 36.063em ,// 481px
-    max-width : 64em ,// 1024px
+    min-width:    36.063em, // 481px
+    max-width:    50em    , // 800px
+	gutter-width: 1.5rem  , // 24px
+
 ));
-@include gridle_register_state(desktop,(
-    min-width : 64.063em ,// 1025px
+@include gridle_register_state(mobile ,(
+    max-width:    36em,     // 480px
+    gutter-width: 1rem,     // 16px
 ));
 
 //—> Custom Orientation-Based States
-@include gridle_register_state(landscape,(
-	query : "(orientation : landscape)"
-));
 @include gridle_register_state(portrait ,(
 	query : "(orientation : portrait)"
+));
+@include gridle_register_state(landscape,(
+	query : "(orientation : landscape)"
 ));

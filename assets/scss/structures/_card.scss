@@ -25,9 +25,20 @@
 @include card {
 	&_big {
 		@include card(&) {
-			padding: 4em;
+			padding: 4em 3em;
 			@include gridle_state( tablet mobile ) {
 				padding: 3rem 1.5rem;
+			}
+			@include gridle_state( mobile ) {
+				text-align: center;
+			}
+		}
+	}
+	&_huge {
+		@include card(&) {
+			padding: 6em 3em;
+			@include gridle_state( tablet mobile ) {
+				padding: 4rem 1.5rem;
 			}
 			@include gridle_state( mobile ) {
 				text-align: center;

@@ -1,3 +1,4 @@
+
 <? snippet('top',array(
 	'css'=> 'home',
 	'body' => 'grid parent grid-12',
@@ -6,11 +7,15 @@
 	<? snippet('sidebar') ?>
 	<section class="slider">
 		<? snippet('project-slider',array(
-			'items'  => 'card_big card ta-right',
+			'items'  => 'card_huge card ta-right',
 			'limit'  => 3
 		)) ?>
 	</section>
-	<main class="clearfix prefix-desktop-3 prefix-tablet-6 gutter-left">
+	<main>
+		<? snippet('social') ?>
 	</main>
+	<? foreach (page('projects')->children()->visible() as $project) : ?>
+		<?=jsl($project->slug())?>
+	<? endforeach ?>
 
 <? snippet('bottom') ?>

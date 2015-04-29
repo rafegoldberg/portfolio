@@ -8,8 +8,8 @@ language: en
 role: admin
 token: c5e51d1e86b7575c683006feade12eb54b14f6f7
 history:
+  - home
+  - projects/wilshire-skyline
   - projects/larrc
   - projects/project-c
-  - projects/wilshire-skyline
-  - home
   - projects
