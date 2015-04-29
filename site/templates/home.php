@@ -5,17 +5,14 @@
 )) ?>
 
 	<? snippet('sidebar') ?>
-	<section class="slider">
-		<? snippet('project-slider',array(
-			'items'  => 'card_huge card ta-right',
-			'limit'  => 3
-		)) ?>
-	</section>
-	<main>
+	<main class="ta-center">
+		<section class="slider">
+			<? snippet('projects.slider',array(
+				'items'  => 'card_huge card ta-right',
+				'limit'  => 3
+			)) ?>
+		</section>
 		<? snippet('social') ?>
 	</main>
-	<? foreach (page('projects')->children()->visible() as $project) : ?>
-		<?=jsl($project->slug())?>
-	<? endforeach ?>
 
 <? snippet('bottom') ?>

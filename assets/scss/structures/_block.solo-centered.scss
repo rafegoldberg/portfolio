@@ -1,0 +1,10 @@
+@mixin block-center-solo() {
+	@content;
+	> *:only-child {
+		@include gridle_centered();
+	}
+}
+
+.block-center-solo {
+	@include block-center-solo();
+}

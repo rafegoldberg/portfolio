@@ -1,4 +1,4 @@
-<nav id="menu">
+<nav id="menu" role="navigation">
 	<ul class="<?= isset($layout) ? $layout : 'list'; ?>">
 		<? foreach($pages->visible() as $p): ?>
 			<li class="list--item <?e($p->isOpen(), ' active')?>">

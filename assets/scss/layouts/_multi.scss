@@ -1,2 +1,15 @@
 
-@include generate-multi(ta,text-align,(justify right left center),!important);
+@include generate-multi(ta,text-align,justify right left center,!important);
+
+@include generate-multi(d,display,block inline-block inline 'none',!important);
+@include generate-multi(d,display,(
+	b : block       ,
+	ib: inline-block,
+	i : inline      ,
+	n : none        ,
+),!important);
+
+@include generate-multi(m,margin-top,(top-none: 0, t-none: 0),!important);
+@include generate-multi(m,margin-right,(right-none: 0, r-none: 0),!important);
+@include generate-multi(m,margin-bottom,(bottom-none: 0, b-none: 0),!important);
+@include generate-multi(m,margin-left,(left-none: 0, l-none: 0),!important);

@@ -10,15 +10,7 @@
 			margin: 0;
 		}
 		&_big {
-			@include card(&) {
-				padding: 4em;
-				@include gridle_state( tablet mobile ) {
-					padding: 3rem 1.5rem;
-				}
-				@include gridle_state( mobile ) {
-					text-align: center;
-				}
-			}
+			@include card(&,big);
 		}
 	}
 }

@@ -6,4 +6,4 @@ Limit: 4
 
 ----
 
-Sidebar: In my five years experience, I've played many roles from design director, to web developer and designer. No matter the hat, the beauty of it is in the details. This site showcases some of my selected works and thinking on the design and development process. Check it out!
+Sidebar: In my five years experience, I've played many roles from design director, to web developer and designer. No matter what I'm working on it's always about the details. This site showcases some of my selected works and thinking on the design and development process.

@@ -1,35 +1,41 @@
 @include list('_sep-space') {
-	@extend .list_inline !optional;
+	@extend %list_sep;
 	@include list('--item') {
 		&:after {
 			content: ' ';
 		}
-		&:last-child, &:last-of-type {
-			&:after { display: none; }
-		}
 	}
 }
 @include list('_sep-slash') {
-	@extend .list_inline !optional;
+	@extend %list_sep;
 	@include list('--item') {
 		&:after {
 			content: ' / ';
-			white-space: pre;
-		}
-		&:last-child, &:last-of-type {
-			&:after { display: none; }
 		}
 	}
 }
 @include list('_sep-comma') {
-	@extend .list_inline !optional;
+	@extend %list_sep;
 	@include list('--item') {
 		&:after {
-			content: ' , ';
+			content: ', ';
+		}
+	}
+}
+%list_sep {
+	@extend .list_inline;
+	@include list(--item) {
+		&:after {
+			display: inline-block;
 			white-space: pre;
 		}
 		&:last-child, &:last-of-type {
-			&:after { display: none; }
+			&:after { display: none !important; }
 		}
 	}
+	&.list_padded { @include list(--item) {
+		&:after {
+			@include gridle_gutter(left);
+		}
+	} }
 }

@@ -1,0 +1,66 @@
+#sidebar {
+	$sidebar-grid: (
+		grid: 4,
+		tablet: ( grid: 12 ),
+		mobile: ( grid: 12 )
+	);
+	@include gridle_set(map-merge($sidebar-grid,(parent:true)));
+	@include block-overflow(vertical) {
+		@include gridle_state( desktop ) {
+			height: 100vh;
+			position: fixed;
+			top: 0;
+			left: 0;
+			z-index: d(front);
+			box-shadow: 1px 0 rgba(darken(c(stroke),25%),.25);
+		}
+	};
+	position: relative;
+	background: c(matte);
+	box-sizing: border-box;
+	@include gridle_state( mobile tablet ) {
+	 	padding: 0 !important;
+	}
+
+	#menu ,
+	#footer {
+		@include gridle_set($sidebar-grid);
+		@include gridle_state( desktop ) {
+			position: fixed;
+			left: 0;
+			background-color: rgba(c(matte),.925);
+		}
+	}
+	#menu { top: 0;
+			 @include gridle_state ( desktop ) {
+			     border-bottom: 1px solid c(stroke);
+			 }
+	       }
+	#footer { bottom: 0;
+			 @include gridle_state ( desktop ) {
+		         border-top: 1px solid c(stroke);
+			 }
+	       }
+
+	+ main {
+		@include gridle_set((
+			grid:   8   ,
+			prefix: 4   ,
+			parent: true,
+			vertical_align: middle,
+			tablet: (
+				grid:  12,
+				no_gutter: left right,
+				prefix:0
+				// grid:  7,
+				// prefix:5
+			),
+			mobile: (
+				grid:  12,
+				no_gutter: left right,
+				prefix:0
+			)
+		));
+	}
+
+}

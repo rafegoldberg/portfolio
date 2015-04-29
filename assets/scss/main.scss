@@ -50,6 +50,7 @@
 // Blocks
 @import "structures/block.legible";
 @import "structures/block.overflow";
+@import "structures/block.solo-centered";
 
 // Small
 @import "structures/small";
@@ -65,6 +66,7 @@
 @import "structures/list";
 @import "structures/list.inline";
 @import "structures/list.separated";
+@import "structures/list.padded";
 
 // Header
 @import "structures/header";
@@ -81,7 +83,7 @@
 //                                                       //
 ///////////////////////////////////////////////////////////
 
-@import "layouts/sidebar";
+@import "layouts/scaffolding";
 @import "layouts/cms.text";
 
 @import "layouts/multi";

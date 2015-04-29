@@ -1,12 +1,12 @@
 <aside id="sidebar" class="soft--links <?= isset($grid)?"grid-$grid":'' ?>">
-	<? snippet('header') ?>
+	<? snippet('menu',array('layout'=>'list_sep-slash')) ?>
 	<article class='cms-text'>
-		<header class="header">
-			<h1><?= $page->project()->html() ?></h1>
+		<header class="header card_huge ta-center">
+			<strong class="d-block"><?= $page->project()->html() ?></strong>
 			<small>for <?= $page->title()->html() ?></small>
 		</header>
 		<?= $page->sidebar()->kirbytext() ?>
-		<?= $page->tags()->list('inline sep-slash') ?>
+		<?= $page->tags()->list('inline sep-comma') ?>
 	</article>
-	<? snippet('footer') ?>
+	<? snippet('footer',array('class'=>'d-n-mobile d-n-tablet')) ?>
 </aside>

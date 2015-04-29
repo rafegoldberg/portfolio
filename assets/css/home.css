@@ -2701,7 +2701,7 @@ html {
 html.tablet html {
   font-size: 15px;
 }
-@media screen and (min-width: 36.063em) and (max-width: 50em) {
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
   html {
     font-size: 15px;
   }
@@ -2717,7 +2717,7 @@ html body {
   font-size: 100%;
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
   font-weight: 300;
-  background: #FDFDFD;
+  background: #FFF;
 }
 
 .clearfix, .clfx {
@@ -2733,7 +2733,7 @@ html body {
 
 .slider {
   color: white;
-  font-size: 2rem;
+  font-size: 2rem !important;
   background-color: #222;
 }
 

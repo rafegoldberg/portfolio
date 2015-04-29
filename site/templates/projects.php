@@ -4,8 +4,11 @@
 )) ?>
 
 	<? snippet('sidebar') ?>
-	<main class="clearfix prefix-desktop-3 prefix-tablet-6 gutter-left">
-		
+	<main class="ta-left">
+		<? snippet('projects.list',array(
+			"wrap"=>"grid-12 parent vertical-align-middle",
+			"item"=>"card_big grid-12"
+		)) ?>
 	</main>
 
 <? snippet('bottom') ?>

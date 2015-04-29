@@ -4,7 +4,7 @@
 	} @else {
 		.list {
 			padding: 0;
-			.list--item { display: block; }
+			> *, .list--item { display: block; }
 		}
 	}
 }
