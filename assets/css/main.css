@@ -11052,6 +11052,23 @@ img {
   max-width: 100%;
 }
 
+figure {
+  position: relative;
+  display: block;
+  margin: 0;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 65vh;
+}
+figure figcaption {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
 .link, .soft--links a, .list_inline a, .list_sep-space a, .list_sep-slash a, .list_sep-comma a {
   text-decoration: none;
 }
@@ -11112,12 +11129,11 @@ html.default .list_padded .list--item {
   line-height: 1.5;
 }
 
-.card, .card_big, .card_huge, .slider .slide_big {
+.card, .card_big, .card_huge, figure, .slider .slide_big {
   padding: 2rem;
   box-sizing: border-box;
 }
-.card, .card_big, .card_huge, .slider .slide_big, .card:before, .card_big:before, .card_huge:before, .slider .slide_big:before, .card:after, .card_big:after, .card_huge:after, .slider .slide_big:after {
-  background-size: cover;
+.card, .card_big, .card_huge, figure, .slider .slide_big, .card:before, .card_big:before, .card_huge:before, figure:before, .slider .slide_big:before, .card:after, .card_big:after, .card_huge:after, figure:after, .slider .slide_big:after {
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -11148,30 +11164,24 @@ html.mobile .card_big {
     text-align: center;
   }
 }
-.card_huge {
+.card_huge, figure {
   padding: 6em 3em;
 }
-html.tablet .card_huge {
-  padding: 4rem 1.5rem;
+html.tablet .card_huge, html.tablet figure {
+  padding: 5rem 2rem;
 }
 @media screen and (min-width: 36.063em) and (max-width: 63.938em) {
-  .card_huge {
-    padding: 4rem 1.5rem;
+  .card_huge, figure {
+    padding: 5rem 2rem;
   }
 }
-html.mobile .card_huge {
-  padding: 4rem 1.5rem;
-}
-@media screen and (max-width: 36em) {
-  .card_huge {
-    padding: 4rem 1.5rem;
-  }
-}
-html.mobile .card_huge {
+html.mobile .card_huge, html.mobile figure {
+  padding: 4.5rem 1rem;
   text-align: center;
 }
 @media screen and (max-width: 36em) {
-  .card_huge {
+  .card_huge, figure {
+    padding: 4.5rem 1rem;
     text-align: center;
   }
 }
@@ -11292,6 +11302,14 @@ html.desktop #sidebar {
     box-shadow: 1px 0 rgba(157, 157, 157, 0.25);
   }
 }
+html.tablet #sidebar {
+  padding: 0 !important;
+}
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  #sidebar {
+    padding: 0 !important;
+  }
+}
 html.mobile #sidebar {
   padding: 0 !important;
 }
@@ -11300,13 +11318,19 @@ html.mobile #sidebar {
     padding: 0 !important;
   }
 }
-html.tablet #sidebar {
-  padding: 0 !important;
+#sidebar-main {
+  display: block !important;
+  float: none !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  clear: both !important;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
-  #sidebar {
-    padding: 0 !important;
-  }
+html.default #sidebar-main {
+  display: block !important;
+  float: none !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  clear: both !important;
 }
 #sidebar #menu,
 #sidebar #footer {

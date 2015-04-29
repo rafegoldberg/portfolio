@@ -12,7 +12,6 @@
 		.card {
 			padding: 2rem;
 			&, &:before, &:after {
-				background-size: cover;
 				background-repeat: no-repeat;
 				background-position: center;
 			}
@@ -37,10 +36,11 @@
 	&_huge {
 		@include card(&) {
 			padding: 6em 3em;
-			@include gridle_state( tablet mobile ) {
-				padding: 4rem 1.5rem;
+			@include gridle_state( tablet ) {
+				padding: 5rem 2rem;
 			}
 			@include gridle_state( mobile ) {
+				padding: 4.5rem 1rem;
 				text-align: center;
 			}
 		}

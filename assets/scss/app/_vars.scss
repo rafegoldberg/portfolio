@@ -46,5 +46,6 @@ $d: (
 ////////////////////////////////////
 
 @function ff-sans() {
+	// @return #{"Menlo, monospaced"};
 	@return #{"Helvetica Neue, Helvetica, Arial, sans-serif"};
 }

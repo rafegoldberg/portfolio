@@ -6,18 +6,14 @@
 	<? snippet('sidebar.project') ?>
 	<main class="clearfix prefix-desktop-3 prefix-tablet-6 gutter-left">
 
-		<? foreach($page->images()->sortBy('sort', 'asc') as $img): ?>
-			<? if ( $img!==$page->file($page->bgi()) ) : ?>
-				<img src="<?= $img->url() ?>">
-			<? endif ?>
-		<? endforeach ?>
+		<? snippet('project.view') ?>
 
-		<nav class="grid-12 parent nextprev cf block-center-solo ta-center" role="navigation">
+		<nav class="grid-12 parent nextprev cf block-center-solo ta-center soft--links" role="navigation">
 			<? if($prev = $page->prevVisible()): ?>
-				<a class="prev grid-6 card_huge" href="<?= $prev->url() ?>">&larr; previous</a>
+				<a class="prev grid-6 card_huge" href="<?= $prev->url() ?>"><div class="iconic iconic-size-md" data-glyph="arrow-thick-left-fill-large"></div></a>
 			<? endif ?>
 			<? if($next = $page->nextVisible()): ?>
-				<a class="next grid-6 card_huge" href="<?= $next->url() ?>">next &rarr;</a>
+				<a class="next grid-6 card_huge" href="<?= $next->url() ?>"><div class="iconic iconic-size-md" data-glyph="arrow-thick-right-fill-large"></div></a>
 			<? endif ?>
 		</nav>
 

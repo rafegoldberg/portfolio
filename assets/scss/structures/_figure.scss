@@ -1,0 +1,15 @@
+figure {
+	@extend .card_huge !optional;
+	position: relative;
+	display: block;
+	margin: 0;
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 65vh;
+	figcaption {
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
+	}
+}

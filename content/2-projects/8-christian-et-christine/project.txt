@@ -2,7 +2,7 @@ Title: Justin Chiao
 
 ----
 
-Text: Actor and director Justin Chiao hired me to create posters for his thesis film *«Christian et Christine»*. The result was a series of posters set in Bergman black and white, using gorgeous still photography taken on set as well as a small info site in the same style.
+Text: Actor and director Justin Chiao and I collaborated on posters for his thesis film *«Christian et Christine»*. The result was a series of posters set in Bergman black and white, using gorgeous still photography taken on set as well as a small info site in the same style.
 
 ----
 
@@ -30,8 +30,16 @@ End-date: 2013-02-01
 
 ----
 
-Featured-image: 
+Project: «Christian et Christine»
 
 ----
 
-Project: «Christian et Christine»
+Sidebar: 
+
+----
+
+Bgi: 
+
+----
+
+Color: 

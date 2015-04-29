@@ -18,10 +18,12 @@
 	position: relative;
 	background: c(matte);
 	box-sizing: border-box;
-	@include gridle_state( mobile tablet ) {
+	@include gridle_state( tablet mobile ) {
 	 	padding: 0 !important;
 	}
-
+	&-main {
+		@include gridle_centered();
+	}
 	#menu ,
 	#footer {
 		@include gridle_set($sidebar-grid);

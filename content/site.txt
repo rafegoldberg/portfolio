@@ -1,4 +1,4 @@
-Title: Portfolio of Rafe Goldberg
+Title: The Works
 
 ----
 
@@ -6,7 +6,7 @@ Author: Rafe Goldberg
 
 ----
 
-Description: Portfolio of Rafe Goldberg
+Description: The Portfolio of Rafe Goldberg
 
 ----
 
@@ -15,3 +15,7 @@ Keywords: web,design,development,brand,logos,graphics,print,business cards,corpo
 ----
 
 Copyright: © 2009-(date: Year) Rafe Goldberg
+
+----
+
+Subtitle: A Portfolio

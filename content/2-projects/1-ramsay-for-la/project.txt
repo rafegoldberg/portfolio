@@ -39,3 +39,11 @@ End-date: 2015-04-01
 ----
 
 Bgi: ramsay.png
+
+----
+
+Bg-color: #00974B
+
+----
+
+Fg-color: #FFF

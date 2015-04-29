@@ -1,9 +1,13 @@
-Category: 
+Sort: 3
 
 ----
 
-Caption: 
+Caption-position: top
 
 ----
 
-Sort: 4
+Caption-view: overlay
+
+----
+
+Caption-text: ### Branded Communications

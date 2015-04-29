@@ -5,16 +5,23 @@ pages: false
 files:
 	sortable: true
 	fields:
-		category:
-			label: Section
+		caption_text:
+			label: Description
+			type: textarea
+		caption_position:
+			label: Position
 			type: select
 			options:
-				process: Process
-				design: Design
-				development: Development
-		caption:
-			label: Caption
-			type: textarea
+				top   : Above the Image
+				left  : Left of image
+				right : Right of image
+				bottom: Below the image
+		caption_view:
+			label: View Options
+			type: radio
+			options:
+				fit: Fit image to availble grid
+				overlay: Overlay description on full-width image
 fields:
 	project:
 		label: Title
@@ -104,6 +111,30 @@ fields:
 		type: select
 		icon: picture-o
 		options: images
+		width: 1/2
+	_line7:
+		type: line
+	_details_colors:
+		label: Poject Theme
+		type: info
+		text: >
+
+			Choose a foreground and background color.
+
+		width: 1/2
+	bg_color:
+		label: &nbsp;
+		type: text
+		icon: eyedropper
+		placeholder: Background Color (HEX)
+		default: #FFF
+		width: 1/2
+	fg_color:
+		label: &nbsp;
+		type: text
+		icon: eyedropper
+		placeholder: Text Color (HEX)
+		default: #000
 		width: 1/2
 	_line3:
 		type: line

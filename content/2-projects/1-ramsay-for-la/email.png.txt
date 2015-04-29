@@ -1,9 +1,13 @@
-Sort: 3
+Sort: 4
 
 ----
 
-Category: 
+Caption-text: # From scrawl to scroll
 
 ----
 
-Caption: 
+Caption-position: right
+
+----
+
+Caption-view: fit
