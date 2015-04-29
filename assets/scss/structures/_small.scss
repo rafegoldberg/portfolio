@@ -5,7 +5,7 @@
 		font-style: false,
 	),$css);
 	#{$selector} {
-		font-size: .9rem;
+		font-size: z(small);
 		@include print-css($css);
 	}
 }

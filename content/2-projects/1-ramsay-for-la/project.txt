@@ -42,7 +42,7 @@ Bgi: ramsay.png
 
 ----
 
-Bg-color: #00974B
+Bg-color: #29904F
 
 ----
 

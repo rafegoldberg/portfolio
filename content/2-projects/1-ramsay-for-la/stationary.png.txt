@@ -6,12 +6,16 @@ Caption-position: left
 
 ----
 
-Caption-view: overlay
-
-----
-
 Caption-text: ### Branded Communications
 
 ----
 
-Overrides: 
+Bgz: fit
+
+----
+
+Bgpx: 
+
+----
+
+Bgpy: 

@@ -1,0 +1,13 @@
+@include list('_tags') {
+  @extend .list !optional;
+	@include list('--item') {
+		display: inline-block;
+		padding: .375em .75em;
+		text-align: center;
+		border: 1px solid c(stroke);
+		border-radius: 2px;
+		margin: 2px;
+		&:after { display: none !important; }
+	}
+	@extend .soft--links !optional;
+}

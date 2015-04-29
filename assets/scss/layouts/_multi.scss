@@ -1,3 +1,34 @@
+// Vertical Align
+// 
+@include generate-multi(va,vertical-align,(
+	super:       super      ,
+	sup:         super      ,
+	sp:          super      ,
+	sub:         sub        ,
+	sb:          sub        ,
+
+	middle:      middle     ,
+	mid:         middle     ,
+	m:           middle     ,
+	top:         top        ,
+	t:           top        ,
+	bottom:      bottom     ,
+	btm:         bottom     ,
+	bt:          bottom     ,
+
+	text-bottom: text-bottom,
+	txb:         text-bottom,
+	tb:          text-bottom,
+	text-top:    text-top   ,
+	txt:         text-top   ,
+	tt:          text-top   ,
+	baseline:    baseline   ,
+	base:        baseline   ,
+	bs:          baseline   ,
+	
+),!important);
+
+
 // Text Align
 // 
 @include generate-multi(ta,text-align,justify right left center,!important);

@@ -10,7 +10,7 @@ Caption-position: right
 
 ----
 
-Bgz: fit
+Bgz: fill
 
 ----
 
@@ -22,4 +22,4 @@ Bgpy: bottom
 
 ----
 
-Apply-view: tablet, mobile
+Apply-view: desktop, tablet, mobile

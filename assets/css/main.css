@@ -11039,7 +11039,7 @@ html.default .block-center-solo > *:only-child {
 }
 
 small {
-  font-size: .9rem;
+  font-size: 0.89em;
   font-weight: normal;
 }
 
@@ -11058,8 +11058,40 @@ img {
   background-repeat: no-repeat;
   background-size: cover;
 }
+html.tablet .figure {
+  min-height: 300px;
+  height: 60vw;
+  max-height: 75vh;
+}
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .figure {
+    min-height: 300px;
+    height: 60vw;
+    max-height: 75vh;
+  }
+}
+html.mobile .figure {
+  min-height: 300px;
+  height: 60vw;
+  max-height: 75vh;
+}
+@media screen and (max-width: 36em) {
+  .figure {
+    min-height: 300px;
+    height: 60vw;
+    max-height: 75vh;
+  }
+}
 .figure--caption {
   position: absolute;
+}
+html.mobile .figure--caption_left, html.mobile .figure--caption_right, html.mobile .figure--caption_top, html.mobile .figure--caption_bottom {
+  text-align: center !important;
+}
+@media screen and (max-width: 36em) {
+  .figure--caption_left, .figure--caption_right, .figure--caption_top, .figure--caption_bottom {
+    text-align: center !important;
+  }
 }
 .figure--caption_left, .figure--caption_right {
   top: 50%;
@@ -11141,22 +11173,6 @@ html.mobile .figure--caption_left, html.mobile .figure--caption_right {
   }
   .gridle-debug .figure--caption_left.parent:before, .figure--caption_left.gridle-debug.parent:before, .gridle-debug .figure--caption_right.parent:before, .figure--caption_right.gridle-debug.parent:before {
     content: "grid-parent-mobile-7" !important;
-  }
-}
-html.tablet .figure--caption_left, html.tablet .figure--caption_right {
-  text-align: center !important;
-}
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
-  .figure--caption_left, .figure--caption_right {
-    text-align: center !important;
-  }
-}
-html.mobile .figure--caption_left, html.mobile .figure--caption_right {
-  text-align: center !important;
-}
-@media screen and (max-width: 36em) {
-  .figure--caption_left, .figure--caption_right {
-    text-align: center !important;
   }
 }
 .figure--caption_left {
@@ -11275,18 +11291,18 @@ html.default .figure--caption_top, html.default .figure--caption_bottom {
   bottom: 1.5rem;
 }
 
-.link, .soft--links a, .list_inline a, .list_sep-space a, .list_sep-slash a, .list_sep-comma a {
+.link, .soft--links a, .list_inline a, .list_sep-space a, .list_sep-slash a, .list_sep-comma a, .list_tags a {
   text-decoration: none;
 }
 
-.soft--links a, .list_inline a, .list_sep-space a, .list_sep-slash a, .list_sep-comma a {
+.soft--links a, .list_inline a, .list_sep-space a, .list_sep-slash a, .list_sep-comma a, .list_tags a {
   color: inherit;
 }
 
-.list, .list_inline, .list_sep-space, .list_sep-slash, .list_sep-comma {
+.list, .list_inline, .list_sep-space, .list_sep-slash, .list_sep-comma, .list_tags {
   padding: 0;
 }
-.list > *, .list_inline > *, .list_sep-space > *, .list_sep-slash > *, .list_sep-comma > *, .list .list--item, .list_inline .list--item, .list_sep-space .list--item, .list_sep-slash .list--item, .list_sep-comma .list--item {
+.list > *, .list_inline > *, .list_sep-space > *, .list_sep-slash > *, .list_sep-comma > *, .list_tags > *, .list .list--item, .list_inline .list--item, .list_sep-space .list--item, .list_sep-slash .list--item, .list_sep-comma .list--item, .list_tags .list--item {
   display: block;
 }
 
@@ -11327,6 +11343,15 @@ html.default .list_padded.list_sep-space .list--item:after, html.default .list_p
 html.default .list_padded .list--item {
   padding-left: 0.75rem;
   padding-right: 0.75rem;
+}
+
+.list_tags .list--item {
+  display: inline-block;
+  padding: .375em .75em;
+  text-align: center;
+  border: 1px solid #DDD;
+  border-radius: 2px;
+  margin: 2px;
 }
 
 .title, h1, h2, h3, h4, h5, h6 {
@@ -11861,6 +11886,1172 @@ html.mobile #sidebar + main {
   padding: 0 2em;
 }
 
+html.portrait .va-super-portrait {
+  vertical-align: super  !important;
+}
+
+@media (orientation: portrait) {
+  .va-super-portrait {
+    vertical-align: super  !important;
+  }
+}
+html.landscape .va-super-landscape {
+  vertical-align: super  !important;
+}
+
+@media (orientation: landscape) {
+  .va-super-landscape {
+    vertical-align: super  !important;
+  }
+}
+html.default .va-super {
+  vertical-align: super  !important;
+}
+
+.va-super {
+  vertical-align: super  !important;
+}
+
+html.desktop .va-super-desktop {
+  vertical-align: super  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-super-desktop {
+    vertical-align: super  !important;
+  }
+}
+html.tablet .va-super-tablet {
+  vertical-align: super  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-super-tablet {
+    vertical-align: super  !important;
+  }
+}
+html.mobile .va-super-mobile {
+  vertical-align: super  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-super-mobile {
+    vertical-align: super  !important;
+  }
+}
+html.portrait .va-sup-portrait {
+  vertical-align: super  !important;
+}
+
+@media (orientation: portrait) {
+  .va-sup-portrait {
+    vertical-align: super  !important;
+  }
+}
+html.landscape .va-sup-landscape {
+  vertical-align: super  !important;
+}
+
+@media (orientation: landscape) {
+  .va-sup-landscape {
+    vertical-align: super  !important;
+  }
+}
+html.default .va-sup {
+  vertical-align: super  !important;
+}
+
+.va-sup {
+  vertical-align: super  !important;
+}
+
+html.desktop .va-sup-desktop {
+  vertical-align: super  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-sup-desktop {
+    vertical-align: super  !important;
+  }
+}
+html.tablet .va-sup-tablet {
+  vertical-align: super  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-sup-tablet {
+    vertical-align: super  !important;
+  }
+}
+html.mobile .va-sup-mobile {
+  vertical-align: super  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-sup-mobile {
+    vertical-align: super  !important;
+  }
+}
+html.portrait .va-sp-portrait {
+  vertical-align: super  !important;
+}
+
+@media (orientation: portrait) {
+  .va-sp-portrait {
+    vertical-align: super  !important;
+  }
+}
+html.landscape .va-sp-landscape {
+  vertical-align: super  !important;
+}
+
+@media (orientation: landscape) {
+  .va-sp-landscape {
+    vertical-align: super  !important;
+  }
+}
+html.default .va-sp {
+  vertical-align: super  !important;
+}
+
+.va-sp {
+  vertical-align: super  !important;
+}
+
+html.desktop .va-sp-desktop {
+  vertical-align: super  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-sp-desktop {
+    vertical-align: super  !important;
+  }
+}
+html.tablet .va-sp-tablet {
+  vertical-align: super  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-sp-tablet {
+    vertical-align: super  !important;
+  }
+}
+html.mobile .va-sp-mobile {
+  vertical-align: super  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-sp-mobile {
+    vertical-align: super  !important;
+  }
+}
+html.portrait .va-sub-portrait {
+  vertical-align: sub  !important;
+}
+
+@media (orientation: portrait) {
+  .va-sub-portrait {
+    vertical-align: sub  !important;
+  }
+}
+html.landscape .va-sub-landscape {
+  vertical-align: sub  !important;
+}
+
+@media (orientation: landscape) {
+  .va-sub-landscape {
+    vertical-align: sub  !important;
+  }
+}
+html.default .va-sub {
+  vertical-align: sub  !important;
+}
+
+.va-sub {
+  vertical-align: sub  !important;
+}
+
+html.desktop .va-sub-desktop {
+  vertical-align: sub  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-sub-desktop {
+    vertical-align: sub  !important;
+  }
+}
+html.tablet .va-sub-tablet {
+  vertical-align: sub  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-sub-tablet {
+    vertical-align: sub  !important;
+  }
+}
+html.mobile .va-sub-mobile {
+  vertical-align: sub  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-sub-mobile {
+    vertical-align: sub  !important;
+  }
+}
+html.portrait .va-sb-portrait {
+  vertical-align: sub  !important;
+}
+
+@media (orientation: portrait) {
+  .va-sb-portrait {
+    vertical-align: sub  !important;
+  }
+}
+html.landscape .va-sb-landscape {
+  vertical-align: sub  !important;
+}
+
+@media (orientation: landscape) {
+  .va-sb-landscape {
+    vertical-align: sub  !important;
+  }
+}
+html.default .va-sb {
+  vertical-align: sub  !important;
+}
+
+.va-sb {
+  vertical-align: sub  !important;
+}
+
+html.desktop .va-sb-desktop {
+  vertical-align: sub  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-sb-desktop {
+    vertical-align: sub  !important;
+  }
+}
+html.tablet .va-sb-tablet {
+  vertical-align: sub  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-sb-tablet {
+    vertical-align: sub  !important;
+  }
+}
+html.mobile .va-sb-mobile {
+  vertical-align: sub  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-sb-mobile {
+    vertical-align: sub  !important;
+  }
+}
+html.portrait .va-middle-portrait {
+  vertical-align: middle  !important;
+}
+
+@media (orientation: portrait) {
+  .va-middle-portrait {
+    vertical-align: middle  !important;
+  }
+}
+html.landscape .va-middle-landscape {
+  vertical-align: middle  !important;
+}
+
+@media (orientation: landscape) {
+  .va-middle-landscape {
+    vertical-align: middle  !important;
+  }
+}
+html.default .va-middle {
+  vertical-align: middle  !important;
+}
+
+.va-middle {
+  vertical-align: middle  !important;
+}
+
+html.desktop .va-middle-desktop {
+  vertical-align: middle  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-middle-desktop {
+    vertical-align: middle  !important;
+  }
+}
+html.tablet .va-middle-tablet {
+  vertical-align: middle  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-middle-tablet {
+    vertical-align: middle  !important;
+  }
+}
+html.mobile .va-middle-mobile {
+  vertical-align: middle  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-middle-mobile {
+    vertical-align: middle  !important;
+  }
+}
+html.portrait .va-mid-portrait {
+  vertical-align: middle  !important;
+}
+
+@media (orientation: portrait) {
+  .va-mid-portrait {
+    vertical-align: middle  !important;
+  }
+}
+html.landscape .va-mid-landscape {
+  vertical-align: middle  !important;
+}
+
+@media (orientation: landscape) {
+  .va-mid-landscape {
+    vertical-align: middle  !important;
+  }
+}
+html.default .va-mid {
+  vertical-align: middle  !important;
+}
+
+.va-mid {
+  vertical-align: middle  !important;
+}
+
+html.desktop .va-mid-desktop {
+  vertical-align: middle  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-mid-desktop {
+    vertical-align: middle  !important;
+  }
+}
+html.tablet .va-mid-tablet {
+  vertical-align: middle  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-mid-tablet {
+    vertical-align: middle  !important;
+  }
+}
+html.mobile .va-mid-mobile {
+  vertical-align: middle  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-mid-mobile {
+    vertical-align: middle  !important;
+  }
+}
+html.portrait .va-m-portrait {
+  vertical-align: middle  !important;
+}
+
+@media (orientation: portrait) {
+  .va-m-portrait {
+    vertical-align: middle  !important;
+  }
+}
+html.landscape .va-m-landscape {
+  vertical-align: middle  !important;
+}
+
+@media (orientation: landscape) {
+  .va-m-landscape {
+    vertical-align: middle  !important;
+  }
+}
+html.default .va-m {
+  vertical-align: middle  !important;
+}
+
+.va-m {
+  vertical-align: middle  !important;
+}
+
+html.desktop .va-m-desktop {
+  vertical-align: middle  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-m-desktop {
+    vertical-align: middle  !important;
+  }
+}
+html.tablet .va-m-tablet {
+  vertical-align: middle  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-m-tablet {
+    vertical-align: middle  !important;
+  }
+}
+html.mobile .va-m-mobile {
+  vertical-align: middle  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-m-mobile {
+    vertical-align: middle  !important;
+  }
+}
+html.portrait .va-top-portrait {
+  vertical-align: top  !important;
+}
+
+@media (orientation: portrait) {
+  .va-top-portrait {
+    vertical-align: top  !important;
+  }
+}
+html.landscape .va-top-landscape {
+  vertical-align: top  !important;
+}
+
+@media (orientation: landscape) {
+  .va-top-landscape {
+    vertical-align: top  !important;
+  }
+}
+html.default .va-top {
+  vertical-align: top  !important;
+}
+
+.va-top {
+  vertical-align: top  !important;
+}
+
+html.desktop .va-top-desktop {
+  vertical-align: top  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-top-desktop {
+    vertical-align: top  !important;
+  }
+}
+html.tablet .va-top-tablet {
+  vertical-align: top  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-top-tablet {
+    vertical-align: top  !important;
+  }
+}
+html.mobile .va-top-mobile {
+  vertical-align: top  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-top-mobile {
+    vertical-align: top  !important;
+  }
+}
+html.portrait .va-t-portrait {
+  vertical-align: top  !important;
+}
+
+@media (orientation: portrait) {
+  .va-t-portrait {
+    vertical-align: top  !important;
+  }
+}
+html.landscape .va-t-landscape {
+  vertical-align: top  !important;
+}
+
+@media (orientation: landscape) {
+  .va-t-landscape {
+    vertical-align: top  !important;
+  }
+}
+html.default .va-t {
+  vertical-align: top  !important;
+}
+
+.va-t {
+  vertical-align: top  !important;
+}
+
+html.desktop .va-t-desktop {
+  vertical-align: top  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-t-desktop {
+    vertical-align: top  !important;
+  }
+}
+html.tablet .va-t-tablet {
+  vertical-align: top  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-t-tablet {
+    vertical-align: top  !important;
+  }
+}
+html.mobile .va-t-mobile {
+  vertical-align: top  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-t-mobile {
+    vertical-align: top  !important;
+  }
+}
+html.portrait .va-bottom-portrait {
+  vertical-align: bottom  !important;
+}
+
+@media (orientation: portrait) {
+  .va-bottom-portrait {
+    vertical-align: bottom  !important;
+  }
+}
+html.landscape .va-bottom-landscape {
+  vertical-align: bottom  !important;
+}
+
+@media (orientation: landscape) {
+  .va-bottom-landscape {
+    vertical-align: bottom  !important;
+  }
+}
+html.default .va-bottom {
+  vertical-align: bottom  !important;
+}
+
+.va-bottom {
+  vertical-align: bottom  !important;
+}
+
+html.desktop .va-bottom-desktop {
+  vertical-align: bottom  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-bottom-desktop {
+    vertical-align: bottom  !important;
+  }
+}
+html.tablet .va-bottom-tablet {
+  vertical-align: bottom  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-bottom-tablet {
+    vertical-align: bottom  !important;
+  }
+}
+html.mobile .va-bottom-mobile {
+  vertical-align: bottom  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-bottom-mobile {
+    vertical-align: bottom  !important;
+  }
+}
+html.portrait .va-btm-portrait {
+  vertical-align: bottom  !important;
+}
+
+@media (orientation: portrait) {
+  .va-btm-portrait {
+    vertical-align: bottom  !important;
+  }
+}
+html.landscape .va-btm-landscape {
+  vertical-align: bottom  !important;
+}
+
+@media (orientation: landscape) {
+  .va-btm-landscape {
+    vertical-align: bottom  !important;
+  }
+}
+html.default .va-btm {
+  vertical-align: bottom  !important;
+}
+
+.va-btm {
+  vertical-align: bottom  !important;
+}
+
+html.desktop .va-btm-desktop {
+  vertical-align: bottom  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-btm-desktop {
+    vertical-align: bottom  !important;
+  }
+}
+html.tablet .va-btm-tablet {
+  vertical-align: bottom  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-btm-tablet {
+    vertical-align: bottom  !important;
+  }
+}
+html.mobile .va-btm-mobile {
+  vertical-align: bottom  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-btm-mobile {
+    vertical-align: bottom  !important;
+  }
+}
+html.portrait .va-bt-portrait {
+  vertical-align: bottom  !important;
+}
+
+@media (orientation: portrait) {
+  .va-bt-portrait {
+    vertical-align: bottom  !important;
+  }
+}
+html.landscape .va-bt-landscape {
+  vertical-align: bottom  !important;
+}
+
+@media (orientation: landscape) {
+  .va-bt-landscape {
+    vertical-align: bottom  !important;
+  }
+}
+html.default .va-bt {
+  vertical-align: bottom  !important;
+}
+
+.va-bt {
+  vertical-align: bottom  !important;
+}
+
+html.desktop .va-bt-desktop {
+  vertical-align: bottom  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-bt-desktop {
+    vertical-align: bottom  !important;
+  }
+}
+html.tablet .va-bt-tablet {
+  vertical-align: bottom  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-bt-tablet {
+    vertical-align: bottom  !important;
+  }
+}
+html.mobile .va-bt-mobile {
+  vertical-align: bottom  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-bt-mobile {
+    vertical-align: bottom  !important;
+  }
+}
+html.portrait .va-text-bottom-portrait {
+  vertical-align: text-bottom  !important;
+}
+
+@media (orientation: portrait) {
+  .va-text-bottom-portrait {
+    vertical-align: text-bottom  !important;
+  }
+}
+html.landscape .va-text-bottom-landscape {
+  vertical-align: text-bottom  !important;
+}
+
+@media (orientation: landscape) {
+  .va-text-bottom-landscape {
+    vertical-align: text-bottom  !important;
+  }
+}
+html.default .va-text-bottom {
+  vertical-align: text-bottom  !important;
+}
+
+.va-text-bottom {
+  vertical-align: text-bottom  !important;
+}
+
+html.desktop .va-text-bottom-desktop {
+  vertical-align: text-bottom  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-text-bottom-desktop {
+    vertical-align: text-bottom  !important;
+  }
+}
+html.tablet .va-text-bottom-tablet {
+  vertical-align: text-bottom  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-text-bottom-tablet {
+    vertical-align: text-bottom  !important;
+  }
+}
+html.mobile .va-text-bottom-mobile {
+  vertical-align: text-bottom  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-text-bottom-mobile {
+    vertical-align: text-bottom  !important;
+  }
+}
+html.portrait .va-txb-portrait {
+  vertical-align: text-bottom  !important;
+}
+
+@media (orientation: portrait) {
+  .va-txb-portrait {
+    vertical-align: text-bottom  !important;
+  }
+}
+html.landscape .va-txb-landscape {
+  vertical-align: text-bottom  !important;
+}
+
+@media (orientation: landscape) {
+  .va-txb-landscape {
+    vertical-align: text-bottom  !important;
+  }
+}
+html.default .va-txb {
+  vertical-align: text-bottom  !important;
+}
+
+.va-txb {
+  vertical-align: text-bottom  !important;
+}
+
+html.desktop .va-txb-desktop {
+  vertical-align: text-bottom  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-txb-desktop {
+    vertical-align: text-bottom  !important;
+  }
+}
+html.tablet .va-txb-tablet {
+  vertical-align: text-bottom  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-txb-tablet {
+    vertical-align: text-bottom  !important;
+  }
+}
+html.mobile .va-txb-mobile {
+  vertical-align: text-bottom  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-txb-mobile {
+    vertical-align: text-bottom  !important;
+  }
+}
+html.portrait .va-tb-portrait {
+  vertical-align: text-bottom  !important;
+}
+
+@media (orientation: portrait) {
+  .va-tb-portrait {
+    vertical-align: text-bottom  !important;
+  }
+}
+html.landscape .va-tb-landscape {
+  vertical-align: text-bottom  !important;
+}
+
+@media (orientation: landscape) {
+  .va-tb-landscape {
+    vertical-align: text-bottom  !important;
+  }
+}
+html.default .va-tb {
+  vertical-align: text-bottom  !important;
+}
+
+.va-tb {
+  vertical-align: text-bottom  !important;
+}
+
+html.desktop .va-tb-desktop {
+  vertical-align: text-bottom  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-tb-desktop {
+    vertical-align: text-bottom  !important;
+  }
+}
+html.tablet .va-tb-tablet {
+  vertical-align: text-bottom  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-tb-tablet {
+    vertical-align: text-bottom  !important;
+  }
+}
+html.mobile .va-tb-mobile {
+  vertical-align: text-bottom  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-tb-mobile {
+    vertical-align: text-bottom  !important;
+  }
+}
+html.portrait .va-text-top-portrait {
+  vertical-align: text-top  !important;
+}
+
+@media (orientation: portrait) {
+  .va-text-top-portrait {
+    vertical-align: text-top  !important;
+  }
+}
+html.landscape .va-text-top-landscape {
+  vertical-align: text-top  !important;
+}
+
+@media (orientation: landscape) {
+  .va-text-top-landscape {
+    vertical-align: text-top  !important;
+  }
+}
+html.default .va-text-top {
+  vertical-align: text-top  !important;
+}
+
+.va-text-top {
+  vertical-align: text-top  !important;
+}
+
+html.desktop .va-text-top-desktop {
+  vertical-align: text-top  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-text-top-desktop {
+    vertical-align: text-top  !important;
+  }
+}
+html.tablet .va-text-top-tablet {
+  vertical-align: text-top  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-text-top-tablet {
+    vertical-align: text-top  !important;
+  }
+}
+html.mobile .va-text-top-mobile {
+  vertical-align: text-top  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-text-top-mobile {
+    vertical-align: text-top  !important;
+  }
+}
+html.portrait .va-txt-portrait {
+  vertical-align: text-top  !important;
+}
+
+@media (orientation: portrait) {
+  .va-txt-portrait {
+    vertical-align: text-top  !important;
+  }
+}
+html.landscape .va-txt-landscape {
+  vertical-align: text-top  !important;
+}
+
+@media (orientation: landscape) {
+  .va-txt-landscape {
+    vertical-align: text-top  !important;
+  }
+}
+html.default .va-txt {
+  vertical-align: text-top  !important;
+}
+
+.va-txt {
+  vertical-align: text-top  !important;
+}
+
+html.desktop .va-txt-desktop {
+  vertical-align: text-top  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-txt-desktop {
+    vertical-align: text-top  !important;
+  }
+}
+html.tablet .va-txt-tablet {
+  vertical-align: text-top  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-txt-tablet {
+    vertical-align: text-top  !important;
+  }
+}
+html.mobile .va-txt-mobile {
+  vertical-align: text-top  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-txt-mobile {
+    vertical-align: text-top  !important;
+  }
+}
+html.portrait .va-tt-portrait {
+  vertical-align: text-top  !important;
+}
+
+@media (orientation: portrait) {
+  .va-tt-portrait {
+    vertical-align: text-top  !important;
+  }
+}
+html.landscape .va-tt-landscape {
+  vertical-align: text-top  !important;
+}
+
+@media (orientation: landscape) {
+  .va-tt-landscape {
+    vertical-align: text-top  !important;
+  }
+}
+html.default .va-tt {
+  vertical-align: text-top  !important;
+}
+
+.va-tt {
+  vertical-align: text-top  !important;
+}
+
+html.desktop .va-tt-desktop {
+  vertical-align: text-top  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-tt-desktop {
+    vertical-align: text-top  !important;
+  }
+}
+html.tablet .va-tt-tablet {
+  vertical-align: text-top  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-tt-tablet {
+    vertical-align: text-top  !important;
+  }
+}
+html.mobile .va-tt-mobile {
+  vertical-align: text-top  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-tt-mobile {
+    vertical-align: text-top  !important;
+  }
+}
+html.portrait .va-baseline-portrait {
+  vertical-align: baseline  !important;
+}
+
+@media (orientation: portrait) {
+  .va-baseline-portrait {
+    vertical-align: baseline  !important;
+  }
+}
+html.landscape .va-baseline-landscape {
+  vertical-align: baseline  !important;
+}
+
+@media (orientation: landscape) {
+  .va-baseline-landscape {
+    vertical-align: baseline  !important;
+  }
+}
+html.default .va-baseline {
+  vertical-align: baseline  !important;
+}
+
+.va-baseline {
+  vertical-align: baseline  !important;
+}
+
+html.desktop .va-baseline-desktop {
+  vertical-align: baseline  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-baseline-desktop {
+    vertical-align: baseline  !important;
+  }
+}
+html.tablet .va-baseline-tablet {
+  vertical-align: baseline  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-baseline-tablet {
+    vertical-align: baseline  !important;
+  }
+}
+html.mobile .va-baseline-mobile {
+  vertical-align: baseline  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-baseline-mobile {
+    vertical-align: baseline  !important;
+  }
+}
+html.portrait .va-base-portrait {
+  vertical-align: baseline  !important;
+}
+
+@media (orientation: portrait) {
+  .va-base-portrait {
+    vertical-align: baseline  !important;
+  }
+}
+html.landscape .va-base-landscape {
+  vertical-align: baseline  !important;
+}
+
+@media (orientation: landscape) {
+  .va-base-landscape {
+    vertical-align: baseline  !important;
+  }
+}
+html.default .va-base {
+  vertical-align: baseline  !important;
+}
+
+.va-base {
+  vertical-align: baseline  !important;
+}
+
+html.desktop .va-base-desktop {
+  vertical-align: baseline  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-base-desktop {
+    vertical-align: baseline  !important;
+  }
+}
+html.tablet .va-base-tablet {
+  vertical-align: baseline  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-base-tablet {
+    vertical-align: baseline  !important;
+  }
+}
+html.mobile .va-base-mobile {
+  vertical-align: baseline  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-base-mobile {
+    vertical-align: baseline  !important;
+  }
+}
+html.portrait .va-bs-portrait {
+  vertical-align: baseline  !important;
+}
+
+@media (orientation: portrait) {
+  .va-bs-portrait {
+    vertical-align: baseline  !important;
+  }
+}
+html.landscape .va-bs-landscape {
+  vertical-align: baseline  !important;
+}
+
+@media (orientation: landscape) {
+  .va-bs-landscape {
+    vertical-align: baseline  !important;
+  }
+}
+html.default .va-bs {
+  vertical-align: baseline  !important;
+}
+
+.va-bs {
+  vertical-align: baseline  !important;
+}
+
+html.desktop .va-bs-desktop {
+  vertical-align: baseline  !important;
+}
+
+@media screen and (min-width: 64em) {
+  .va-bs-desktop {
+    vertical-align: baseline  !important;
+  }
+}
+html.tablet .va-bs-tablet {
+  vertical-align: baseline  !important;
+}
+
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .va-bs-tablet {
+    vertical-align: baseline  !important;
+  }
+}
+html.mobile .va-bs-mobile {
+  vertical-align: baseline  !important;
+}
+
+@media screen and (max-width: 36em) {
+  .va-bs-mobile {
+    vertical-align: baseline  !important;
+  }
+}
 html.portrait .ta-justify-portrait {
   text-align: justify;
 }
