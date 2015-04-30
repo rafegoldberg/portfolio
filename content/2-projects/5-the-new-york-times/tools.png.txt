@@ -1,0 +1,31 @@
+Sort: 2
+
+----
+
+Caption-text: 
+
+# Accessible Journalism
+
+For the Times, a major consideration in the design process was ensuring access across multiple mediums and platforms. We were designing for the web and the print paper,  and everything in between, from touchscreens to screen readers for the visually impaired.
+
+Whether it was exporting images from Photoshop with accurate (tooltip: EXIF show: I could toss out these acronyms all day long...) data, or writing semantic, valid HTML to the (tooltip: W3C spec show: Seriously, all day...), or implementing the (tooltip: ARIA spec show: Okay, okay. I'll stop. I promise.), my time at the Times was a primer on the requirements and realities of design at a large-scale institution.
+
+----
+
+Caption-position: left
+
+----
+
+Bgz: fit
+
+----
+
+Bgpx: center
+
+----
+
+Bgpy: center
+
+----
+
+Apply-view: desktop, tablet, mobile

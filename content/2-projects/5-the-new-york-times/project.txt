@@ -30,8 +30,20 @@ Link-2: http://london2012.nytimes.com/beach-volleyball/mens#playoffs
 
 ----
 
-Featured-image: 
+Project: Olympic Infographics
 
 ----
 
-Project: Olympic Infographics
+Sidebar: 
+
+----
+
+Bgi: nyt.png
+
+----
+
+Bg-color: 
+
+----
+
+Fg-color: 

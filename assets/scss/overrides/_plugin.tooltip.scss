@@ -1,5 +1,12 @@
 @import "plugin.tooltip-defaults.scss";
 
-.tooltip {
+.tooltip { // TOOLTIPPED LINKS
 	text-decoration: underline !important;
+}
+.tooltipster { // TOOLTIP VIEW
+	&-base {
+		border-radius: 0 !important;
+		border: none !important;
+		&, & > * { font-size: z(small) !important; }
+	}
 }

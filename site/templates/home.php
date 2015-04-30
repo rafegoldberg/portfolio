@@ -6,12 +6,10 @@
 
 	<? snippet('sidebar') ?>
 	<main class="ta-center">
-		<section class="slider">
-			<? snippet('projects.slider',array(
-				'items'  => 'card_huge card ta-right',
-				'limit'  => 3
-			)) ?>
-		</section>
+		<? snippet('projects.slider',array(
+			'items'  => 'slide--card ta-right',
+			'limit'  => 3
+		)) ?>
 		<? snippet('social') ?>
 	</main>
 

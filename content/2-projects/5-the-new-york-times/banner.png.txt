@@ -1,0 +1,25 @@
+Sort: 3
+
+----
+
+Caption-text: 
+
+----
+
+Caption-position: 
+
+----
+
+Bgz: fit
+
+----
+
+Bgpx: center
+
+----
+
+Bgpy: bottom
+
+----
+
+Apply-view: desktop, tablet, mobile

@@ -11029,7 +11029,7 @@ html body {
   clear: both;
 }
 
-.legible-block {
+.legible-block, .slider .legible-block.slide--inner {
   max-width: 46em;
   line-height: 1.5;
   text-align: left;
@@ -11139,11 +11139,11 @@ html.default .list_padded .list--item {
   line-height: 1.5;
 }
 
-.card, .card_big, .card_huge, .slider .slide_big {
+.card, .slider .card.slide--inner {
   padding: 2rem;
   box-sizing: border-box;
 }
-.card, .card_big, .card_huge, .slider .slide_big, .card:before, .card_big:before, .card_huge:before, .slider .slide_big:before, .card:after, .card_big:after, .card_huge:after, .slider .slide_big:after {
+.card, .slider .card.slide--inner, .card:before, .slider .card.slide--inner:before, .card:after, .slider .card.slide--inner:after {
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -11175,24 +11175,22 @@ html.mobile .card_big {
   }
 }
 .card_huge {
-  padding: 6em 3em;
+  padding: 24vh 3em;
 }
 html.tablet .card_huge {
-  padding: 5rem 2rem;
+  padding: 21vh 2rem;
 }
 @media screen and (min-width: 36.063em) and (max-width: 63.938em) {
   .card_huge {
-    padding: 5rem 2rem;
+    padding: 21vh 2rem;
   }
 }
 html.mobile .card_huge {
-  padding: 4.5rem 1rem;
-  text-align: center;
+  padding: 18rem 1rem;
 }
 @media screen and (max-width: 36em) {
   .card_huge {
-    padding: 4.5rem 1rem;
-    text-align: center;
+    padding: 18rem 1rem;
   }
 }
 
@@ -11902,7 +11900,7 @@ html.mobile #sidebar + main {
   }
 }
 
-.cms-text {
+.cms-text, .slider .cms-text.slide--inner {
   max-width: 46em;
   line-height: 1.5;
   text-align: left;
@@ -16690,13 +16688,75 @@ html.mobile .bgpy-b-mobile {
   list-style: none;
   margin: 0 0 0 -1px !important;
   margin-left: -1px !important;
-  -webkit-transform: translateX(1px);
-      -ms-transform: translateX(1px);
-          transform: translateX(1px);
+  -webkit-transform: translateX(2px);
+      -ms-transform: translateX(2px);
+          transform: translateX(2px);
 }
 .slider .slide--wrap {
   padding: 0;
   margin: 0;
+}
+.slider .slide--inner {
+  padding: 2rem;
+  box-sizing: border-box;
+}
+.slider .slide--inner, .slider .slide--inner:before, .slider .slide--inner:after {
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.slider .slide--inner_big {
+  padding: 4em 3em;
+}
+html.tablet .slider .slide--inner_big {
+  padding: 3rem 1.5rem;
+}
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .slider .slide--inner_big {
+    padding: 3rem 1.5rem;
+  }
+}
+html.mobile .slider .slide--inner_big {
+  padding: 3rem 1.5rem;
+}
+@media screen and (max-width: 36em) {
+  .slider .slide--inner_big {
+    padding: 3rem 1.5rem;
+  }
+}
+html.mobile .slider .slide--inner_big {
+  text-align: center;
+}
+@media screen and (max-width: 36em) {
+  .slider .slide--inner_big {
+    text-align: center;
+  }
+}
+.slider .slide--inner_huge {
+  padding: 24vh 3em;
+}
+html.tablet .slider .slide--inner_huge {
+  padding: 21vh 2rem;
+}
+@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+  .slider .slide--inner_huge {
+    padding: 21vh 2rem;
+  }
+}
+html.mobile .slider .slide--inner_huge {
+  padding: 18rem 1rem;
+}
+@media screen and (max-width: 36em) {
+  .slider .slide--inner_huge {
+    padding: 18rem 1rem;
+  }
+}
+html.mobile .slider .slide--inner {
+  text-align: center !important;
+}
+@media screen and (max-width: 36em) {
+  .slider .slide--inner {
+    text-align: center !important;
+  }
 }
 
 /* This is the default Tooltipster theme (feel free to modify or duplicate and create multiple themes!): */
@@ -16936,6 +16996,14 @@ html.mobile .bgpy-b-mobile {
 
 .tooltip {
   text-decoration: underline !important;
+}
+
+.tooltipster-base {
+  border-radius: 0 !important;
+  border: none !important;
+}
+.tooltipster-base, .tooltipster-base > * {
+  font-size: 0.89em !important;
 }
 
 /*# sourceMappingURL=main.css.map */

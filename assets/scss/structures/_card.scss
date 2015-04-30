@@ -1,48 +1,31 @@
-@mixin card($is:false,$class:false) {
-	@if $is==& {
-		& {
-			@extend .card !optional;
-			@content;
+@mixin card {
+	&%base {
+		padding: 2rem;
+		&, &:before, &:after {
+			background-repeat: no-repeat;
+			background-position: center;
 		}
-	} @else if $is==wrap {
-		.#{$class}--cards { @content; }
-	} @else if $class {
-		.card#{$class} { @content; }
-	} @else {
-		.card {
-			padding: 2rem;
-			&, &:before, &:after {
-				background-repeat: no-repeat;
-				background-position: center;
-			}
-			@content;
-			box-sizing: border-box;
-		}
+		box-sizing: border-box;
 	}
-}
-
-@include card {
 	&_big {
-		@include card(&) {
-			padding: 4em 3em;
-			@include gridle_state( tablet mobile ) {
-				padding: 3rem 1.5rem;
-			}
-			@include gridle_state( mobile ) {
-				text-align: center;
-			}
+		padding: 4em 3em;
+		@include gridle_state( tablet mobile ) {
+			padding: 3rem 1.5rem;
+		}
+		@include gridle_state( mobile ) {
+			text-align: center;
 		}
 	}
 	&_huge {
-		@include card(&) {
-			padding: 6em 3em;
-			@include gridle_state( tablet ) {
-				padding: 5rem 2rem;
-			}
-			@include gridle_state( mobile ) {
-				padding: 4.5rem 1rem;
-				text-align: center;
-			}
+		padding: 24vh 3em;
+		@include gridle_state( tablet ) {
+			padding: 21vh 2rem;
+		}
+		@include gridle_state( mobile ) {
+			padding: 18rem 1rem;
 		}
 	}
+	@content;
 }
+
+.card { @include card { @extend %base; } }

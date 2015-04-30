@@ -33,7 +33,6 @@
 		{
 			"file_exclude_patterns":
 			[
-				// "**/gridle/*"
 			],
 			"name": "│ scss",
 			"path": "assets/scss"
@@ -92,11 +91,11 @@
 		},
 		{
 			"name": "│ plugins",
-			"path": "site/plugins",
+			"path": "site/plugins"
 		},
 		{
 			"name": "└ tags",
-			"path": "site/tags",
+			"path": "site/tags"
 		},
 		{
 			"file_exclude_patterns":
@@ -110,5 +109,11 @@
 			"name": "nodes",
 			"path": "node_modules"
 		}
-	]
+	],
+	"settings":
+	{
+		"FuzzyFilePath":
+		{
+		}
+	}
 }

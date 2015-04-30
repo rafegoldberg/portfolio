@@ -1,14 +1,16 @@
 $(document).ready(function() {
-	default_selector = '.slider';
+
+	default_selector = '.js_slider';
+
 	if (default_selector) {
-		var x = $('.slider').unslider({
+		var x = $(default_selector).unslider({
 			   speed: 500,             // The speed to animate each slide (in milliseconds)
 			   delay: 3000,            // The delay between slide animations (in milliseconds)
 			    keys: true,            // Enable keyboard (left, right) arrow shortcuts
 			    dots: false,           // Display dot navigation
 			   fluid: true,            // Support responsive design. May break non-responsive designs
-	   		   items: '>.slide--wrap', // Slide wrapper selector 
-			    item: '>.slide',       // Each slide selector
+	   		   items: '>.js_slide--wrap', // Slide wrapper selector 
+			    item: '>.js_slide',       // Each slide selector
 			complete: function(){},    // A function that gets called after every slide animation
 		});
 	}
