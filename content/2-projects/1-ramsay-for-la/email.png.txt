@@ -2,7 +2,13 @@ Sort: 4
 
 ----
 
-Caption-text: # From scrawl to scroll
+Caption-text: 
+
+# From scrawl to scroll
+
+---
+
+Carolyn would have gotten her message out if she had to shout. Thankfully she had this cross-service compatible HTML email template for her.
 
 ----
 
@@ -14,7 +20,7 @@ Bgz: fill
 
 ----
 
-Bgpx: left
+Bgpx: right
 
 ----
 

@@ -2,7 +2,7 @@ Title: DOTBK
 
 ----
 
-Tags: web
+Tags: web,UI,user interface,Django,Git
 
 ----
 
@@ -14,7 +14,7 @@ Category: Web
 
 ----
 
-Link-1: 
+Link-1: http://dotbk.com
 
 ----
 
@@ -35,3 +35,15 @@ Project: In Style
 ----
 
 Bgi: dotbk.png
+
+----
+
+Sidebar: This small-batch, hipster fashion company hired me to completely reconceive their online presence. Alongside their awesome in-house developer, I helped them turn their site from a jumble of hardcoded, static pages in to a fully functioning, responsive ecommerce platform that was in line with their updated brand and logo.
+
+----
+
+Bg-color: #FCFCFC
+
+----
+
+Fg-color: #204459

@@ -1,0 +1,25 @@
+Caption-text: 
+
+----
+
+Caption-position: 
+
+----
+
+Bgz: fill
+
+----
+
+Bgpx: right
+
+----
+
+Bgpy: bottom
+
+----
+
+Apply-view: desktop, tablet, mobile
+
+----
+
+Sort: 2
