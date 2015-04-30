@@ -11,9 +11,7 @@
 		}
 		&--inner {
 			@include card { @extend %base; }
-			@include gridle_state( mobile ) {
-				text-align: center !important;
-			}
+			@include gridle_state( mobile ) { text-align: center !important; }
 		}
 	}
 }

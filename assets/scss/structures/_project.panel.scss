@@ -23,6 +23,7 @@
 		// 
 		//-> Left / Right
 		// 
+		$lr_offset: (default:3rem,tablet:1.75rem,mobile:1.125rem);
 		&_top, &_bottom {
 			@include gridle_state( mobile ) {
 				text-align: center !important;
@@ -36,10 +37,21 @@
 				tablet: ( grid: 6 ),
 				mobile: ( grid: 7 )	
 			));
+			@include gridle_state ( mobile ) { > * & {
+				&:not(:first-child) { display: none   ; }
+				&:last-child        { display: initial; }
+			} }
 		}
-		&_left   { text-align: left ; }
+		&_left   { text-align: left;
+			                                  padding: map-get($lr_offset,default);
+			@include gridle_state( tablet ) { padding: map-get($lr_offset,tablet); }
+			@include gridle_state( mobile ) { padding: map-get($lr_offset,mobile); }
+		}
 		&_right  { text-align: right;
-			@include gridle_prefix(7,desktop);
+			                                  padding: map-get($lr_offset,default);
+			@include gridle_state( tablet ) { padding: map-get($lr_offset,tablet); }
+			@include gridle_state( mobile ) { padding: map-get($lr_offset,mobile); }
+			@include gridle_prefix(7);
 			@include gridle_prefix(6,tablet);
 			@include gridle_prefix(5,mobile);
 		}

@@ -36,17 +36,25 @@
 
 //—> Custom Viewport-Based States
 @include gridle_register_state(desktop,(
-    min-width:    64em  , // 1024px
+
+    // min-width:    64em  , // 1024px
+    min-width:    75em  , // 1200px
+
 	gutter-width: 1.5rem, // 24px
 ));
 @include gridle_register_state(tablet ,(
-    min-width:    36.063em, // 481px
-    max-width:    63.938em, // 800px
-	gutter-width: 1.5rem  , // 24px
 
+    // max-width:    63.938em, // 800px
+    max-width:    74.938em, // 1199px
+
+    min-width:    36.063em, // 481px
+
+	gutter-width: 1.5rem  , // 24px
 ));
 @include gridle_register_state(mobile ,(
+
     max-width:    36em,     // 480px
+
     gutter-width: 1rem,     // 16px
 ));
 

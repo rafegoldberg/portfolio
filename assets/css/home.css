@@ -2703,7 +2703,7 @@ html.tablet html {
   font-size: 15px;
   line-height: 1;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   html {
     font-size: 15px;
     line-height: 1;

@@ -2777,7 +2777,7 @@
   }
 }
 #gridle-settings {
-  content: '{ "version" : "1.3.38", "states" : { "retina":{ "query" : "(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)", "classes" : false, "name" : "retina", "_gridle" : true }, "tv":{ "query" : "only tv", "classes" : false, "name" : "tv", "_gridle" : true }, "print":{ "query" : "only print", "classes" : false, "name" : "print", "_gridle" : true }, "portrait":{ "name" : "portrait", "min-width" : null, "max-width" : null, "query" : "(orientation : portrait)", "classes" : true, "context" : "12", "gutter-width" : "1.5rem", "direction" : "ltr", "name-multiplicator" : "1", "debug" : true, "debug-show-class-names" : true, "ie7-support" : false, "html-states-classes" : false, "generate-push-classes" : true, "generate-pull-classes" : true, "generate-prefix-classes" : true, "generate-suffix-classes" : true, "generate-helpers-classes" : true, "_gridle" : true }, "landscape":{ "name" : "landscape", "min-width" : null, "max-width" : null, "query" : "(orientation : landscape)", "classes" : true, "context" : "12", "gutter-width" : "1.5rem", "direction" : "ltr", "name-multiplicator" : "1", "debug" : true, "debug-show-class-names" : true, "ie7-support" : false, "html-states-classes" : false, "generate-push-classes" : true, "generate-pull-classes" : true, "generate-prefix-classes" : true, "generate-suffix-classes" : true, "generate-helpers-classes" : true, "_gridle" : true }, "default":{ "name" : "default", "min-width" : null, "max-width" : null, "query" : null, "classes" : true, "context" : "12", "gutter-width" : "1.5rem", "direction" : "ltr", "name-multiplicator" : "1", "debug" : true, "debug-show-class-names" : true, "ie7-support" : false, "html-states-classes" : false, "generate-push-classes" : true, "generate-pull-classes" : true, "generate-prefix-classes" : true, "generate-suffix-classes" : true, "generate-helpers-classes" : true, "_gridle" : true }, "desktop":{ "name" : "desktop", "min-width" : "64em", "max-width" : null, "query" : "screen and (min-width: 64em)", "classes" : true, "context" : "12", "gutter-width" : "1.5rem", "direction" : "ltr", "name-multiplicator" : "1", "debug" : true, "debug-show-class-names" : true, "ie7-support" : false, "html-states-classes" : false, "generate-push-classes" : true, "generate-pull-classes" : true, "generate-prefix-classes" : true, "generate-suffix-classes" : true, "generate-helpers-classes" : true, "_gridle" : true }, "tablet":{ "name" : "tablet", "min-width" : "36.063em", "max-width" : "63.938em", "query" : "screen and (min-width: 36.063em) and (max-width: 63.938em)", "classes" : true, "context" : "12", "gutter-width" : "1.5rem", "direction" : "ltr", "name-multiplicator" : "1", "debug" : true, "debug-show-class-names" : true, "ie7-support" : false, "html-states-classes" : false, "generate-push-classes" : true, "generate-pull-classes" : true, "generate-prefix-classes" : true, "generate-suffix-classes" : true, "generate-helpers-classes" : true, "_gridle" : true }, "mobile":{ "name" : "mobile", "min-width" : null, "max-width" : "36em", "query" : "screen and (max-width: 36em)", "classes" : true, "context" : "12", "gutter-width" : "1rem", "direction" : "ltr", "name-multiplicator" : "1", "debug" : true, "debug-show-class-names" : true, "ie7-support" : false, "html-states-classes" : false, "generate-push-classes" : true, "generate-pull-classes" : true, "generate-prefix-classes" : true, "generate-suffix-classes" : true, "generate-helpers-classes" : true, "_gridle" : true }} }';
+  content: '{ "version" : "1.3.38", "states" : { "retina":{ "query" : "(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)", "classes" : false, "name" : "retina", "_gridle" : true }, "tv":{ "query" : "only tv", "classes" : false, "name" : "tv", "_gridle" : true }, "print":{ "query" : "only print", "classes" : false, "name" : "print", "_gridle" : true }, "portrait":{ "name" : "portrait", "min-width" : null, "max-width" : null, "query" : "(orientation : portrait)", "classes" : true, "context" : "12", "gutter-width" : "1.5rem", "direction" : "ltr", "name-multiplicator" : "1", "debug" : true, "debug-show-class-names" : true, "ie7-support" : false, "html-states-classes" : false, "generate-push-classes" : true, "generate-pull-classes" : true, "generate-prefix-classes" : true, "generate-suffix-classes" : true, "generate-helpers-classes" : true, "_gridle" : true }, "landscape":{ "name" : "landscape", "min-width" : null, "max-width" : null, "query" : "(orientation : landscape)", "classes" : true, "context" : "12", "gutter-width" : "1.5rem", "direction" : "ltr", "name-multiplicator" : "1", "debug" : true, "debug-show-class-names" : true, "ie7-support" : false, "html-states-classes" : false, "generate-push-classes" : true, "generate-pull-classes" : true, "generate-prefix-classes" : true, "generate-suffix-classes" : true, "generate-helpers-classes" : true, "_gridle" : true }, "default":{ "name" : "default", "min-width" : null, "max-width" : null, "query" : null, "classes" : true, "context" : "12", "gutter-width" : "1.5rem", "direction" : "ltr", "name-multiplicator" : "1", "debug" : true, "debug-show-class-names" : true, "ie7-support" : false, "html-states-classes" : false, "generate-push-classes" : true, "generate-pull-classes" : true, "generate-prefix-classes" : true, "generate-suffix-classes" : true, "generate-helpers-classes" : true, "_gridle" : true }, "desktop":{ "name" : "desktop", "min-width" : "75em", "max-width" : null, "query" : "screen and (min-width: 75em)", "classes" : true, "context" : "12", "gutter-width" : "1.5rem", "direction" : "ltr", "name-multiplicator" : "1", "debug" : true, "debug-show-class-names" : true, "ie7-support" : false, "html-states-classes" : false, "generate-push-classes" : true, "generate-pull-classes" : true, "generate-prefix-classes" : true, "generate-suffix-classes" : true, "generate-helpers-classes" : true, "_gridle" : true }, "tablet":{ "name" : "tablet", "min-width" : "36.063em", "max-width" : "74.938em", "query" : "screen and (min-width: 36.063em) and (max-width: 74.938em)", "classes" : true, "context" : "12", "gutter-width" : "1.5rem", "direction" : "ltr", "name-multiplicator" : "1", "debug" : true, "debug-show-class-names" : true, "ie7-support" : false, "html-states-classes" : false, "generate-push-classes" : true, "generate-pull-classes" : true, "generate-prefix-classes" : true, "generate-suffix-classes" : true, "generate-helpers-classes" : true, "_gridle" : true }, "mobile":{ "name" : "mobile", "min-width" : null, "max-width" : "36em", "query" : "screen and (max-width: 36em)", "classes" : true, "context" : "12", "gutter-width" : "1rem", "direction" : "ltr", "name-multiplicator" : "1", "debug" : true, "debug-show-class-names" : true, "ie7-support" : false, "html-states-classes" : false, "generate-push-classes" : true, "generate-pull-classes" : true, "generate-prefix-classes" : true, "generate-suffix-classes" : true, "generate-helpers-classes" : true, "_gridle" : true }} }';
 }
 
 .grid-portrait-0, .grid-portrait-1, .grid-portrait-2, .grid-portrait-3, .grid-portrait-4, .grid-portrait-5, .grid-portrait-6, .grid-portrait-7, .grid-portrait-8, .grid-portrait-9, .grid-portrait-10, .grid-portrait-11, .grid-portrait-12, .grid-landscape-0, .grid-landscape-1, .grid-landscape-2, .grid-landscape-3, .grid-landscape-4, .grid-landscape-5, .grid-landscape-6, .grid-landscape-7, .grid-landscape-8, .grid-landscape-9, .grid-landscape-10, .grid-landscape-11, .grid-landscape-12, .grid-0, .grid-1, .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10, .grid-11, .grid-12, .grid-desktop-0, .grid-desktop-1, .grid-desktop-2, .grid-desktop-3, .grid-desktop-4, .grid-desktop-5, .grid-desktop-6, .grid-desktop-7, .grid-desktop-8, .grid-desktop-9, .grid-desktop-10, .grid-desktop-11, .grid-desktop-12, .grid-tablet-0, .grid-tablet-1, .grid-tablet-2, .grid-tablet-3, .grid-tablet-4, .grid-tablet-5, .grid-tablet-6, .grid-tablet-7, .grid-tablet-8, .grid-tablet-9, .grid-tablet-10, .grid-tablet-11, .grid-tablet-12, .grid-mobile-0, .grid-mobile-1, .grid-mobile-2, .grid-mobile-3, .grid-mobile-4, .grid-mobile-5, .grid-mobile-6, .grid-mobile-7, .grid-mobile-8, .grid-mobile-9, .grid-mobile-10, .grid-mobile-11, .grid-mobile-12 {
@@ -7526,7 +7526,7 @@ html.desktop .visible-desktop {
   background-color: #b2d8ee;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .grid-desktop-0 {
     width: 0%;
   }
@@ -8887,7 +8887,7 @@ html.tablet .visible-tablet {
   background-color: #b2d8ee;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .grid-tablet-0 {
     width: 0%;
   }
@@ -10988,7 +10988,7 @@ html.tablet html {
   font-size: 15px;
   line-height: 1;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   html {
     font-size: 15px;
     line-height: 1;
@@ -11153,7 +11153,7 @@ html.default .list_padded .list--item {
 html.tablet .card_big {
   padding: 3rem 1.5rem;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .card_big {
     padding: 3rem 1.5rem;
   }
@@ -11180,7 +11180,7 @@ html.mobile .card_big {
 html.tablet .card_huge {
   padding: 21vh 2rem;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .card_huge {
     padding: 21vh 2rem;
   }
@@ -11210,7 +11210,7 @@ html.tablet .panel {
   height: 60vw;
   max-height: 75vh;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .panel {
     min-height: 300px;
     height: 60vw;
@@ -11291,7 +11291,7 @@ html.tablet .panel--caption_left, html.tablet .panel--caption_right {
 .gridle-debug html.tablet .panel--caption_left.parent:before, html.tablet .panel--caption_left.gridle-debug.parent:before, .gridle-debug html.tablet .panel--caption_right.parent:before, html.tablet .panel--caption_right.gridle-debug.parent:before {
   content: "grid-parent-tablet-6" !important;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .panel--caption_left, .panel--caption_right {
     width: 50%;
   }
@@ -11322,25 +11322,69 @@ html.mobile .panel--caption_left, html.mobile .panel--caption_right {
     content: "grid-parent-mobile-7" !important;
   }
 }
+> * html.mobile .panel--caption_left:not(:first-child), > * html.mobile .panel--caption_right:not(:first-child) {
+  display: none;
+}
+> * html.mobile .panel--caption_left:last-child, > * html.mobile .panel--caption_right:last-child {
+  display: initial;
+}
+@media screen and (max-width: 36em) {
+  > * .panel--caption_left:not(:first-child), > * .panel--caption_right:not(:first-child) {
+    display: none;
+  }
+  > * .panel--caption_left:last-child, > * .panel--caption_right:last-child {
+    display: initial;
+  }
+}
 .panel--caption_left {
   text-align: left;
+  padding: 3rem;
+}
+html.tablet .panel--caption_left {
+  padding: 1.75rem;
+}
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
+  .panel--caption_left {
+    padding: 1.75rem;
+  }
+}
+html.mobile .panel--caption_left {
+  padding: 1.125rem;
+}
+@media screen and (max-width: 36em) {
+  .panel--caption_left {
+    padding: 1.125rem;
+  }
 }
 .panel--caption_right {
   text-align: right;
-}
-html.desktop .panel--caption_right {
+  padding: 3rem;
   margin-left: 58.33333%;
 }
-.gridle-debug html.desktop .panel--caption_right:after, html.desktop .panel--caption_right.gridle-debug:after {
-  content: "prefix-desktop-7" !important;
+html.tablet .panel--caption_right {
+  padding: 1.75rem;
 }
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .panel--caption_right {
-    margin-left: 58.33333%;
+    padding: 1.75rem;
   }
-  .gridle-debug .panel--caption_right:after, .panel--caption_right.gridle-debug:after {
-    content: "prefix-desktop-7" !important;
+}
+html.mobile .panel--caption_right {
+  padding: 1.125rem;
+}
+@media screen and (max-width: 36em) {
+  .panel--caption_right {
+    padding: 1.125rem;
   }
+}
+html.default .panel--caption_right {
+  margin-left: 58.33333%;
+}
+.gridle-debug html.default .panel--caption_right:after, html.default .panel--caption_right.gridle-debug:after {
+  content: "prefix-default-7";
+}
+.gridle-debug .panel--caption_right:after, .panel--caption_right.gridle-debug:after {
+  content: "prefix-default-7";
 }
 html.tablet .panel--caption_right {
   margin-left: 50.0%;
@@ -11348,7 +11392,7 @@ html.tablet .panel--caption_right {
 .gridle-debug html.tablet .panel--caption_right:after, html.tablet .panel--caption_right.gridle-debug:after {
   content: "prefix-tablet-6" !important;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .panel--caption_right {
     margin-left: 50.0%;
   }
@@ -11493,7 +11537,7 @@ html.tablet #sidebar {
 .gridle-debug html.tablet #sidebar.parent:before, html.tablet #sidebar.gridle-debug.parent:before {
   content: "grid-parent-tablet-12" !important;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   #sidebar {
     width: 100%;
   }
@@ -11544,7 +11588,7 @@ html.desktop #sidebar {
   z-index: 5;
   box-shadow: 1px 0 rgba(157, 157, 157, 0.25);
 }
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   #sidebar {
     height: 100vh;
     position: fixed;
@@ -11557,7 +11601,7 @@ html.desktop #sidebar {
 html.tablet #sidebar {
   padding: 0 !important;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   #sidebar {
     padding: 0 !important;
   }
@@ -11649,7 +11693,7 @@ html.tablet #sidebar #menu, html.tablet
 #sidebar #footer.gridle-debug.parent:before {
   content: "grid-parent-tablet-12" !important;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   #sidebar #menu,
   #sidebar #footer {
     width: 100%;
@@ -11701,7 +11745,7 @@ html.desktop #sidebar #menu, html.desktop
   left: 0;
   background-color: rgba(255, 255, 255, 0.925);
 }
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   #sidebar #menu,
   #sidebar #footer {
     position: fixed;
@@ -11715,7 +11759,7 @@ html.desktop #sidebar #menu, html.desktop
 html.desktop #sidebar #menu {
   border-bottom: 1px solid #DDD;
 }
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   #sidebar #menu {
     border-bottom: 1px solid #DDD;
   }
@@ -11726,7 +11770,7 @@ html.desktop #sidebar #menu {
 html.desktop #sidebar #footer {
   border-top: 1px solid #DDD;
 }
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   #sidebar #footer {
     border-top: 1px solid #DDD;
   }
@@ -11820,7 +11864,7 @@ html.tablet #sidebar + main {
 .gridle-debug html.tablet #sidebar + main.parent:before, html.tablet #sidebar + main.gridle-debug.parent:before {
   content: "grid-parent-tablet-12" !important;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   #sidebar + main {
     width: 100%;
   }
@@ -11835,7 +11879,7 @@ html.tablet #sidebar + main {
   padding-left: 0;
   padding-right: 0;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   #sidebar + main {
     padding-left: 0;
     padding-right: 0;
@@ -11847,7 +11891,7 @@ html.tablet #sidebar + main {
 .gridle-debug html.tablet #sidebar + main:after, html.tablet #sidebar + main.gridle-debug:after {
   content: "prefix-tablet-0" !important;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   #sidebar + main {
     margin-left: 0%;
   }
@@ -11941,7 +11985,7 @@ html.desktop .va-super-desktop {
   vertical-align: super  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-super-desktop {
     vertical-align: super  !important;
   }
@@ -11950,7 +11994,7 @@ html.tablet .va-super-tablet {
   vertical-align: super  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-super-tablet {
     vertical-align: super  !important;
   }
@@ -11994,7 +12038,7 @@ html.desktop .va-sup-desktop {
   vertical-align: super  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-sup-desktop {
     vertical-align: super  !important;
   }
@@ -12003,7 +12047,7 @@ html.tablet .va-sup-tablet {
   vertical-align: super  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-sup-tablet {
     vertical-align: super  !important;
   }
@@ -12047,7 +12091,7 @@ html.desktop .va-sp-desktop {
   vertical-align: super  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-sp-desktop {
     vertical-align: super  !important;
   }
@@ -12056,7 +12100,7 @@ html.tablet .va-sp-tablet {
   vertical-align: super  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-sp-tablet {
     vertical-align: super  !important;
   }
@@ -12100,7 +12144,7 @@ html.desktop .va-sub-desktop {
   vertical-align: sub  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-sub-desktop {
     vertical-align: sub  !important;
   }
@@ -12109,7 +12153,7 @@ html.tablet .va-sub-tablet {
   vertical-align: sub  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-sub-tablet {
     vertical-align: sub  !important;
   }
@@ -12153,7 +12197,7 @@ html.desktop .va-sb-desktop {
   vertical-align: sub  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-sb-desktop {
     vertical-align: sub  !important;
   }
@@ -12162,7 +12206,7 @@ html.tablet .va-sb-tablet {
   vertical-align: sub  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-sb-tablet {
     vertical-align: sub  !important;
   }
@@ -12206,7 +12250,7 @@ html.desktop .va-middle-desktop {
   vertical-align: middle  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-middle-desktop {
     vertical-align: middle  !important;
   }
@@ -12215,7 +12259,7 @@ html.tablet .va-middle-tablet {
   vertical-align: middle  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-middle-tablet {
     vertical-align: middle  !important;
   }
@@ -12259,7 +12303,7 @@ html.desktop .va-mid-desktop {
   vertical-align: middle  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-mid-desktop {
     vertical-align: middle  !important;
   }
@@ -12268,7 +12312,7 @@ html.tablet .va-mid-tablet {
   vertical-align: middle  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-mid-tablet {
     vertical-align: middle  !important;
   }
@@ -12312,7 +12356,7 @@ html.desktop .va-m-desktop {
   vertical-align: middle  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-m-desktop {
     vertical-align: middle  !important;
   }
@@ -12321,7 +12365,7 @@ html.tablet .va-m-tablet {
   vertical-align: middle  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-m-tablet {
     vertical-align: middle  !important;
   }
@@ -12365,7 +12409,7 @@ html.desktop .va-top-desktop {
   vertical-align: top  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-top-desktop {
     vertical-align: top  !important;
   }
@@ -12374,7 +12418,7 @@ html.tablet .va-top-tablet {
   vertical-align: top  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-top-tablet {
     vertical-align: top  !important;
   }
@@ -12418,7 +12462,7 @@ html.desktop .va-t-desktop {
   vertical-align: top  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-t-desktop {
     vertical-align: top  !important;
   }
@@ -12427,7 +12471,7 @@ html.tablet .va-t-tablet {
   vertical-align: top  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-t-tablet {
     vertical-align: top  !important;
   }
@@ -12471,7 +12515,7 @@ html.desktop .va-bottom-desktop {
   vertical-align: bottom  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-bottom-desktop {
     vertical-align: bottom  !important;
   }
@@ -12480,7 +12524,7 @@ html.tablet .va-bottom-tablet {
   vertical-align: bottom  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-bottom-tablet {
     vertical-align: bottom  !important;
   }
@@ -12524,7 +12568,7 @@ html.desktop .va-btm-desktop {
   vertical-align: bottom  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-btm-desktop {
     vertical-align: bottom  !important;
   }
@@ -12533,7 +12577,7 @@ html.tablet .va-btm-tablet {
   vertical-align: bottom  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-btm-tablet {
     vertical-align: bottom  !important;
   }
@@ -12577,7 +12621,7 @@ html.desktop .va-bt-desktop {
   vertical-align: bottom  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-bt-desktop {
     vertical-align: bottom  !important;
   }
@@ -12586,7 +12630,7 @@ html.tablet .va-bt-tablet {
   vertical-align: bottom  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-bt-tablet {
     vertical-align: bottom  !important;
   }
@@ -12630,7 +12674,7 @@ html.desktop .va-text-bottom-desktop {
   vertical-align: text-bottom  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-text-bottom-desktop {
     vertical-align: text-bottom  !important;
   }
@@ -12639,7 +12683,7 @@ html.tablet .va-text-bottom-tablet {
   vertical-align: text-bottom  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-text-bottom-tablet {
     vertical-align: text-bottom  !important;
   }
@@ -12683,7 +12727,7 @@ html.desktop .va-txb-desktop {
   vertical-align: text-bottom  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-txb-desktop {
     vertical-align: text-bottom  !important;
   }
@@ -12692,7 +12736,7 @@ html.tablet .va-txb-tablet {
   vertical-align: text-bottom  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-txb-tablet {
     vertical-align: text-bottom  !important;
   }
@@ -12736,7 +12780,7 @@ html.desktop .va-tb-desktop {
   vertical-align: text-bottom  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-tb-desktop {
     vertical-align: text-bottom  !important;
   }
@@ -12745,7 +12789,7 @@ html.tablet .va-tb-tablet {
   vertical-align: text-bottom  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-tb-tablet {
     vertical-align: text-bottom  !important;
   }
@@ -12789,7 +12833,7 @@ html.desktop .va-text-top-desktop {
   vertical-align: text-top  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-text-top-desktop {
     vertical-align: text-top  !important;
   }
@@ -12798,7 +12842,7 @@ html.tablet .va-text-top-tablet {
   vertical-align: text-top  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-text-top-tablet {
     vertical-align: text-top  !important;
   }
@@ -12842,7 +12886,7 @@ html.desktop .va-txt-desktop {
   vertical-align: text-top  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-txt-desktop {
     vertical-align: text-top  !important;
   }
@@ -12851,7 +12895,7 @@ html.tablet .va-txt-tablet {
   vertical-align: text-top  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-txt-tablet {
     vertical-align: text-top  !important;
   }
@@ -12895,7 +12939,7 @@ html.desktop .va-tt-desktop {
   vertical-align: text-top  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-tt-desktop {
     vertical-align: text-top  !important;
   }
@@ -12904,7 +12948,7 @@ html.tablet .va-tt-tablet {
   vertical-align: text-top  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-tt-tablet {
     vertical-align: text-top  !important;
   }
@@ -12948,7 +12992,7 @@ html.desktop .va-baseline-desktop {
   vertical-align: baseline  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-baseline-desktop {
     vertical-align: baseline  !important;
   }
@@ -12957,7 +13001,7 @@ html.tablet .va-baseline-tablet {
   vertical-align: baseline  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-baseline-tablet {
     vertical-align: baseline  !important;
   }
@@ -13001,7 +13045,7 @@ html.desktop .va-base-desktop {
   vertical-align: baseline  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-base-desktop {
     vertical-align: baseline  !important;
   }
@@ -13010,7 +13054,7 @@ html.tablet .va-base-tablet {
   vertical-align: baseline  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-base-tablet {
     vertical-align: baseline  !important;
   }
@@ -13054,7 +13098,7 @@ html.desktop .va-bs-desktop {
   vertical-align: baseline  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .va-bs-desktop {
     vertical-align: baseline  !important;
   }
@@ -13063,7 +13107,7 @@ html.tablet .va-bs-tablet {
   vertical-align: baseline  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .va-bs-tablet {
     vertical-align: baseline  !important;
   }
@@ -13107,7 +13151,7 @@ html.desktop .ta-justify-desktop {
   text-align: justify;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .ta-justify-desktop {
     text-align: justify;
   }
@@ -13116,7 +13160,7 @@ html.tablet .ta-justify-tablet {
   text-align: justify;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .ta-justify-tablet {
     text-align: justify;
   }
@@ -13160,7 +13204,7 @@ html.desktop .ta-right-desktop {
   text-align: right;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .ta-right-desktop {
     text-align: right;
   }
@@ -13169,7 +13213,7 @@ html.tablet .ta-right-tablet {
   text-align: right;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .ta-right-tablet {
     text-align: right;
   }
@@ -13213,7 +13257,7 @@ html.desktop .ta-left-desktop {
   text-align: left;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .ta-left-desktop {
     text-align: left;
   }
@@ -13222,7 +13266,7 @@ html.tablet .ta-left-tablet {
   text-align: left;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .ta-left-tablet {
     text-align: left;
   }
@@ -13266,7 +13310,7 @@ html.desktop .ta-center-desktop {
   text-align: center;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .ta-center-desktop {
     text-align: center;
   }
@@ -13275,7 +13319,7 @@ html.tablet .ta-center-tablet {
   text-align: center;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .ta-center-tablet {
     text-align: center;
   }
@@ -13319,7 +13363,7 @@ html.desktop .d-block-desktop {
   display: block;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .d-block-desktop {
     display: block;
   }
@@ -13328,7 +13372,7 @@ html.tablet .d-block-tablet {
   display: block;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .d-block-tablet {
     display: block;
   }
@@ -13372,7 +13416,7 @@ html.desktop .d-inline-block-desktop {
   display: inline-block;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .d-inline-block-desktop {
     display: inline-block;
   }
@@ -13381,7 +13425,7 @@ html.tablet .d-inline-block-tablet {
   display: inline-block;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .d-inline-block-tablet {
     display: inline-block;
   }
@@ -13425,7 +13469,7 @@ html.desktop .d-inline-desktop {
   display: inline;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .d-inline-desktop {
     display: inline;
   }
@@ -13434,7 +13478,7 @@ html.tablet .d-inline-tablet {
   display: inline;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .d-inline-tablet {
     display: inline;
   }
@@ -13478,7 +13522,7 @@ html.desktop .d-none-desktop {
   display: "none";
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .d-none-desktop {
     display: "none";
   }
@@ -13487,7 +13531,7 @@ html.tablet .d-none-tablet {
   display: "none";
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .d-none-tablet {
     display: "none";
   }
@@ -13531,7 +13575,7 @@ html.desktop .d-b-desktop {
   display: block  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .d-b-desktop {
     display: block  !important;
   }
@@ -13540,7 +13584,7 @@ html.tablet .d-b-tablet {
   display: block  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .d-b-tablet {
     display: block  !important;
   }
@@ -13584,7 +13628,7 @@ html.desktop .d-ib-desktop {
   display: inline-block  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .d-ib-desktop {
     display: inline-block  !important;
   }
@@ -13593,7 +13637,7 @@ html.tablet .d-ib-tablet {
   display: inline-block  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .d-ib-tablet {
     display: inline-block  !important;
   }
@@ -13637,7 +13681,7 @@ html.desktop .d-i-desktop {
   display: inline  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .d-i-desktop {
     display: inline  !important;
   }
@@ -13646,7 +13690,7 @@ html.tablet .d-i-tablet {
   display: inline  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .d-i-tablet {
     display: inline  !important;
   }
@@ -13690,7 +13734,7 @@ html.desktop .d-n-desktop {
   display: none  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .d-n-desktop {
     display: none  !important;
   }
@@ -13699,7 +13743,7 @@ html.tablet .d-n-tablet {
   display: none  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .d-n-tablet {
     display: none  !important;
   }
@@ -13743,7 +13787,7 @@ html.desktop .m-top-none-desktop {
   margin-top: 0  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .m-top-none-desktop {
     margin-top: 0  !important;
   }
@@ -13752,7 +13796,7 @@ html.tablet .m-top-none-tablet {
   margin-top: 0  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .m-top-none-tablet {
     margin-top: 0  !important;
   }
@@ -13796,7 +13840,7 @@ html.desktop .m-t-none-desktop {
   margin-top: 0  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .m-t-none-desktop {
     margin-top: 0  !important;
   }
@@ -13805,7 +13849,7 @@ html.tablet .m-t-none-tablet {
   margin-top: 0  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .m-t-none-tablet {
     margin-top: 0  !important;
   }
@@ -13849,7 +13893,7 @@ html.desktop .m-right-none-desktop {
   margin-right: 0  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .m-right-none-desktop {
     margin-right: 0  !important;
   }
@@ -13858,7 +13902,7 @@ html.tablet .m-right-none-tablet {
   margin-right: 0  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .m-right-none-tablet {
     margin-right: 0  !important;
   }
@@ -13902,7 +13946,7 @@ html.desktop .m-r-none-desktop {
   margin-right: 0  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .m-r-none-desktop {
     margin-right: 0  !important;
   }
@@ -13911,7 +13955,7 @@ html.tablet .m-r-none-tablet {
   margin-right: 0  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .m-r-none-tablet {
     margin-right: 0  !important;
   }
@@ -13955,7 +13999,7 @@ html.desktop .m-bottom-none-desktop {
   margin-bottom: 0  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .m-bottom-none-desktop {
     margin-bottom: 0  !important;
   }
@@ -13964,7 +14008,7 @@ html.tablet .m-bottom-none-tablet {
   margin-bottom: 0  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .m-bottom-none-tablet {
     margin-bottom: 0  !important;
   }
@@ -14008,7 +14052,7 @@ html.desktop .m-b-none-desktop {
   margin-bottom: 0  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .m-b-none-desktop {
     margin-bottom: 0  !important;
   }
@@ -14017,7 +14061,7 @@ html.tablet .m-b-none-tablet {
   margin-bottom: 0  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .m-b-none-tablet {
     margin-bottom: 0  !important;
   }
@@ -14061,7 +14105,7 @@ html.desktop .m-left-none-desktop {
   margin-left: 0  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .m-left-none-desktop {
     margin-left: 0  !important;
   }
@@ -14070,7 +14114,7 @@ html.tablet .m-left-none-tablet {
   margin-left: 0  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .m-left-none-tablet {
     margin-left: 0  !important;
   }
@@ -14114,7 +14158,7 @@ html.desktop .m-l-none-desktop {
   margin-left: 0  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .m-l-none-desktop {
     margin-left: 0  !important;
   }
@@ -14123,7 +14167,7 @@ html.tablet .m-l-none-tablet {
   margin-left: 0  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .m-l-none-tablet {
     margin-left: 0  !important;
   }
@@ -14167,7 +14211,7 @@ html.desktop .bgz-auto-desktop {
   background-size: auto  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgz-auto-desktop {
     background-size: auto  !important;
   }
@@ -14176,7 +14220,7 @@ html.tablet .bgz-auto-tablet {
   background-size: auto  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgz-auto-tablet {
     background-size: auto  !important;
   }
@@ -14220,7 +14264,7 @@ html.desktop .bgz-height-desktop {
   background-size: auto 100%  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgz-height-desktop {
     background-size: auto 100%  !important;
   }
@@ -14229,7 +14273,7 @@ html.tablet .bgz-height-tablet {
   background-size: auto 100%  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgz-height-tablet {
     background-size: auto 100%  !important;
   }
@@ -14273,7 +14317,7 @@ html.desktop .bgz-h-desktop {
   background-size: auto 100%  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgz-h-desktop {
     background-size: auto 100%  !important;
   }
@@ -14282,7 +14326,7 @@ html.tablet .bgz-h-tablet {
   background-size: auto 100%  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgz-h-tablet {
     background-size: auto 100%  !important;
   }
@@ -14326,7 +14370,7 @@ html.desktop .bgz-width-desktop {
   background-size: 100% auto  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgz-width-desktop {
     background-size: 100% auto  !important;
   }
@@ -14335,7 +14379,7 @@ html.tablet .bgz-width-tablet {
   background-size: 100% auto  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgz-width-tablet {
     background-size: 100% auto  !important;
   }
@@ -14379,7 +14423,7 @@ html.desktop .bgz-w-desktop {
   background-size: 100% auto  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgz-w-desktop {
     background-size: 100% auto  !important;
   }
@@ -14388,7 +14432,7 @@ html.tablet .bgz-w-tablet {
   background-size: 100% auto  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgz-w-tablet {
     background-size: 100% auto  !important;
   }
@@ -14432,7 +14476,7 @@ html.desktop .bgz-cover-desktop {
   background-size: cover  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgz-cover-desktop {
     background-size: cover  !important;
   }
@@ -14441,7 +14485,7 @@ html.tablet .bgz-cover-tablet {
   background-size: cover  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgz-cover-tablet {
     background-size: cover  !important;
   }
@@ -14485,7 +14529,7 @@ html.desktop .bgz-fill-desktop {
   background-size: cover  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgz-fill-desktop {
     background-size: cover  !important;
   }
@@ -14494,7 +14538,7 @@ html.tablet .bgz-fill-tablet {
   background-size: cover  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgz-fill-tablet {
     background-size: cover  !important;
   }
@@ -14538,7 +14582,7 @@ html.desktop .bgz-cv-desktop {
   background-size: cover  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgz-cv-desktop {
     background-size: cover  !important;
   }
@@ -14547,7 +14591,7 @@ html.tablet .bgz-cv-tablet {
   background-size: cover  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgz-cv-tablet {
     background-size: cover  !important;
   }
@@ -14591,7 +14635,7 @@ html.desktop .bgz-v-desktop {
   background-size: cover  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgz-v-desktop {
     background-size: cover  !important;
   }
@@ -14600,7 +14644,7 @@ html.tablet .bgz-v-tablet {
   background-size: cover  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgz-v-tablet {
     background-size: cover  !important;
   }
@@ -14644,7 +14688,7 @@ html.desktop .bgz-contain-desktop {
   background-size: contain  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgz-contain-desktop {
     background-size: contain  !important;
   }
@@ -14653,7 +14697,7 @@ html.tablet .bgz-contain-tablet {
   background-size: contain  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgz-contain-tablet {
     background-size: contain  !important;
   }
@@ -14697,7 +14741,7 @@ html.desktop .bgz-fit-desktop {
   background-size: contain  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgz-fit-desktop {
     background-size: contain  !important;
   }
@@ -14706,7 +14750,7 @@ html.tablet .bgz-fit-tablet {
   background-size: contain  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgz-fit-tablet {
     background-size: contain  !important;
   }
@@ -14750,7 +14794,7 @@ html.desktop .bgz-ct-desktop {
   background-size: contain  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgz-ct-desktop {
     background-size: contain  !important;
   }
@@ -14759,7 +14803,7 @@ html.tablet .bgz-ct-tablet {
   background-size: contain  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgz-ct-tablet {
     background-size: contain  !important;
   }
@@ -14803,7 +14847,7 @@ html.desktop .bgz-t-desktop {
   background-size: contain  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgz-t-desktop {
     background-size: contain  !important;
   }
@@ -14812,7 +14856,7 @@ html.tablet .bgz-t-tablet {
   background-size: contain  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgz-t-tablet {
     background-size: contain  !important;
   }
@@ -14856,7 +14900,7 @@ html.desktop .bgp-center-desktop {
   background-position: center  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-center-desktop {
     background-position: center  !important;
   }
@@ -14865,7 +14909,7 @@ html.tablet .bgp-center-tablet {
   background-position: center  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-center-tablet {
     background-position: center  !important;
   }
@@ -14909,7 +14953,7 @@ html.desktop .bgp-top-desktop {
   background-position: center top  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-top-desktop {
     background-position: center top  !important;
   }
@@ -14918,7 +14962,7 @@ html.tablet .bgp-top-tablet {
   background-position: center top  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-top-tablet {
     background-position: center top  !important;
   }
@@ -14962,7 +15006,7 @@ html.desktop .bgp-bottom-desktop {
   background-position: center bottom  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-bottom-desktop {
     background-position: center bottom  !important;
   }
@@ -14971,7 +15015,7 @@ html.tablet .bgp-bottom-tablet {
   background-position: center bottom  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-bottom-tablet {
     background-position: center bottom  !important;
   }
@@ -15015,7 +15059,7 @@ html.desktop .bgp-left-desktop {
   background-position: left center  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-left-desktop {
     background-position: left center  !important;
   }
@@ -15024,7 +15068,7 @@ html.tablet .bgp-left-tablet {
   background-position: left center  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-left-tablet {
     background-position: left center  !important;
   }
@@ -15068,7 +15112,7 @@ html.desktop .bgp-right-desktop {
   background-position: right center  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-right-desktop {
     background-position: right center  !important;
   }
@@ -15077,7 +15121,7 @@ html.tablet .bgp-right-tablet {
   background-position: right center  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-right-tablet {
     background-position: right center  !important;
   }
@@ -15121,7 +15165,7 @@ html.desktop .bgp-right-top-desktop {
   background-position: right top  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-right-top-desktop {
     background-position: right top  !important;
   }
@@ -15130,7 +15174,7 @@ html.tablet .bgp-right-top-tablet {
   background-position: right top  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-right-top-tablet {
     background-position: right top  !important;
   }
@@ -15174,7 +15218,7 @@ html.desktop .bgp-rt-desktop {
   background-position: right top  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-rt-desktop {
     background-position: right top  !important;
   }
@@ -15183,7 +15227,7 @@ html.tablet .bgp-rt-tablet {
   background-position: right top  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-rt-tablet {
     background-position: right top  !important;
   }
@@ -15227,7 +15271,7 @@ html.desktop .bgp-center-top-desktop {
   background-position: center top  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-center-top-desktop {
     background-position: center top  !important;
   }
@@ -15236,7 +15280,7 @@ html.tablet .bgp-center-top-tablet {
   background-position: center top  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-center-top-tablet {
     background-position: center top  !important;
   }
@@ -15280,7 +15324,7 @@ html.desktop .bgp-ct-desktop {
   background-position: center top  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-ct-desktop {
     background-position: center top  !important;
   }
@@ -15289,7 +15333,7 @@ html.tablet .bgp-ct-tablet {
   background-position: center top  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-ct-tablet {
     background-position: center top  !important;
   }
@@ -15333,7 +15377,7 @@ html.desktop .bgp-left-top-desktop {
   background-position: left top  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-left-top-desktop {
     background-position: left top  !important;
   }
@@ -15342,7 +15386,7 @@ html.tablet .bgp-left-top-tablet {
   background-position: left top  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-left-top-tablet {
     background-position: left top  !important;
   }
@@ -15386,7 +15430,7 @@ html.desktop .bgp-lt-desktop {
   background-position: left top  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-lt-desktop {
     background-position: left top  !important;
   }
@@ -15395,7 +15439,7 @@ html.tablet .bgp-lt-tablet {
   background-position: left top  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-lt-tablet {
     background-position: left top  !important;
   }
@@ -15439,7 +15483,7 @@ html.desktop .bgp-right-center-desktop {
   background-position: right center  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-right-center-desktop {
     background-position: right center  !important;
   }
@@ -15448,7 +15492,7 @@ html.tablet .bgp-right-center-tablet {
   background-position: right center  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-right-center-tablet {
     background-position: right center  !important;
   }
@@ -15492,7 +15536,7 @@ html.desktop .bgp-rc-desktop {
   background-position: right center  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-rc-desktop {
     background-position: right center  !important;
   }
@@ -15501,7 +15545,7 @@ html.tablet .bgp-rc-tablet {
   background-position: right center  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-rc-tablet {
     background-position: right center  !important;
   }
@@ -15545,7 +15589,7 @@ html.desktop .bgp-center-center-desktop {
   background-position: center center  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-center-center-desktop {
     background-position: center center  !important;
   }
@@ -15554,7 +15598,7 @@ html.tablet .bgp-center-center-tablet {
   background-position: center center  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-center-center-tablet {
     background-position: center center  !important;
   }
@@ -15598,7 +15642,7 @@ html.desktop .bgp-cc-desktop {
   background-position: center center  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-cc-desktop {
     background-position: center center  !important;
   }
@@ -15607,7 +15651,7 @@ html.tablet .bgp-cc-tablet {
   background-position: center center  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-cc-tablet {
     background-position: center center  !important;
   }
@@ -15651,7 +15695,7 @@ html.desktop .bgp-left-center-desktop {
   background-position: left center  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-left-center-desktop {
     background-position: left center  !important;
   }
@@ -15660,7 +15704,7 @@ html.tablet .bgp-left-center-tablet {
   background-position: left center  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-left-center-tablet {
     background-position: left center  !important;
   }
@@ -15704,7 +15748,7 @@ html.desktop .bgp-lc-desktop {
   background-position: left center  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-lc-desktop {
     background-position: left center  !important;
   }
@@ -15713,7 +15757,7 @@ html.tablet .bgp-lc-tablet {
   background-position: left center  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-lc-tablet {
     background-position: left center  !important;
   }
@@ -15757,7 +15801,7 @@ html.desktop .bgp-right-bottom-desktop {
   background-position: right bottom  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-right-bottom-desktop {
     background-position: right bottom  !important;
   }
@@ -15766,7 +15810,7 @@ html.tablet .bgp-right-bottom-tablet {
   background-position: right bottom  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-right-bottom-tablet {
     background-position: right bottom  !important;
   }
@@ -15810,7 +15854,7 @@ html.desktop .bgp-rb-desktop {
   background-position: right bottom  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-rb-desktop {
     background-position: right bottom  !important;
   }
@@ -15819,7 +15863,7 @@ html.tablet .bgp-rb-tablet {
   background-position: right bottom  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-rb-tablet {
     background-position: right bottom  !important;
   }
@@ -15863,7 +15907,7 @@ html.desktop .bgp-center-bottom-desktop {
   background-position: center bottom  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-center-bottom-desktop {
     background-position: center bottom  !important;
   }
@@ -15872,7 +15916,7 @@ html.tablet .bgp-center-bottom-tablet {
   background-position: center bottom  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-center-bottom-tablet {
     background-position: center bottom  !important;
   }
@@ -15916,7 +15960,7 @@ html.desktop .bgp-cb-desktop {
   background-position: center bottom  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-cb-desktop {
     background-position: center bottom  !important;
   }
@@ -15925,7 +15969,7 @@ html.tablet .bgp-cb-tablet {
   background-position: center bottom  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-cb-tablet {
     background-position: center bottom  !important;
   }
@@ -15969,7 +16013,7 @@ html.desktop .bgp-left-bottom-desktop {
   background-position: left bottom  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-left-bottom-desktop {
     background-position: left bottom  !important;
   }
@@ -15978,7 +16022,7 @@ html.tablet .bgp-left-bottom-tablet {
   background-position: left bottom  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-left-bottom-tablet {
     background-position: left bottom  !important;
   }
@@ -16022,7 +16066,7 @@ html.desktop .bgp-lb-desktop {
   background-position: left bottom  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgp-lb-desktop {
     background-position: left bottom  !important;
   }
@@ -16031,7 +16075,7 @@ html.tablet .bgp-lb-tablet {
   background-position: left bottom  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgp-lb-tablet {
     background-position: left bottom  !important;
   }
@@ -16075,7 +16119,7 @@ html.desktop .bgpx-right-desktop {
   background-position-x: right  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgpx-right-desktop {
     background-position-x: right  !important;
   }
@@ -16084,7 +16128,7 @@ html.tablet .bgpx-right-tablet {
   background-position-x: right  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgpx-right-tablet {
     background-position-x: right  !important;
   }
@@ -16128,7 +16172,7 @@ html.desktop .bgpx-r-desktop {
   background-position-x: right  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgpx-r-desktop {
     background-position-x: right  !important;
   }
@@ -16137,7 +16181,7 @@ html.tablet .bgpx-r-tablet {
   background-position-x: right  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgpx-r-tablet {
     background-position-x: right  !important;
   }
@@ -16181,7 +16225,7 @@ html.desktop .bgpx-center-desktop {
   background-position-x: center  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgpx-center-desktop {
     background-position-x: center  !important;
   }
@@ -16190,7 +16234,7 @@ html.tablet .bgpx-center-tablet {
   background-position-x: center  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgpx-center-tablet {
     background-position-x: center  !important;
   }
@@ -16234,7 +16278,7 @@ html.desktop .bgpx-c-desktop {
   background-position-x: center  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgpx-c-desktop {
     background-position-x: center  !important;
   }
@@ -16243,7 +16287,7 @@ html.tablet .bgpx-c-tablet {
   background-position-x: center  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgpx-c-tablet {
     background-position-x: center  !important;
   }
@@ -16287,7 +16331,7 @@ html.desktop .bgpx-left-desktop {
   background-position-x: left  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgpx-left-desktop {
     background-position-x: left  !important;
   }
@@ -16296,7 +16340,7 @@ html.tablet .bgpx-left-tablet {
   background-position-x: left  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgpx-left-tablet {
     background-position-x: left  !important;
   }
@@ -16340,7 +16384,7 @@ html.desktop .bgpx-l-desktop {
   background-position-x: left  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgpx-l-desktop {
     background-position-x: left  !important;
   }
@@ -16349,7 +16393,7 @@ html.tablet .bgpx-l-tablet {
   background-position-x: left  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgpx-l-tablet {
     background-position-x: left  !important;
   }
@@ -16393,7 +16437,7 @@ html.desktop .bgpy-top-desktop {
   background-position-y: top  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgpy-top-desktop {
     background-position-y: top  !important;
   }
@@ -16402,7 +16446,7 @@ html.tablet .bgpy-top-tablet {
   background-position-y: top  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgpy-top-tablet {
     background-position-y: top  !important;
   }
@@ -16446,7 +16490,7 @@ html.desktop .bgpy-t-desktop {
   background-position-y: top  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgpy-t-desktop {
     background-position-y: top  !important;
   }
@@ -16455,7 +16499,7 @@ html.tablet .bgpy-t-tablet {
   background-position-y: top  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgpy-t-tablet {
     background-position-y: top  !important;
   }
@@ -16499,7 +16543,7 @@ html.desktop .bgpy-middle-desktop {
   background-position-y: middle  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgpy-middle-desktop {
     background-position-y: middle  !important;
   }
@@ -16508,7 +16552,7 @@ html.tablet .bgpy-middle-tablet {
   background-position-y: middle  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgpy-middle-tablet {
     background-position-y: middle  !important;
   }
@@ -16552,7 +16596,7 @@ html.desktop .bgpy-m-desktop {
   background-position-y: middle  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgpy-m-desktop {
     background-position-y: middle  !important;
   }
@@ -16561,7 +16605,7 @@ html.tablet .bgpy-m-tablet {
   background-position-y: middle  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgpy-m-tablet {
     background-position-y: middle  !important;
   }
@@ -16605,7 +16649,7 @@ html.desktop .bgpy-bottom-desktop {
   background-position-y: bottom  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgpy-bottom-desktop {
     background-position-y: bottom  !important;
   }
@@ -16614,7 +16658,7 @@ html.tablet .bgpy-bottom-tablet {
   background-position-y: bottom  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgpy-bottom-tablet {
     background-position-y: bottom  !important;
   }
@@ -16658,7 +16702,7 @@ html.desktop .bgpy-b-desktop {
   background-position-y: bottom  !important;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 75em) {
   .bgpy-b-desktop {
     background-position-y: bottom  !important;
   }
@@ -16667,7 +16711,7 @@ html.tablet .bgpy-b-tablet {
   background-position-y: bottom  !important;
 }
 
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .bgpy-b-tablet {
     background-position-y: bottom  !important;
   }
@@ -16710,7 +16754,7 @@ html.mobile .bgpy-b-mobile {
 html.tablet .slider .slide--inner_big {
   padding: 3rem 1.5rem;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .slider .slide--inner_big {
     padding: 3rem 1.5rem;
   }
@@ -16737,7 +16781,7 @@ html.mobile .slider .slide--inner_big {
 html.tablet .slider .slide--inner_huge {
   padding: 21vh 2rem;
 }
-@media screen and (min-width: 36.063em) and (max-width: 63.938em) {
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .slider .slide--inner_huge {
     padding: 21vh 2rem;
   }
