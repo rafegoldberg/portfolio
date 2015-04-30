@@ -11029,11 +11029,11 @@ html body {
   clear: both;
 }
 
-.legible-block .legible-block, .legible-block .legible-block_, .legible-block .cms-text, .legible-block .cms-text_ {
+.legible-block {
   max-width: 46em;
   line-height: 1.5;
   text-align: left;
-  padding: 0 1.25em;
+  padding: 0 1.375em;
 }
 .legible-block_pad-edges {
   padding-left: 2em;
@@ -11234,11 +11234,11 @@ html.mobile .panel {
 .panel--caption {
   position: absolute;
 }
-html.mobile .panel--caption_left, html.mobile .panel--caption_right, html.mobile .panel--caption_top, html.mobile .panel--caption_bottom {
+html.mobile .panel--caption_top, html.mobile .panel--caption_bottom {
   text-align: center !important;
 }
 @media screen and (max-width: 36em) {
-  .panel--caption_left, .panel--caption_right, .panel--caption_top, .panel--caption_bottom {
+  .panel--caption_top, .panel--caption_bottom {
     text-align: center !important;
   }
 }
@@ -11902,11 +11902,11 @@ html.mobile #sidebar + main {
   }
 }
 
-.cms-text .legible-block, .cms-text .legible-block_, .cms-text .cms-text, .cms-text .cms-text_ {
+.cms-text {
   max-width: 46em;
   line-height: 1.5;
   text-align: left;
-  padding: 0 1.25em;
+  padding: 0 1.375em;
 }
 .cms-text_pad-edges {
   padding-left: 2em;

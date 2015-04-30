@@ -23,7 +23,7 @@
 		// 
 		//-> Left / Right
 		// 
-		&_left, &_right, &_top, &_bottom {
+		&_top, &_bottom {
 			@include gridle_state( mobile ) {
 				text-align: center !important;
 			}

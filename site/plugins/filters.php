@@ -26,8 +26,8 @@ field::$methods['renderAround'] = function($field,$img) {
 		"class"    => "panel $img_bgz $img_bgp",
 		"data-bgi" => $img_name
 	))->addClass('grid-12 parent');
-	$capt = brick('figcaption', kirbytext($field->value), array(
-		'class' => "figure--caption figure--caption_$capt_pos"
+	$capt = brick('aside', kirbytext($field->value), array(
+		'class' => "panel--caption panel--caption_$capt_pos"
 	));
 	$bgi  = brick('style',"[data-bgi='$img_name']{background-image:url($img_src);}");
 

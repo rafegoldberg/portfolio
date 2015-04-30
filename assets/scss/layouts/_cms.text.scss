@@ -1,3 +1,5 @@
+
+
 .cms-text {
-	@include block-legible;
+   @include block-legible { @extend %base; } 
 }

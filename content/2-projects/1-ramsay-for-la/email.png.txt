@@ -28,4 +28,4 @@ Bgpy: bottom
 
 ----
 
-Apply-view: tablet, mobile
+Apply-view: desktop, tablet
