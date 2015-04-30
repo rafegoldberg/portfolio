@@ -104,4 +104,6 @@ module.exports = function(grunt) {
 	grunt.registerTask('dev', ['watch:dev']);
 	grunt.registerTask('cnc', ['concurrent']);
 
+	grunt.registerTask('push', ['ftpush']);
+
 };

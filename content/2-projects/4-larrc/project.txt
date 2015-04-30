@@ -46,8 +46,8 @@ The next year, the LARRC decided to transition away from print invitations. They
 
 ----
 
-Bg-color: 
+Bg-color: #3e3e3e
 
 ----
 
-Fg-color: 
+Fg-color: #dc703a
