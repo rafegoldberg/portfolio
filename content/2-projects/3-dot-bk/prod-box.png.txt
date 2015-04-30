@@ -1,1 +1,25 @@
 Sort: 3
+
+----
+
+Caption-text: 
+
+----
+
+Caption-position: 
+
+----
+
+Bgz: fill
+
+----
+
+Bgpx: 
+
+----
+
+Bgpy: 
+
+----
+
+Apply-view: desktop, tablet, mobile

@@ -6,7 +6,7 @@ Caption-position:
 
 ----
 
-Bgz: fit
+Bgz: fill
 
 ----
 

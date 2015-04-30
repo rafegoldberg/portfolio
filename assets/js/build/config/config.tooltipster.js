@@ -1,0 +1,1 @@
+$(document).ready(function(){default_selector=".slider";if(default_selector){$(document).ready(function(){$(".tooltip").tooltipster()})}setTimeout(function(){$(document).trigger("resize")},300)});

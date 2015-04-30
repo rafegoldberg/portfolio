@@ -3,6 +3,7 @@
 <? foreach($page->images()->sortBy('sort', 'asc') as $img): ?>
 	<? if ( $img!==$page->file($page->bgi()) ) : // ignore featured proj image ?>
 
+		<img class="hide" src="<?=$img->url()?>" alt="<?=$page->title()->html()?>">
 		<?=$img->caption_text()->renderAround($img)?>
 
 	<? endif ?>

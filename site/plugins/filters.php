@@ -23,7 +23,7 @@ field::$methods['renderAround'] = function($field,$img) {
 	// GENERATE HTML
 	// 
 	$wrap = brick('figure',false,array(
-		"class"    => "figure $img_bgz $img_bgp",
+		"class"    => "panel $img_bgz $img_bgp",
 		"data-bgi" => $img_name
 	))->addClass('grid-12 parent');
 	$capt = brick('figcaption', kirbytext($field->value), array(

@@ -7,7 +7,7 @@
 	<main class="ta-left">
 		<? snippet('projects.list',array(
 			"wrap"=>"grid-12 parent vertical-align-middle",
-			"item"=>"card_big grid-12"
+			"item"=>"card_huge grid-12"
 		)) ?>
 	</main>
 

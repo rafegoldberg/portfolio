@@ -6,7 +6,7 @@ Text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis nisi,
 
 ----
 
-Tags: print,web
+Tags: print,web,posters,flyers
 
 ----
 
@@ -35,3 +35,19 @@ Project: Consider the River
 ----
 
 Bgi: larrc.png
+
+----
+
+Sidebar: 
+
+The Los Angeles River Revitalization Corp. needed print materials designed for their annual fundraiser. Drawing inspiration from the industrialism of the river as well as classic style of cinena noir, I crafted a full set of graphics, including invitations, donor inserts, a sponsership poster, and flyers.
+
+The next year, the LARRC decided to transition away from print invitations. They hired med to design and develop a mini-site to manage invitations and donations.
+
+----
+
+Bg-color: 
+
+----
+
+Fg-color: 

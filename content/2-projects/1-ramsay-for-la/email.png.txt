@@ -8,7 +8,7 @@ Caption-text:
 
 ---
 
-Carolyn would have gotten her message out if she had to shout. Thankfully she had this cross-service compatible HTML email template for her.
+Carolyn would have gotten her message out if she had to shout. Thankfully she had this cross-service compatible HTML email template.
 
 ----
 
@@ -28,4 +28,4 @@ Bgpy: bottom
 
 ----
 
-Apply-view: desktop, tablet, mobile
+Apply-view: tablet, mobile

@@ -42,4 +42,29 @@ field::$methods['list'] = function($field,$layout=false,$delim=" ") {
 	},split(',',$field->value)));
 	return "<ul class='$layout'>$items</ul>";
 };
+
+// kirbytext::$tags['tooltip:'] = array(
+// 	'attr' => array(
+// 		'show'
+// 	),
+// 	'html' => function($tag) {
+// 		$text   = $tag->attr('tooltip');
+// 		$tiptxt = $tag->attr('show','Tooltip');
+// 		return "<a class='tooltip' title='$tiptxt'>$text</a>";
+// 	}
+// );
+kirbytext::$tags['tooltip'] = array(
+  'attr' => array(
+    'show'
+  ),
+  'html' => function($tag) {
+
+    $url     = 'http://wikipedia.org/wiki';
+    $text = $tag->attr('tooltip');
+    $tiptxt    = $tag->attr('show', 'tooltip');
+
+    return "<a class='tooltip' title='$tiptxt'>$text</a>";
+
+  }
+);
 ?>

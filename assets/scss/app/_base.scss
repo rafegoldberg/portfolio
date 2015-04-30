@@ -1,7 +1,9 @@
 html {
 	font-size: 16px;
-	@include gridle_state( tablet ) {
+	line-height: 1.5;
+	@include gridle_state( tablet mobile ) {
 		font-size: 15px;
+		line-height: 1;
 	}
 	&, body {
 		margin: 0;

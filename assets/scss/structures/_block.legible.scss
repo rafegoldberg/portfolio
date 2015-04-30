@@ -1,8 +1,19 @@
 @mixin block-legible {
-	max-width: 46em;
-	line-height: 1.75;
-	text-align: left;
-	padding: 0 2em;
+	%base {
+		max-width: 46em;
+		line-height: 1.5;
+		text-align: left;
+		padding: 0 1.25em;
+	}
+	@extend %base;
+	&_ {
+		@extend %base;
+		&pad-edges {
+			padding-left: 2em;
+			padding-right: 2em;
+		}
+	}
+	@content;
 }
 
 .legible-block { @include block-legible; }

@@ -2,11 +2,11 @@
 	<? snippet('menu',array('layout'=>'list_sep-slash')) ?>
 	<article class='cms-text centered'>
 		<header class="header card_huge ta-center">
-			<strong class="d-block"><?= $page->project()->html() ?></strong>
-			<small>for <?= $page->title()->html() ?></small>
+			<h1 class="d-block"><?= $page->project()->html() ?></h1>
+			<small><?=$page->category()?> <em>for</em> <?= $page->title()->html() ?></small>
 		</header>
 		<?= $page->sidebar()->kirbytext() ?>
-		<?= $page->tags()->list('inline list_tags sep-comma') ?>
+		<?= $page->tags()->list('inline tags sep-comma') ?>
 	</article>
 	<? snippet('footer',array('class'=>'d-n-mobile d-n-tablet')) ?>
 </aside>

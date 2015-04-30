@@ -43,7 +43,6 @@
 		         border-top: 1px solid c(stroke);
 			 }
 	       }
-
 	+ main {
 		@include gridle_set((
 			grid:   8   ,
@@ -64,5 +63,4 @@
 			)
 		));
 	}
-
 }

@@ -5,7 +5,9 @@
 
 $c: (
 	matte:#FFF,
-	stroke:#DDD
+	light:#FBFBFB,
+	stroke:#DDD,
+	grey:#BBB
 	);
 @function c($name) {
 	@return map-get($c,$name);
