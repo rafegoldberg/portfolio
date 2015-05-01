@@ -1,8 +1,6 @@
 RGD2 Portfolio
 ===
 
----
-
 A simple portfolio site using [Kirby CMS](http://getkirby.com) and [Grunt](http://gruntjs.com).
 
 ## Kirby
