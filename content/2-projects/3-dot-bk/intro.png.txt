@@ -1,8 +1,12 @@
 Caption-text: 
 
+# “woah, modular dude...”
+
+DOTBK had an awesome Django developer working on their site. But the design had been left to thje dogs. In a few months I took the hardcoded, static site and spun it into an entirely modular system based in SASS and Django's templating features.
+
 ----
 
-Caption-position: 
+Caption-position: left
 
 ----
 
@@ -23,3 +27,7 @@ Apply-view: desktop, tablet, mobile
 ----
 
 Sort: 2
+
+----
+
+Invert: bgz

@@ -17,12 +17,12 @@
 		}
 	}
 	&_huge {
-		padding: 24vh 3em;
+		padding: 22.5vh 3em;
 		@include gridle_state( tablet ) {
-			padding: 21vh 2rem;
+			padding: 12vh 2rem;
 		}
 		@include gridle_state( mobile ) {
-			padding: 18rem 1rem;
+			padding: 16.5vh 1rem;
 		}
 	}
 	@content;

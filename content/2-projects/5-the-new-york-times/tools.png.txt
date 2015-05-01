@@ -1,4 +1,4 @@
-Sort: 2
+Sort: 3
 
 ----
 
@@ -29,3 +29,7 @@ Bgpy: center
 ----
 
 Apply-view: desktop, tablet, mobile
+
+----
+
+Invert: bgz

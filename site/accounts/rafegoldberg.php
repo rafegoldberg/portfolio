@@ -6,10 +6,10 @@ password: >
   $2a$10$2uQFoPKLAh5MLEtSK7yqBe8NcOAPKvxmkixrSdtb5vCOY8XgttQ.C
 language: en
 role: admin
-token: 4410b90f2cba2c1b5cd122e51b247802bc7ba680
+token: dbe6d34b859afbc8c31a47d3653ab15aeec01adc
 history:
+  - projects/dot-bk
   - projects/the-new-york-times
   - projects/larrc
   - projects/ramsay-for-la
   - home
-  - projects/dot-bk

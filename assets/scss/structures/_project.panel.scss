@@ -32,6 +32,9 @@
 		&_left, &_right {
 			top: 50%;
 			transform: translateY(-50%);
+			@include block-overflow(vertical) {
+				max-height: 100%;
+			}
 			@include gridle_set((
 				grid: 5,
 				tablet: ( grid: 6 ),

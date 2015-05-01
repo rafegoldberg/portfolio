@@ -7,9 +7,7 @@
 		?>
 		<li class="js_slide slide">
 			<a id="<?=$id?>" href="<?=$project->url()?>" class="slide--inner slide--inner_huge <?=$items?>" style="display:block;">
-				<h1>
-					<strong><?=$project->project()->html()?></strong>
-				</h1>
+				<h1><?=$project->project()->html()?></h1>
 				<small><?=$project->category()->html()?> <em>for</em> <?=$project->title()?></small>
 				<style>
 				#<?=$id?> {
@@ -19,9 +17,9 @@
 			</a>
 		</li>
 	<? endforeach ?>
-		<li class="slide">
-			<a href="<?=page('projects')->url()?>" class="<?=$items?>" style="display:block;">
-				<div><strong>View Portfolio</strong></div>
+		<li class="js_slide slide">
+			<a href="<?=page('projects')->url()?>" class="slide--inner slide--inner_huge <?=$items?>" style="display:block;">
+				<h1>View Portfolio</h1>
 				<small>All Projects</small>
 			</a>
 		</li>

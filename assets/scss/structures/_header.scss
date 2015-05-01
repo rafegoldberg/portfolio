@@ -1,9 +1,26 @@
-@mixin header($class:false) {
-	@if $class {
-		.header#{$class} { @content; }
-	} @else {
-		.header {
-			padding: 1em 0 !important;
+@mixin header() {
+	&%base {
+		// 
+		// DEFAULTS
+		// 
+	}
+	&_sep-stylized {
+		position: relative;
+		&:after {
+			content: '⬘';
+			font-size: 1.7em;
+			position: absolute;
+			top: 75%;
+			transform: translateY(-100%);
+			color: #DDD;
+			width: 100%;
+			text-align: center;
+			left: 0;
+			font-weight: 100;
+			opacity: .5;
 		}
 	}
+	@content;
 }
+
+header, .header { @include header { @extend %base; } }

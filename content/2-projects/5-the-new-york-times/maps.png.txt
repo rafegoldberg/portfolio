@@ -1,0 +1,33 @@
+Sort: 5
+
+----
+
+Caption-text: 
+
+# Mapping Medals
+
+The Olympics are about more than the sport. They're about the history. Along with another designer in the graphics department, I built this map to give readers a sense of where medals in each sport have been won in the past.
+
+----
+
+Caption-position: right
+
+----
+
+Bgz: fit
+
+----
+
+Bgpx: right
+
+----
+
+Bgpy: center
+
+----
+
+Apply-view: tablet, mobile
+
+----
+
+Invert: bgz

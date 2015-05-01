@@ -6,33 +6,37 @@ files:
 	sortable: true
 	fields:
 		caption_text:
-			label: Description
+			label: <h1 style="font-size:1.5em;margin-top:1.5em;padding-bottom:.625em;font-weight:900;">Caption</h1> <span style="font-weight:normal;color:#AAA;">Add some text and set the caption's position</span>
 			type: textarea
 		caption_position:
 			type: select
+			required: true
 			options:
 				top   : Above the Image
 				left  : Left of image
 				right : Right of image
 				bottom: Below the image
-		_line8:
-			type: line
 		bgz:
-			label: Background Scale
+			label: <h1 style="font-size:1.5em;margin-top:1.5em;padding-bottom:.625em;font-weight:900;">Background</h1> Scale
 			type: radio
+			required: true
 			options:
 				fit:  Fit
 				fill: Fill
 		bgpx:
-			label: Background Align
+			label: Align
+			required: true
 			type: select
 			width: 1/2
+			default: center
 			options: 
 				right:  Right
 				center:  Center
 				left:  Left
 		bgpy:
 			label: &nbsp;
+			required: true
+			default: center
 			type: select
 			width: 1/2
 			options: 
@@ -40,12 +44,22 @@ files:
 				center: Middle
 				bottom: Bottom
 		apply_view:
-			label: Apply Options To:
+			label: <h1 style="font-size:1.5em;margin-top:1.5em;padding-bottom:.625em;font-weight:900;">Apply Options</h1> Apply to View
 			type: checkboxes
-			options:
+			options: tablet mobile
 				desktop: Desktop
 				tablet: Tablet
-				mobile: Mobile
+				mobile: Mobile-
+		invert:
+			label: Inversion
+			icon: yin-yang
+			type: checkboxes
+			default: bgz
+			options:
+				bgz: Background Scale
+				colors: Project Theme
+		_details-line8:
+			type: line
 fields:
 	project:
 		label: Title

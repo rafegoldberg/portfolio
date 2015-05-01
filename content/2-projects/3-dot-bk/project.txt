@@ -38,7 +38,7 @@ Bgi: dotbk.png
 
 ----
 
-Sidebar: This small-batch, hipster fashion company hired me to completely reconceive their online presence. Alongside their awesome in-house developer, I helped them turn their site from a jumble of hardcoded, static pages in to a fully functioning, responsive ecommerce platform that was in line with their updated brand and logo.
+Sidebar: A responsive ecommerce platform, and refresh to the frontend to bring it up to speed with DOTBK's updated brand identity and mark.
 
 ----
 

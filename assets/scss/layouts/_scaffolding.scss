@@ -34,10 +34,8 @@
 		}
 	}
 	#menu { top: 0;
-			 @include gridle_state ( desktop ) {
-			     border-bottom: 1px solid c(stroke);
-			 }
-	       }
+		    border-bottom: 1px solid c(stroke);
+	      }
 	#footer { bottom: 0;
 			 @include gridle_state ( desktop ) {
 		         border-top: 1px solid c(stroke);

@@ -7,11 +7,13 @@ field::$methods['renderAround'] = function($field,$img) {
 	// 
 	$img_name = $img->filename();
 	$img_src  = $img->url();
-	$img_bgz  = 'bgz-'.$img->bgz();
-	$GLOBALS['bgp-pre'] = 'bgp-'.$img->bgpx().'-'.$img->bgpy().'-';
-	$img_bgp  = implode( ' ', array_map(function($v){
 
-		return $GLOBALS['bgp-pre'].trim($v);
+	$GLOBALS['bgz-pre'] = 'bgz-'.$img->bgz().'-';
+	$GLOBALS['bgp-pre'] = 'bgp-'.$img->bgpx().'-'.$img->bgpy().'-';
+
+	$bg_classes  = implode( ' ', array_map(function($v){
+
+		return $GLOBALS['bgp-pre'].trim($v).' '.$GLOBALS['bgz-pre'].trim($v);
 		
 	}, explode(',',$img->apply_view())) );
 
@@ -23,7 +25,7 @@ field::$methods['renderAround'] = function($field,$img) {
 	// GENERATE HTML
 	// 
 	$wrap = brick('figure',false,array(
-		"class"    => "panel $img_bgz $img_bgp",
+		"class"    => "panel $bg_classes",
 		"data-bgi" => $img_name
 	))->addClass('grid-12 parent');
 	$capt = brick('aside', kirbytext($field->value), array(

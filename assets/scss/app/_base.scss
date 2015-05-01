@@ -3,7 +3,7 @@ html {
 	line-height: 1.5;
 	@include gridle_state( tablet mobile ) {
 		font-size: 15px;
-		line-height: 1;
+		line-height: 1.375;
 	}
 	&, body {
 		margin: 0;

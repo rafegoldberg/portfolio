@@ -2701,22 +2701,22 @@ html {
 }
 html.tablet html {
   font-size: 15px;
-  line-height: 1;
+  line-height: 1.375;
 }
 @media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   html {
     font-size: 15px;
-    line-height: 1;
+    line-height: 1.375;
   }
 }
 html.mobile html {
   font-size: 15px;
-  line-height: 1;
+  line-height: 1.375;
 }
 @media screen and (max-width: 36em) {
   html {
     font-size: 15px;
-    line-height: 1;
+    line-height: 1.375;
   }
 }
 html, html body {

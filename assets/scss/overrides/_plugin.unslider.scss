@@ -4,13 +4,14 @@
 		list-style: none;
 		margin: 0 0 0 -1px !important;
 		margin-left: -1px !important;
-		transform: translateX(2px);
+		transform: translateX(1px);
 		&--wrap {
 			padding: 0;
 			margin: 0;
 		}
 		&--inner {
 			@include card { @extend %base; }
+			background-size: cover;
 			@include gridle_state( mobile ) { text-align: center !important; }
 		}
 	}
