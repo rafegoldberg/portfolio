@@ -36,21 +36,4 @@ The above plugins are declared but are _not_ installed, The actual innards of ea
 
 
 
-<style>
-img[alt*=thumb] {
-	display: inline-block;
-	max-height: 1.25em;
-	width: auto;
-	margin-right: .125em;
-	vertical-align: -.25em
-}
-</style>
-
-
-
-
-
-
-
-
 
