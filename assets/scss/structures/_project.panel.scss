@@ -61,15 +61,27 @@
 		// 
 		//-> Top / Bottom
 		// 
-		&_top, &_bottom {
+		&_center, &_top, &_bottom {
 			text-align: center;
 			@include gridle_set((
-				grid:12,
-				centered: true,
-				prefix:0,
+				grid:8,
+				prefix:2,
+				tablet: (
+					grid:   10,
+					prefix: 1 ,
+				),
+				mobile: (
+					grid:   12,
+					prefix: 1 ,
+				)
 			));
 		}
 		&_top    { top:    1.5rem; }
 		&_bottom { bottom: 1.5rem; }
+		&_center {
+			top: 50%;
+			transform: translateY(-50%);
+			text-align: center !important;
+		}
 	}
 }

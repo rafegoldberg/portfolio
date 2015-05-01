@@ -6,8 +6,6 @@ Caption-text:
 
 # From scrawl to scroll
 
----
-
 Carolyn would have gotten her message out if she had to shout. Thankfully she had this cross-service compatible HTML email template.
 
 ----
@@ -16,7 +14,7 @@ Caption-position: right
 
 ----
 
-Bgz: fill
+Bgz: fit
 
 ----
 
@@ -29,3 +27,7 @@ Bgpy: bottom
 ----
 
 Apply-view: desktop, tablet
+
+----
+
+Invert: bgz

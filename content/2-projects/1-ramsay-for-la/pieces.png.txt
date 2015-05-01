@@ -2,7 +2,7 @@ Sort: 5
 
 ----
 
-Caption-text: # Built with HTML and (S)CSS for Nation Builder
+Caption-text: # Built with HTML and (S)CSS for Nation Builder <br/>
 
 ----
 
@@ -23,3 +23,7 @@ Bgpy: top
 ----
 
 Apply-view: desktop, tablet, mobile
+
+----
+
+Invert: bgz

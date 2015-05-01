@@ -35,6 +35,9 @@
 	}
 	#menu { top: 0;
 		    border-bottom: 1px solid c(stroke);
+		    @include gridle_state( tablet mobile ) {
+		    	text-align: center;
+		    }
 	      }
 	#footer { bottom: 0;
 			 @include gridle_state ( desktop ) {

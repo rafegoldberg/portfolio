@@ -46,3 +46,11 @@ Real estate management firm Wilshire Skyline approached me about redesigning the
 - Visual Branding
 - Style Guide
 - Print Options
+
+----
+
+Bg-color: #006fae
+
+----
+
+Fg-color: #FCFCFC

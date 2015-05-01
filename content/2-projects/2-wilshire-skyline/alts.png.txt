@@ -1,0 +1,25 @@
+Sort: 3
+
+----
+
+Caption-text: <h1 style="text-align:center">Full Style Guide</h1>
+
+----
+
+Caption-position: bottom
+
+----
+
+Bgz: fit
+
+----
+
+Bgpx: center
+
+----
+
+Bgpy: center
+
+----
+
+Invert: bgz, colors

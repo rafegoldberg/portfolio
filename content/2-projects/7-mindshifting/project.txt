@@ -30,8 +30,20 @@ End-date:
 
 ----
 
-Featured-image: 
+Project: MindShifting
 
 ----
 
-Project: MindShifting
+Sidebar: 
+
+----
+
+Bgi: mulhern.png
+
+----
+
+Bg-color: #fdfdfd
+
+----
+
+Fg-color: #3c699a

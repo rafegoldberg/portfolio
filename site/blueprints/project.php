@@ -12,10 +12,11 @@ files:
 			type: select
 			required: true
 			options:
-				top   : Above the Image
+				top   : Above the image
 				left  : Left of image
 				right : Right of image
 				bottom: Below the image
+				center: Overlayed on image
 		bgz:
 			label: <h1 style="font-size:1.5em;margin-top:1.5em;padding-bottom:.625em;font-weight:900;">Background</h1> Scale
 			type: radio

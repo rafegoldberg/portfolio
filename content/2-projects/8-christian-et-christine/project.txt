@@ -38,8 +38,12 @@ Sidebar:
 
 ----
 
-Bgi: 
+Bgi: chiao.png
 
 ----
 
-Color: 
+Bg-color: #EBEBEB
+
+----
+
+Fg-color: #333

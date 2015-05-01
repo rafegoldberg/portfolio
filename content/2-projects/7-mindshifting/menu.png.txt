@@ -1,16 +1,12 @@
-Sort: 3
+Caption-text: # Responsive to a T
 
 ----
 
-Caption-position: left
+Caption-position: center
 
 ----
 
-Caption-text: # A full set of branded Communications
-
-----
-
-Bgz: fit
+Bgz: fill
 
 ----
 
