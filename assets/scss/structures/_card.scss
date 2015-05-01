@@ -19,10 +19,10 @@
 	&_huge {
 		padding: 22.5vh 3em;
 		@include gridle_state( tablet ) {
-			padding: 12vh 2rem;
+			padding: 13vh 2rem;
 		}
 		@include gridle_state( mobile ) {
-			padding: 16.5vh 1rem;
+			padding: 12vh 1rem;
 		}
 	}
 	@content;

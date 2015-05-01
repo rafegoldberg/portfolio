@@ -13,6 +13,7 @@
 			@include card { @extend %base; }
 			background-size: cover;
 			@include gridle_state( mobile ) { text-align: center !important; }
+			box-shadow: inset 0 -1px 0 rgba(darken(c(stroke),25%),.2);
 		}
 	}
 }

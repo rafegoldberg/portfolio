@@ -1,8 +1,8 @@
-Sort: 2
+Sort: 3
 
 ----
 
-Caption-text: # Flyers and tigers and bears, oh my!
+Caption-text: The (tooltip: Los Angeles River Revitalization Corp. show: A mouthful, I know.) needed print materials designed for their annual fundraiser. Drawing inspiration from the industrialism of the river and the aesthetic of cinena noir, I crafted a full set of graphics, including invitations, donor inserts, a sponsership poster, and flyers.
 
 ----
 
@@ -14,8 +14,12 @@ Bgz: fill
 
 ----
 
-Bgpx: 
+Bgpx: center
 
 ----
 
-Bgpy: 
+Bgpy: center
+
+----
+
+Invert: bgz

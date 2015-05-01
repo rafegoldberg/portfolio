@@ -23,6 +23,7 @@
 	}
 	&-main {
 		@include gridle_centered();
+		header, .header { @extend .header_sep-stylized !optional; }
 	}
 	#menu ,
 	#footer {

@@ -1,0 +1,29 @@
+Caption-text: 
+
+# Responsive to a T
+
+Bethesda therapist Debbie Mulhern hired me to design the web site for her rebranded therapy practice. The goal of the project was to develop a site that communicated her unique brand of therapy which she'd dubbed ‘mindshifting’. We settled on a clean and minimal aesthetic to convey professionalism, relying on the awesome (tooltip: Iconic project show: amazing SVG icons link:http://useiconic.com) to give the site a touch of humor and personality critical to a good therapist.
+
+----
+
+Caption-position: center
+
+----
+
+Bgz: fill
+
+----
+
+Bgpx: center
+
+----
+
+Bgpy: center
+
+----
+
+Apply-view: desktop, tablet, mobile
+
+----
+
+Invert: bgz

@@ -6,4 +6,4 @@ Limit: 4
 
 ----
 
-Sidebar: I've always taken a details-out approach to design. Over five years I've played many roles, from design director to frontend developer, and even occasionaly a (tooltip: webmaster show: whatever happened to webmasters anyway???). I've had the chance to work with some amazing people, both clients and other designers and developers. This site showcases a few of my selected works.
+Sidebar: Over five years I've played many roles, from design director to frontend developer, and even the occasional (tooltip: webmaster show: whatever happened to webmasters anyway???). I've always taken a details-out approach to design. And I've had the chance to work with some amazing people, from clients to my fellow designers and developers. This site showcases a few of my selected works. Enjoy.

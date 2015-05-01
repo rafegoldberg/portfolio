@@ -11134,14 +11134,14 @@ html.default .list_padded .list--item {
   display: none !important;
 }
 
-header_sep-stylized, .header_sep-stylized {
+header_sep-stylized, .header_sep-stylized, #sidebar-main header, #sidebar-main .header {
   position: relative;
 }
-header_sep-stylized:after, .header_sep-stylized:after {
+header_sep-stylized:after, .header_sep-stylized:after, #sidebar-main header:after, #sidebar-main .header:after {
   content: '⬘';
   font-size: 1.7em;
   position: absolute;
-  top: 75%;
+  top: 92.5%;
   -webkit-transform: translateY(-100%);
       -ms-transform: translateY(-100%);
           transform: translateY(-100%);
@@ -11198,19 +11198,19 @@ html.mobile .card_big {
   padding: 22.5vh 3em;
 }
 html.tablet .card_huge {
-  padding: 12vh 2rem;
+  padding: 13vh 2rem;
 }
 @media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .card_huge {
-    padding: 12vh 2rem;
+    padding: 13vh 2rem;
   }
 }
 html.mobile .card_huge {
-  padding: 16.5vh 1rem;
+  padding: 12vh 1rem;
 }
 @media screen and (max-width: 36em) {
   .card_huge {
-    padding: 16.5vh 1rem;
+    padding: 12vh 1rem;
   }
 }
 
@@ -11542,17 +11542,17 @@ html.mobile .panel--caption_center, html.mobile .panel--caption_top, html.mobile
   }
 }
 html.mobile .panel--caption_center, html.mobile .panel--caption_top, html.mobile .panel--caption_bottom {
-  margin-left: 8.33333%;
+  margin-left: 0%;
 }
 .gridle-debug html.mobile .panel--caption_center:after, html.mobile .panel--caption_center.gridle-debug:after, .gridle-debug html.mobile .panel--caption_top:after, html.mobile .panel--caption_top.gridle-debug:after, .gridle-debug html.mobile .panel--caption_bottom:after, html.mobile .panel--caption_bottom.gridle-debug:after {
-  content: "prefix-mobile-1" !important;
+  content: "prefix-mobile-0" !important;
 }
 @media screen and (max-width: 36em) {
   .panel--caption_center, .panel--caption_top, .panel--caption_bottom {
-    margin-left: 8.33333%;
+    margin-left: 0%;
   }
   .gridle-debug .panel--caption_center:after, .panel--caption_center.gridle-debug:after, .gridle-debug .panel--caption_top:after, .panel--caption_top.gridle-debug:after, .gridle-debug .panel--caption_bottom:after, .panel--caption_bottom.gridle-debug:after {
-    content: "prefix-mobile-1" !important;
+    content: "prefix-mobile-0" !important;
   }
 }
 .panel--caption_top {
@@ -16838,6 +16838,7 @@ html.mobile .bgpy-b-mobile {
 }
 .slider .slide--inner {
   background-size: cover;
+  box-shadow: inset 0 -1px 0 rgba(157, 157, 157, 0.2);
 }
 .slider .slide--inner {
   padding: 2rem;
@@ -16878,19 +16879,19 @@ html.mobile .slider .slide--inner_big {
   padding: 22.5vh 3em;
 }
 html.tablet .slider .slide--inner_huge {
-  padding: 12vh 2rem;
+  padding: 13vh 2rem;
 }
 @media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .slider .slide--inner_huge {
-    padding: 12vh 2rem;
+    padding: 13vh 2rem;
   }
 }
 html.mobile .slider .slide--inner_huge {
-  padding: 16.5vh 1rem;
+  padding: 12vh 1rem;
 }
 @media screen and (max-width: 36em) {
   .slider .slide--inner_huge {
-    padding: 16.5vh 1rem;
+    padding: 12vh 1rem;
   }
 }
 html.mobile .slider .slide--inner {

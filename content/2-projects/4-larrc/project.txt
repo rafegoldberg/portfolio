@@ -2,7 +2,7 @@ Title: LA River Corp.
 
 ----
 
-Text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis nisi, adipisci dicta consectetur nemo illo earum odio possimus necessitatibus natus quos perferendis quidem tempore, eligendi, iusto numquam dolore fuga eum.
+Text: 
 
 ----
 
@@ -40,14 +40,10 @@ Bgi: larrc.png
 
 Sidebar: 
 
-The Los Angeles River Revitalization Corp. needed print materials designed for their annual fundraiser. Drawing inspiration from the industrialism of the river as well as classic style of cinena noir, I crafted a full set of graphics, including invitations, donor inserts, a sponsership poster, and flyers.
+----
 
-The next year, the LARRC decided to transition away from print invitations. They hired med to design and develop a mini-site to manage invitations and donations.
+Bg-color: #3f3f3f
 
 ----
 
-Bg-color: #3e3e3e
-
-----
-
-Fg-color: #dc703a
+Fg-color: #111

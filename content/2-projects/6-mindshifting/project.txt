@@ -6,7 +6,7 @@ Text:
 
 ----
 
-Tags: 
+Tags: Wordpress,SCSS,responsive,print
 
 ----
 

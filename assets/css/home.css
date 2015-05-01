@@ -2748,5 +2748,8 @@ html body {
   color: white;
   background-color: #222;
 }
+.slider .slide--inner {
+  padding: 30vh 2rem !important;
+}
 
 /*# sourceMappingURL=home.css.map */

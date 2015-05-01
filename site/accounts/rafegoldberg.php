@@ -8,8 +8,8 @@ language: en
 role: admin
 token: 878ad97496c39e02a66134a15600076a971ad580
 history:
+  - projects/dot-bk
+  - projects/larrc
   - projects/mindshifting
   - projects/christian-et-christine
-  - projects/wilshire-skyline
-  - projects/dot-bk
-  - projects/the-new-york-times
+  - home

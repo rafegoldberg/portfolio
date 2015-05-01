@@ -56,17 +56,15 @@ field::$methods['list'] = function($field,$layout=false,$delim=" ") {
 kirbytext::$tags['tooltip'] = array(
   'attr' => array(
     'show',
-    'href'
+    'url'
   ),
   'html' => function($tag) {
 
-    $url    = 'http://wikipedia.org/wiki';
     $text   = $tag->attr('tooltip');
     $tiptxt = $tag->attr('show', 'tooltip');
-    $href   = "href='".$tag->attr('href', '')."'";
-
-    return "<a $href class='tooltip' title='$tiptxt'>$text</a>";
-
+    $url   = $tag->attr('url',false) ? 'href="'.$tag->attr('url','').'"' : '';
+    // $url   = "data-rafe";
+    return "<a $url class='tooltip' title='$tiptxt'>$text</a>";
   }
 );
 ?>
