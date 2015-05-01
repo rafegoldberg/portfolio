@@ -4,7 +4,7 @@
 		<header class="card_huge ta-center">
 			<h1><?=$site->title()?></h1>
 		</header>
-		<?= $page->sidebar()->kirbytext() ?>
+		<?= $site->description()->kirbytext() ?>
 	</section>
 	<? snippet('footer',array('class'=>'d-n-mobile d-n-tablet')) ?>
 </aside>

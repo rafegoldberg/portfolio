@@ -1,5 +1,5 @@
 <? snippet('top',array(
-	'css'=> 'home',
+	'css'=> 'projects',
 	'body' => 'grid parent grid-12',
 )) ?>
 

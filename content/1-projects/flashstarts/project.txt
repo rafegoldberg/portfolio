@@ -1,0 +1,49 @@
+Title: FlashStarts
+
+----
+
+Tags: web,theme,wordpress,business cards,logo,styleguide
+
+----
+
+Text: Their first class of hip foodies and tech startups had just matriculated when this Cleveland based accelerator realized they should probably have a logo. Alongside FlashStarts founder and serial entrepreneur Charles Stack, RGD2 designed a complete identity and a complimentary WordPress theme.
+
+----
+
+Category: Branding
+
+----
+
+Link-1: http://www.flashstarts.com/
+
+----
+
+Link-2: 
+
+----
+
+Start-date: 2013-07-01
+
+----
+
+End-date: 2013-09-01
+
+----
+
+Project: Level Up
+
+----
+
+Sidebar: 
+
+----
+
+Bgi: business-card.png
+
+----
+
+Bg-color: 
+
+----
+
+Fg-color: 

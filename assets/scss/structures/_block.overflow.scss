@@ -1,4 +1,4 @@
-@mixin block-overflow($dir) {
+@mixin block-overflow($dir:y) {
 	@content;
 	overflow: hidden;
 	-webkit-overflow-scrolling: touch;

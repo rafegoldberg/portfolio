@@ -1,0 +1,9 @@
+@import "app/import";
+
+.project-link {
+	background-color: darken(c(matte),.35%);
+	transition: background-color .15 ease-in-out;
+	&:hover {
+		background-color: darken(c(matte),1.375%);
+	}
+}

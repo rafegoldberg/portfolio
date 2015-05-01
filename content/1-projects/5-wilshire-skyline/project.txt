@@ -1,0 +1,52 @@
+Title: Wilshire Skyline
+
+----
+
+Tags: business cards,print,graphics,logo
+
+----
+
+Text: Real-estate management firm Wilshire Skyline approached me about redesigning their corporate identity. Taking our cue from the company's name, we developed a visual identity including a complete style-guide and a brand new mark.
+
+----
+
+Category: Branding
+
+----
+
+Start-date: 2014-12-01
+
+----
+
+End-date: 2015-01-01
+
+----
+
+Project: Brand, New
+
+----
+
+Bgi: wilshire-skyline.png
+
+----
+
+Sidebar: 
+
+Real-estate management firm Wilshire Skyline approached me about redesigning their corporate identity. Taking my cue from (tooltip: their name show: Duh) I designed a unique mark and developed a visual language and complete style-guide for the company.
+
+- Logo Design
+- Visual Branding
+- Style Guide
+- Print Options
+
+----
+
+Bg-color: #006fae
+
+----
+
+Fg-color: #FCFCFC
+
+----
+
+Links: 

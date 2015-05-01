@@ -1,0 +1,29 @@
+Sort: 5
+
+----
+
+Caption-text: # Built with HTML and (S)CSS for Nation Builder <br/>
+
+----
+
+Caption-position: bottom
+
+----
+
+Bgz: fit
+
+----
+
+Bgpx: center
+
+----
+
+Bgpy: top
+
+----
+
+Apply-view: desktop, tablet, mobile
+
+----
+
+Invert: bgz

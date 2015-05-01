@@ -6,7 +6,14 @@
 			<small><?=$page->category()?> <em>for</em> <?= $page->title()->html() ?></small>
 		</header>
 		<?= $page->sidebar()->kirbytext() ?>
-		<?= $page->tags()->list('inline tags sep-comma') ?>
+
+		<? snippet('project.links') ?>
+
+		<small class="grid-12 card">
+			<strong>Project Tags:</strong>
+			<?= $page->tags()->list('inline tags sep-comma') ?>
+		</small>
+		
 	</article>
 	<? snippet('footer',array('class'=>'d-n-mobile d-n-tablet')) ?>
 </aside>

@@ -1,7 +1,7 @@
 <nav id="menu" role="navigation">
 	<ul class="<?= isset($layout) ? $layout : 'list'; ?>">
 		<li class="list--item">
-			<a href="<?= $site->url() ?>">
+			<a class="tooltip" href="<?= $site->url() ?>" title="View All Projects" style="text-decoration:none !important;">
 				<strong><?= $site->title()->html() ?></strong>
 			</a>
 		</li>

@@ -13,7 +13,7 @@ $projects = page('projects')->children()->visible()->paginate($limit);
 	<li>
 		<a id="<?=$id?>" href="<?=$project->url()?>" class="<?=isset($item)?$item:''?>" style="display:block;">
 			<div>
-				<strong><?=$project->project()->html()?></strong>
+				<h1><?=$project->project()->html()?></h1>
 			</div>
 			<small><?=$project->category()->html()?> <em>for</em> <?=$project->title()?></small>
 			<style>
@@ -28,13 +28,22 @@ $projects = page('projects')->children()->visible()->paginate($limit);
 </ul>
 
 <? if ($projects->pagination()->hasPages()) : ?>
-	<nav class="pagination">
+	<nav class="pagination grid-12 parent nextprev cf block-center-solo ta-center soft--links">
+
 		<? if($projects->pagination()->hasNextPage()): ?>
-		<a class="next" href="<?= $projects->pagination()->nextPageURL() ?>">&lsaquo; newer posts</a>
+			<a class="next grid-6 card_big" href="<?= $projects->pagination()->nextPageURL() ?>">
+				<span class="iconic d-ib va-m gutter-right" data-glyph="caret-left"></span>
+				<span class="va-m d-ib">Previous</span>
+			</a>
+			
+		<? endif ?>
+		
+		<? if($projects->pagination()->hasPrevPage()): ?>
+			<a class="prev grid-6 card_big" href="<?= $projects->pagination()->prevPageURL() ?>">
+				<span class="va-m d-ib">Next</span>
+				<span class="iconic d-ib va-m gutter-left" data-glyph="caret-right"></span>
+			</a>
 		<? endif ?>
 
-		<? if($projects->pagination()->hasPrevPage()): ?>
-		<a class="prev" href="<?= $projects->pagination()->prevPageURL() ?>">older posts &rsaquo;</a>
-		<? endif ?>
 	</nav>
 <? endif; ?>

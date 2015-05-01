@@ -36,6 +36,7 @@
 	}
 	#menu { top: 0;
 		    border-bottom: 1px solid c(stroke);
+		    background-color: darken(c(matte),1.5%);
 		    @include gridle_state( tablet mobile ) {
 		    	text-align: center;
 		    }

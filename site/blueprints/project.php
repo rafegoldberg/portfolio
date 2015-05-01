@@ -108,12 +108,26 @@ fields:
 			of this project, and choose a featured image.
 
 		width: 1/2
-	link_1:
+	links:
 		label: &nbsp;
-		type: URL
-		width: 1/2
-	link_2:
-		type: URL
+		type: structure
+		entry: >
+			<div>
+				<strong>{{title}}</strong><br />
+				<small>{{sub}}</small>
+			</div>
+			<hr style="margin: .5em 0; height: 1px;">
+			<small style="display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{url}}</small>
+		fields:
+			title:
+				label: Text
+				type: text
+			sub:
+				label: Subtext
+				type: text
+			url:
+				label: Link
+				type: URL
 		width: 1/2
 	_line1:
 		type: line
