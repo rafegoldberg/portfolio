@@ -11168,8 +11168,10 @@ html.default .list_padded .list--item {
 }
 
 .aside, .slider .aside.slide--inner {
+  line-height: 2.5;
   font-family: Didot, serif;
-  font-weight: 400;
+  font-weight: 500;
+  letter-spacing: -0.025em;
 }
 
 .title, h1, h2, h3, h4, h5, h6 {
@@ -11179,11 +11181,12 @@ html.default .list_padded .list--item {
   font-family: Avenir Next;
 }
 
-.card, .slider .card.slide--inner {
+.card, .card_big, .card_huge, .slider .card_big.slide--inner, .slider .card_huge.slide--inner, .slider .card.slide--inner {
   padding: 2rem;
   box-sizing: border-box;
 }
-.card, .slider .card.slide--inner, .card:before, .slider .card.slide--inner:before, .card:after, .slider .card.slide--inner:after {
+.card, .card_big, .card_huge, .slider .card_big.slide--inner, .slider .card_huge.slide--inner, .slider .card.slide--inner, .card:before, .card_big:before, .card_huge:before, .slider .card_big.slide--inner:before, .slider .card_huge.slide--inner:before, .slider .card.slide--inner:before, .card:after, .card_big:after, .card_huge:after, .slider .card_big.slide--inner:after, .slider .card_huge.slide--inner:after, .slider .card.slide--inner:after {
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -11218,11 +11221,11 @@ html.mobile .card_big {
   padding: 22.5vh 3em;
 }
 html.tablet .card_huge {
-  padding: 13vh 2rem;
+  padding: 10vh 2rem;
 }
 @media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .card_huge {
-    padding: 13vh 2rem;
+    padding: 10vh 2rem;
   }
 }
 html.mobile .card_huge {
@@ -16864,6 +16867,7 @@ html.mobile .bgpy-b-mobile {
   box-sizing: border-box;
 }
 .slider .slide--inner, .slider .slide--inner:before, .slider .slide--inner:after {
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -16898,11 +16902,11 @@ html.mobile .slider .slide--inner_big {
   padding: 22.5vh 3em;
 }
 html.tablet .slider .slide--inner_huge {
-  padding: 13vh 2rem;
+  padding: 10vh 2rem;
 }
 @media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .slider .slide--inner_huge {
-    padding: 13vh 2rem;
+    padding: 10vh 2rem;
   }
 }
 html.mobile .slider .slide--inner_huge {

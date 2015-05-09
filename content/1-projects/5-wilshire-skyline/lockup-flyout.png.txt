@@ -1,4 +1,4 @@
-Sort: 5
+Sort: 2
 
 ----
 
@@ -6,11 +6,11 @@ Caption-text:
 
 ----
 
-Caption-position: center
+Caption-position: bottom
 
 ----
 
-Bgz: fill
+Bgz: fit
 
 ----
 
@@ -22,8 +22,8 @@ Bgpy: center
 
 ----
 
-Apply-view: desktop, tablet, mobile
+Invert: bgz
 
 ----
 
-Invert: bgz
+Apply-view: desktop

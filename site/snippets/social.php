@@ -1,4 +1,4 @@
-<ul class="list_sep-slash list_padded ta-center card_big <?=isset($wrap)?$wrap:''?>">
+<ul class="list <?=isset($wrap)?$wrap:'list_sep-slash'?>">
 	<li class="list--item <?=isset($items)?$items:''?>">
 		<a href="http://dribbble.com/rgd2" class="iconic" data-glyph="shape-circle"> Dribbble</a>
 	</li>

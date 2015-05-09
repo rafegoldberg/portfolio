@@ -4,9 +4,9 @@ Sort: 4
 
 Caption-text: 
 
-# 3 Variants
+# 3 Variations
 
-<small>a “responsive” logo, so to speak</small>
+A *responsive* logo. So to speak.
 
 ----
 

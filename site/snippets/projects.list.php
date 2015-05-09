@@ -14,7 +14,9 @@ $projects = page('projects')->children()->visible()->paginate($limit);
 		<a id="<?=$id?>" href="<?=$project->url()?>" class="<?=isset($item)?$item:''?>" style="display:block;">
 			<header class="header">
 				<h1><?=$project->project()->html()?></h1>
-				<small><?=$project->category()->html()?> <em>for</em> <?=$project->title()?></small>
+				<small class="aside">
+					<?=$project->category()->html()?> <em>for</em> <?=$project->title()?>
+				</small>
 			</header>
 			<style>
 			#<?=$id?> {

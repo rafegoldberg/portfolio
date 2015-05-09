@@ -2,6 +2,7 @@
 	&%base {
 		padding: 2rem;
 		&, &:before, &:after {
+			background-size: cover;
 			background-repeat: no-repeat;
 			background-position: center;
 		}
@@ -19,7 +20,7 @@
 	&_huge {
 		padding: 22.5vh 3em;
 		@include gridle_state( tablet ) {
-			padding: 13vh 2rem;
+			padding: 10vh 2rem;
 		}
 		@include gridle_state( mobile ) {
 			padding: 12vh 1rem;
@@ -28,4 +29,6 @@
 	@content;
 }
 
-.card { @include card { @extend %base; } }
+.card { @include card { @extend %base; }
+	&_big, &_huge { @extend .card; }
+}
