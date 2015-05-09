@@ -7,7 +7,7 @@ A simple portfolio site using [Kirby CMS](http://getkirby.com) and [Grunt](http:
 
 This project is built on Kirby, a file-based CMS. The Kirby admin interface can be accessed at `[project root]/panel` and is used to manage all pages, projects, and assets, as well as other content and associated data.
 
-Because Kirby is written in PHP and uses a directory and file structure to manage content (as opposed to a database system) it's extremely simple to get set up. the only requirement to use Kirby is a basic web server running on your local machine. I suggest using XAMMP or MAMMP, although there are Grunt plugins which will spool up a basic server as well.
+Because Kirby is written in PHP and uses a directory and file structure to manage content (as opposed to a database system) it's pretty simple to set up. the only requirement to use Kirby is a basic web server running on your local machine. I suggest using XAMMP or MAMMP, although there are Grunt plugins which will spool up a basic server as well.
 
 ## Grunt
 
