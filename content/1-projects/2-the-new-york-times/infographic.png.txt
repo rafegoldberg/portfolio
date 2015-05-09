@@ -2,11 +2,11 @@ Sort: 4
 
 ----
 
-Caption-text: 
+Caption-text: <a href="http://www.nytimes.com/interactive/2012/07/30/sports/olympics/passing-the-torch-an-evolution-of-form.html#interactiveShell" class="d-b" style="position:absolute;width:100%;height:100vh;top:0;left:0;opacity:0;"></a>
 
 ----
 
-Caption-position: 
+Caption-position: center
 
 ----
 
@@ -23,3 +23,7 @@ Bgpy: top
 ----
 
 Apply-view: desktop, tablet, mobile
+
+----
+
+Invert: bgz
