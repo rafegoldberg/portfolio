@@ -3,6 +3,8 @@
 		// 
 		// DEFAULTS
 		// 
+		font-family: Avenir Next;
+		font-weight: 400;
 	}
 	&_sep-stylized {
 		position: relative;
@@ -23,4 +25,4 @@
 	@content;
 }
 
-header, .header { @include header { @extend %base; } }
+.header { @include header { @extend %base; } }

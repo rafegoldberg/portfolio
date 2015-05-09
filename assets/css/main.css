@@ -11144,10 +11144,14 @@ html.default .list_padded .list--item {
   display: none !important;
 }
 
-header_sep-stylized, .header_sep-stylized, #sidebar-main header, #sidebar-main .header {
+.header, .slider .header.slide--inner {
+  font-family: Avenir Next;
+  font-weight: 400;
+}
+.header_sep-stylized, #sidebar-main header, #sidebar-main .header {
   position: relative;
 }
-header_sep-stylized:after, .header_sep-stylized:after, #sidebar-main header:after, #sidebar-main .header:after {
+.header_sep-stylized:after, #sidebar-main header:after, #sidebar-main .header:after {
   content: '⬘';
   font-size: 1.7em;
   position: absolute;
@@ -11163,10 +11167,16 @@ header_sep-stylized:after, .header_sep-stylized:after, #sidebar-main header:afte
   opacity: .5;
 }
 
+.aside, .slider .aside.slide--inner {
+  font-family: Didot, serif;
+  font-weight: 400;
+}
+
 .title, h1, h2, h3, h4, h5, h6 {
   margin: 0;
   font-size: 1.5em;
   line-height: 1.5;
+  font-family: Avenir Next;
 }
 
 .card, .slider .card.slide--inner {
@@ -11680,6 +11690,7 @@ html.desktop #sidebar {
   left: 0;
   z-index: 5;
   box-shadow: 1px 0 rgba(157, 157, 157, 0.25);
+  box-shadow: 12px 0 75px -25px rgba(0, 0, 0, 0.375), 1px 0 rgba(157, 157, 157, 0.25);
 }
 @media screen and (min-width: 75em) {
   #sidebar {
@@ -11689,6 +11700,7 @@ html.desktop #sidebar {
     left: 0;
     z-index: 5;
     box-shadow: 1px 0 rgba(157, 157, 157, 0.25);
+    box-shadow: 12px 0 75px -25px rgba(0, 0, 0, 0.375), 1px 0 rgba(157, 157, 157, 0.25);
   }
 }
 html.tablet #sidebar {

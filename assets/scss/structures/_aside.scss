@@ -1,0 +1,18 @@
+@mixin aside() {
+	&%base {
+		// 
+		// DEFAULTS
+		// 
+		font-family: Didot, serif;
+		font-weight: 400;
+	}
+	// EXTENDERS
+	//—|
+	//—| .wrap &[child|modifier] {}
+	//—| &--[child] {}
+	//—| &__[modifier] {}
+	//—|
+	@content;
+}
+
+.aside { @include aside { @extend %base; } }

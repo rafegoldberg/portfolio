@@ -12,10 +12,10 @@ $projects = page('projects')->children()->visible()->paginate($limit);
 	?>
 	<li>
 		<a id="<?=$id?>" href="<?=$project->url()?>" class="<?=isset($item)?$item:''?>" style="display:block;">
-			<div>
+			<header class="header">
 				<h1><?=$project->project()->html()?></h1>
-			</div>
-			<small><?=$project->category()->html()?> <em>for</em> <?=$project->title()?></small>
+				<small><?=$project->category()->html()?> <em>for</em> <?=$project->title()?></small>
+			</header>
 			<style>
 			#<?=$id?> {
 				background-image: url("<?= $bgi; ?>");
