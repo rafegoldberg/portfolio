@@ -47,4 +47,5 @@ Links:
 - 
   title: «Christian et Christine»
   sub: A film by Justin Chiao
-  url: http://christianetchristine.com/
+  url: >
+    http://rgd2.co/clients/christian-et-christine/

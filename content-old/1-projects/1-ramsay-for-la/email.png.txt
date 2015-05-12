@@ -1,0 +1,33 @@
+Sort: 4
+
+----
+
+Caption-text: 
+
+# From scrawl to scroll
+
+Carolyn would have gotten her message out even if she had to shout. Thankfully I designed this cross-service compatible HTML email template for her.
+
+----
+
+Caption-position: right
+
+----
+
+Bgz: fit
+
+----
+
+Bgpx: right
+
+----
+
+Bgpy: bottom
+
+----
+
+Apply-view: desktop, tablet
+
+----
+
+Invert: bgz

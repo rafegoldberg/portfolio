@@ -2,10 +2,6 @@ Project: Ramsay for L.A.
 
 ----
 
-Text: Carolyn Ramsay’s operation needed a distinct look to set them apart from a crowded field of City Council hopefuls. I designed her campaign's initial identity based on the candidate's passion for environmental issues and for preserving LA’s natural spaces.
-
-----
-
 Title: Carolyn Ramsay
 
 ----
@@ -43,3 +39,11 @@ Fg-color: #FFF
 ----
 
 Links: 
+
+----
+
+Meta: Identity design for Carolyn Ramsay's campaign.
+
+----
+
+Img-meta: ramsay-metaimg.png

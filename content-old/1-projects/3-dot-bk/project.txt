@@ -1,0 +1,50 @@
+Title: DOTBK
+
+----
+
+Tags: web,UI,user interface,Django,Git
+
+----
+
+Text: 
+
+----
+
+Category: Web
+
+----
+
+Start-date: 
+
+----
+
+End-date: 
+
+----
+
+Project: In Style
+
+----
+
+Bgi: dotbk.png
+
+----
+
+Sidebar: A responsive ecommerce platform, that refreshes to the front-end to bring it up to speed with DOTBK's updated brand identity and mark.
+
+----
+
+Bg-color: #FCFCFC
+
+----
+
+Fg-color: #204459
+
+----
+
+Links: 
+
+- 
+  title: DOTBK
+  sub: Small Batch Menswear
+  url: http://dotbk.com

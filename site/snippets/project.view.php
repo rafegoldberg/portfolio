@@ -1,7 +1,7 @@
 <div id="project-view">
 
 <? foreach($page->images()->sortBy('sort', 'asc') as $img): ?>
-	<? if ( $img!==$page->file($page->bgi()) ) : // ignore featured proj image ?>
+	<? if ( $img!==$page->file($page->bgi()) && $img!==$page->file($page->img_meta()) ) : // ignore featured proj image ?>
 
 		<section>
 			<img class="hide" src="<?=$img->url()?>" alt="<?=$page->title()->html()?>">

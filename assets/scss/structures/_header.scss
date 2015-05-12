@@ -6,6 +6,7 @@
 	}
 	&_sep-stylized {
 		position: relative;
+		z-index: d(behind);
 		&:after {
 			content: '⬘';
 			font-size: 1.7em;

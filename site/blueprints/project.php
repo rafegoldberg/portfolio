@@ -67,8 +67,8 @@ fields:
 		type:  text
 		placeholder: Project Title
 		icon: folder-open
-	text:
-		label: Project Description
+	meta:
+		label: Project Meta
 		type:  textarea
 	_line6:
 		type: line
@@ -151,18 +151,24 @@ fields:
 		width: 1/4
 	_line2:
 		type: line
-	_details_featured_image:
-		label: Featured Image
+	_details_images:
+		label: Project Images
 		type: info
 		text: >
 
-			Choose a featured image for this project.
+			Set the featured and share image for this project.
 
 		width: 1/2
 	bgi:
 		label: &nbsp;
 		type: select
 		icon: picture-o
+		options: images
+		width: 1/2
+	img_meta:
+		label: &nbsp;
+		type: select
+		icon: instagram
 		options: images
 		width: 1/2
 	_line7:

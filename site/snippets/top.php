@@ -4,12 +4,8 @@
 
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-
-	<title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
-
-	<meta name="description" content="<?= $site->description()->html() ?>">
-	<meta name="keywords" content="<?= $site->keywords()->html() ?>">
-
+	
+	<? snippet('meta.test') ?>	
 	<?= css('assets/css/main.css') ?>
 
 	<? if (isset($css)): ?>

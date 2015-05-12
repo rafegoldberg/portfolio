@@ -1,0 +1,25 @@
+Caption-text: # Responsive to a T
+
+----
+
+Caption-position: center
+
+----
+
+Bgz: fill
+
+----
+
+Bgpx: center
+
+----
+
+Bgpy: center
+
+----
+
+Apply-view: desktop, tablet, mobile
+
+----
+
+Invert: bgz

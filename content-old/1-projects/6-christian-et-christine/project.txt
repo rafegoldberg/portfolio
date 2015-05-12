@@ -1,0 +1,50 @@
+Title: Justin Chiao
+
+----
+
+Text: 
+
+----
+
+Category: Graphics
+
+----
+
+Tags: poster design,graphics,web
+
+----
+
+Start-date: 2013-02-01
+
+----
+
+End-date: 2013-02-01
+
+----
+
+Project: «Christian et Christine»
+
+----
+
+Sidebar: 
+
+----
+
+Bgi: chiao.png
+
+----
+
+Bg-color: #EBEBEB
+
+----
+
+Fg-color: #262626
+
+----
+
+Links: 
+
+- 
+  title: «Christian et Christine»
+  sub: A film by Justin Chiao
+  url: http://christianetchristine.com/

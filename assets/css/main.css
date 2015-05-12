@@ -11121,12 +11121,16 @@ html.default .list_padded.list_sep-space .list--item:after, html.default .list_p
 }
 
 .list_padded .list--item {
-  padding-left: 0.75rem;
+  padding-top: 0.75rem;
   padding-right: 0.75rem;
+  padding-bottom: 0.75rem;
+  padding-left: 0.75rem;
 }
 html.default .list_padded .list--item {
-  padding-left: 0.75rem;
+  padding-top: 0.75rem;
   padding-right: 0.75rem;
+  padding-bottom: 0.75rem;
+  padding-left: 0.75rem;
 }
 
 .list_tags {
@@ -11146,6 +11150,7 @@ html.default .list_padded .list--item {
 
 header_sep-stylized, .header_sep-stylized, #sidebar-main header, #sidebar-main .header {
   position: relative;
+  z-index: -1;
 }
 header_sep-stylized:after, .header_sep-stylized:after, #sidebar-main header:after, #sidebar-main .header:after {
   content: '⬘';
@@ -11849,7 +11854,7 @@ html.desktop #sidebar #menu, html.desktop
 #sidebar #menu {
   top: 0;
   border-bottom: 1px solid #DDD;
-  background-color: #fbfbfb;
+  background-color: rgba(251, 251, 251, 0.925);
 }
 html.tablet #sidebar #menu {
   text-align: center;

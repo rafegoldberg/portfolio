@@ -1,0 +1,45 @@
+Project: Ramsay for L.A.
+
+----
+
+Text: Carolyn Ramsay’s operation needed a distinct look to set them apart from a crowded field of City Council hopefuls. I designed her campaign's initial identity based on the candidate's passion for environmental issues and for preserving LA’s natural spaces.
+
+----
+
+Title: Carolyn Ramsay
+
+----
+
+Sidebar: Carolyn Ramsay’s operation needed a distinct look to set them apart from a crowded field of City Council hopefuls. I designed her campaign's initial identity based on the candidate's passion for environmental issues and for preserving LA’s natural spaces.
+
+----
+
+Category: Branding
+
+----
+
+Tags: graphics,business cards,Nation Builder
+
+----
+
+Start-date: 2013-10-01
+
+----
+
+End-date: 2015-04-01
+
+----
+
+Bgi: ramsay.png
+
+----
+
+Bg-color: #29904F
+
+----
+
+Fg-color: #FFF
+
+----
+
+Links: 

@@ -1,0 +1,29 @@
+Caption-text: 
+
+# Posters & Web
+
+Actor and director Justin Chiao and I collaborated on posters for his thesis film *«Christian et Christine»*. The result was a series of posters set in Bergman-esque black and ivory, using the gorgeous still photography taken on set. We also built (tooltip: a small informational site show: try tapping your arrow keys on his site to navigate through a hidden slider url: http://christianetchristine.com/) in the same style.
+
+----
+
+Caption-position: left
+
+----
+
+Bgz: fit
+
+----
+
+Bgpx: right
+
+----
+
+Bgpy: bottom
+
+----
+
+Apply-view: desktop, tablet, mobile
+
+----
+
+Invert: bgz

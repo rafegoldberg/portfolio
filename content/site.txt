@@ -18,4 +18,12 @@ Copyright: © 2009-(date: Year) Rafe Goldberg 👌
 
 ----
 
-Subtitle: A Portfolio
+Subtitle: The Portfolio of Rafe Goldberg
+
+----
+
+Soc-twitter: @rafegoldberg
+
+----
+
+Soc-facebook: 112120922136113

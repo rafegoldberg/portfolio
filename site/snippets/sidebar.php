@@ -5,6 +5,7 @@
 			<h1><?=$site->title()?></h1>
 		</header>
 		<?= $site->description()->kirbytext() ?>
+		<? snippet('social') ?>
 	</section>
 	<? snippet('footer',array('class'=>'d-n-mobile d-n-tablet')) ?>
 </aside>

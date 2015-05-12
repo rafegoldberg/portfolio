@@ -1,0 +1,29 @@
+Sort: 3
+
+----
+
+Caption-text: 
+
+# Setting the Mood
+
+To create the invitations, flyers, posters and other materials I drew inspiration from the industrialized setting of the L.A. river as well as the classic aesthetic of cinema noir.
+
+----
+
+Caption-position: right
+
+----
+
+Bgz: fill
+
+----
+
+Bgpx: center
+
+----
+
+Bgpy: center
+
+----
+
+Invert: bgz

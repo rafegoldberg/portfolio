@@ -3,12 +3,14 @@
 // DEBUG                       //
 /////////////////////////////////
 
-function jsl($arr,$tag=false,$styles=false){
-	if ($tag) {
-		echo "<script class='php2js'>console.log('".$tag."',".json_encode($arr).")</script>";
+function jsl($arr=array('default'),$txt=false,$r=false){
+	$logtag = false;
+	if ($txt) {
+		$logtag = "<script class='php2js'>console.log('".$txt."',".json_encode($arr).")</script>";
 	} else {
-		echo "<script class='php2js'>console.log(".json_encode($arr).")</script>";
+		$logtag = "<script class='php2js'>console.log(".json_encode($arr).")</script>";
 	}
+	if ($r) { return $logtag; } else { echo $logtag; }
 }
 
 /////////////////////////////////

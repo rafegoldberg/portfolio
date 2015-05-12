@@ -1,0 +1,21 @@
+Caption-text: 
+
+----
+
+Caption-position: center
+
+----
+
+Bgz: fit
+
+----
+
+Bgpx: center
+
+----
+
+Bgpy: center
+
+----
+
+Invert: bgz
