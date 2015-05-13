@@ -1,5 +1,5 @@
 @mixin list($class:false) {
-	@if $class {
+	@if ($class) {
 		.list#{$class} { @content; }
 	} @else {
 		.list {

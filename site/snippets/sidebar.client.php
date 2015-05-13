@@ -2,18 +2,15 @@
 	<? snippet('menu',array('layout'=>'list_sep-slash')) ?>
 	<section id="sidebar-main" class='cms-text cms-text_pad-edges'>
 		<header class="card_huge ta-center">
-			<small class="aside">
+			<? if ($page->file($page->logo())->url()) : ?>
 				<?=brick('img', false, array(
 					"src" => $page->file($page->logo())->url()
 				))?>
-			</small>
-			<hr>
-			RGD2 <em>for</em> <strong><?=$page->title()->html()?></strong>
+			<? else: ?>
+				RGD2 <em>for</em> <strong><?=$page->title()->html()?></strong>
+			<? endif ?>
 		</header>
-		<?= $site->description()->kirbytext() ?>
-		<? snippet('social',array(
-			'wrap' =>'list_sep-slash ta-center card'
-		)); ?>
+		<?= $page->sidebar()->kirbytext() ?>
 	</section>
 	<? snippet('footer',array('class'=>'d-n-mobile d-n-tablet')) ?>
 </aside>

@@ -8,10 +8,10 @@ language: en
 role: admin
 history:
   - clients/citiwide
+  - clients/citiwide/terms
   - home
   - projects/larrc
   - projects/christian-et-christine
-  - projects/dot-bk
-token: 8510969f64b0c0c85dc5b4ecea3cb0cfaf3fed58
+token: 3b649c0925f5411f7302ff153a597f14dc7d2eb9
 firstname: Rafe
 lastname: Goldberg

@@ -1,9 +1,25 @@
 .markdown {
-	&-wrap {
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif !important;
+	&Wrap {
+		background-color: #FCFCFC;
+		@include gridle_set((grid: 12));
+		str,
+		h1, h2, h3, h4, h5, h6 {
+			font-family: inherit !important;
+		}
+	}
+	&_block {
 		min-width: 450px;
 		width: 75%;
 		max-width: 650px;
 		margin: 0 auto;
+	}
+	// 
+	// SUB-ELEMS
+	// 
+	a {
+		color: inherit !important;
+		text-decoration: underline;
 	}
 	pre, code {
 		font-size: 1em;

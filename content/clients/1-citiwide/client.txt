@@ -13,12 +13,6 @@ Web Proposal Outline
 
 > <p><em>Citiwide is a real estate development firm based in Queens and focused on multifamily housing in New York City.</em></p><hr><p><small>We're growing rapidly and have over 100 properties coming to market, including a number of condo developments. We want to have a site that can be accessed easily (SEO), looks beautiful, has great maps, and is easy navigate, and has a staff page.</small></p>
 
-This is RGD2's response to an informal RFP made by Kori Enyard on behalf of Citiwide for a turnkey website. [To **accept this proposal** click here.](http://rgd2.co/citiwide)
-
-<small><strong style="color:red;">Questions?</strong> [Click to email Rafe.](mailto:rafegoldberg@gmail.com)</small><br><small style="color:#999;display:inline-block;line-height:1.1;">
-This proposal was written in markdown. If you're receiving it as the body text of an email you're probably talking to Rafe Goldberg. <strong style=text-decoration:underline">There should also be a PDF attachment</strong> which you can share with your team, coworkers, or even friends. (If you don't see it remind him to send it to you!)
-</small>
-
 ### Deliverables
 
 1. Site Map
@@ -106,7 +100,7 @@ The next step is putting together the Content Guide and is solely the client's r
 
 RGD2's progressive, in-browser approach to frontend web development means we don't waste pixels by emailing you a million attachments of wireframes and mockups. Instead of trying to keep track of multiple attachements and incomprehensibly named files all you have to remember is this link:
 
-[**`rgd2.co/citiwide`**](http://rgd2.co/citiwide)
+[**`rgd2.co/clients/citiwide`**](http://rgd2.co/clients/citiwide)
 
 Did you click it? Nice, though there's not much to see right now. Once we kick off the project, though, this link will link to the live, bleeding-edge beta site. Think of it as a live preview; it'll give you instant access, allowing your team to easily keep up to date with the project and provide better feedback faster.
 
@@ -180,7 +174,7 @@ For a month following final approval we also guarantee to host your site and fix
 
 |Duration   |Costs      |RGD2                                                                                 |                                                   Client|Payment|
 |:---------:|:---------:|:------------------------------------------------------------------------------------|--------------------------------------------------------:|:-----:|
-| 2-3 Weeks |    1275.00|<small>Functional Templates<br>Responsive Layout<br>CMS Content Integration</small>      |<small>Copy/Content<br>Live Testing<br>Final Approval</small>|&nbsp; |
+| 2-3 Weeks |    1275.00|<small>Functional Templates<br>Responsive Layout<br>CMS Content Integration</small>      |<small>Copy/Content<br>Live Testing<br>Final Approval</small>|  |
 
 ###### Launch
 
@@ -188,134 +182,23 @@ For a month following final approval we also guarantee to host your site and fix
 |:---------:|:---------:|:------------------------------------------------------------------------------------|--------------------------------------------------------:|:-----:|
 |  1 Week   |    2700.00|<small>Compatability Testing<br>**Free Hosting & Debug!**<small style="font-size:9px;color:#8A8A8A;"><br>Up to 30 days</small></small>                   |<small>Final Payment</small>                             |   2400|
 
-<br>
-
-*Total Costs:* `$5000.00`
-<br>
-*End Date:*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~1½ months from project kickoff.
-
-<br>
-
-<!--
-* Amendments & Changes
- -->
+*Costs & Timframe:* `$5000.00` for ~1½ months of work
+<small style="color:#999;">Project kickoff begins the first weekday day following receipt of initial payment .</small>
 
 ## Terms & Conditions
 
-<small id="contract">
+Read the (link: ./terms text: terms and conditions) of the project or proposal.
 
-<style>
-#contract * {
-	font-size: 11px !important;
-	color: #666 !important;
-}
-#contract ul, #contract ol, #contract li, #contract p {
-	line-height: 1.12 !important;
-}
-#contract li > ul li {
-	margin-top: 0 !important;
-	margin-bottom: 0 !important;
-}
-#contract li > ul p {
-	margin-top: 0 !important;
-	padding-top: 0 !important;
-}
-</style>
+----
 
-1. **Proposal**
+Links: 
 
-   The Proposal shall set forth the scope and purpose of the Client’s (or “Customer”) identified usage of the work product (the “Project”). In the event the Client does not execute this Agreement within the time identified, the Proposal, together with any related terms and conditions and deliverables, may be subject to amendment, charge or substitution.
+----
 
-2. **Services**
+Sidebar: 
 
-   RGD2 (or “Vendor) agrees to provide the Client with the services and work product (the “Services”) as described in the Proposal, which is incorporated by reference in, and shall become part of, this Agreement. In the event that any provision of the Proposal is construed to conflict with a provision in the Purchase Agreement, the provision in the Proposal shall be deemed to be controlling. “Deliverables” shall mean the services and work product specified in the Proposal to be delivered by RGD2 to Client, in the form and media specified in the Proposal.
+This is RGD2's response to an informal RFP made by Kori Enyard on behalf of Citiwide for a turnkey website. [To **accept this proposal** click here.](http://rgd2.co/clients/citiwide)
 
-3. **Compensation**
-
-   - *Fees.*
-
-      In consideration of the services to be performed by RGD2, Client as specified in the Proposal, Client shall pay to RGD2 as set forth in the “Payment Schedule & Terms” of the Proposal.
-
-   - *Invoices.*
-
-      All invoices are payable within fifteen (15) days of receipt. A one hundred dollar ($100) weekly service charge is payable on all overdue balances. Payments will be credited first to late payment charges and next to the unpaid balance. Client shall be responsible for all collection or legal fees necessitated by late or default in payment. RGD2 reserves the right to withhold delivery and any transfer of ownership of any current work if accounts are not current or overdue invoices are not paid in full. All grants of any license to use or transfer of ownership of any intellectual property rights under this Agreement are conditioned upon receipt of payment in full which shall be inclusive of any and all outstanding additional Costs, taxes, Expenses and Fees, Charges or the cost of Changes.
-
-   - *Default in Payment.*
-
-      In the event Customer fails to make any of the payments in this Agreement (which, for the avoidance of doubt, includes the SOWs) by the deadline set forth herein, RGD2 shall have the right, but are not obligated, to pursue any or all of the following remedies: (1) immediately cease all work on the Project until payment then due is paid in full, (2) terminate this Agreement, (3) withhold all files, artwork, source, commitments or any other service to be performed by RGD2 for Customer, and/or (4) bring legal action.
-
-
-4. **Testing and Acceptance**
-
-   RGD2 will exercise commercially reasonable efforts to test Deliverables requiring testing and to make all necessary corrections prior to providing Deliverables to Client. Client, within five (5) business days of receipt of each Deliverable, shall notify RGD2, in writing, of any failure of such Deliverable to comply with the specifications set forth in the Proposal, or of any other objections, corrections, changes or amendments Client wishes made to such Deliverable. Any such written notice shall be sufficient to identify with clarity any objection, correction or change or amendment, and RGD2 will undertake to make the same in a commercially timely manner. Any and all objections, corrections, changes or amendments shall be subject to the terms and conditions of this Agreement. In the absence of such notice from Client, the Deliverable shall be deemed accepted.
-
-5. **Availability of Content**
-
-   Client agrees to make available to RGD2, for RGD2’s use in performing the services required by this Agreement, such graphical elements and materials as Client and RGD2 may agree in writing for such purpose. Failure to provide RGD2 with Materials in the requested formats may result in additional delays or fees in addition to those stated in SOW. The Client is solely responsible for the editorial content of the material included on the Project, unless previously discussed and arranged by the Client and RGD2. If agreed upon, RGD2 will offer advice and suggestions to enhance content. Files will be delivered to RGD2 in electronic format unless otherwise arranged.
-
-6. **Client Responsibilities**
-
-   Client acknowledges that it shall be responsible for performing the following in a reasonable and timely manner:
-
-   - Coordination of any decision-making with parties other than the RGD2
-   - *Provision of Client Content* in a form suitable for reproduction or incorporation into the Deliverables without further preparation, unless otherwise expressly provided in the Proposal; and
-   - *Final Proofreading* In the event that Client has approved Deliverables but errors, such as, by way of example not limitation, typographic errors or misspellings, remain in the finished product, Client shall incur the cost of correcting such errors.
-
-7. **Client Project Termination/Termination Fee**
-
-   In the event that work in process is found by the Client not to be reasonably satisfactory, the Client may terminate the project for cause without any refunds only if all the work done so far has been paid for and there is no remaining balance due to RGD2. The date on which the Client delivers a written notice to RGD2 in accordance with this Agreement shall be deemed to be the “Termination Date”.
-
-8. **Return Upon Termination**
-
-   Upon expiration or termination of this Agreement: (a) each party shall return or, at the disclosing party’s request, destroy the Confidential Information of the other party, and (b) other than as provided herein, all rights and obligations of each party under this Agreement, exclusive of the Services, shall survive.
-
-9. **Reproduction of Project**
-
-   Upon successful completion of all compensation terms and outstanding balances owed to RGD2, Customer may retain limited reproduction rights to the Project with RGD2’s advance written consent. RGD2 shall retain the right to reproduce the Project in any form for marketing, future publications, competitions or other promotional uses and/or to cross-link it with other marketing venues developed by RGD2. RGD2 shall at no time reproduce any Client Proprietary Materials for use in commercial means or for-profit use.
-
-10. **Right to Style or to Make Derivative Works**
-
-   RGD2 has the exclusive rights in making any derivative similar works of the Project and any similarities between Client's Project and future projects constitutes RGD2’s methods and style and shall remain the right of RGD2.
-
-11. **Intellectual Property**
-
-   - *Existing Ownership Rights.*
-
-      Except as expressly set out in this Section 11, neither party will gain, by virtue of this Agreement, any rights of ownership or use of copyrights, patents, trade secrets, trademarks or any other intellectual property rights owned by the other party.
-
-   - *Intellectual Property License.*
-
-      In consideration of the fees paid by Service Recipient under this Agreement, RGD2 hereby grants a non-transferable, non-exclusive, non-sub-licensable, worldwide license to use intellectual property of RGD2 contained in the Deliverable only to the extent necessary to use such Deliverable for the purpose intended at the time of delivery by RGD2 and only in the business conducted by RGD2 at the time of delivery. Any other use of the intellectual property of RGD2 is strictly forbidden.
-
-   - *Removal of Marks.*
-
-      The parties agree that neither will remove any copyright notices, proprietary markings, Mark or other indicia of ownership of the other party from any materials of the other party.
-
-
-12. **Confidential Information**
-
-   Each party acknowledges that in connection with this Agreement it may receive certain confidential or proprietary technical and business information and materials of the other party, including without limitation Preliminary Works (“Confidential Information”). Each party, its agents and employees shall hold and maintain in strict confidence all Confidential Information, shall not disclose Confidential Information to any third party, and shall not use any Confidential Information except as may be necessary to perform its obligations under the Proposal except as may be required by a court or governmental authority. Notwithstanding the foregoing, Confidential Information shall not include any information that is in the public domain or becomes publicly known through no fault of the receiving party, or is otherwise properly received from a third party without an obligation of confidentiality.
-
-13. **Limited Warranty and Limitation of Liability**
-
-   RGD2 warrants the Project will conform to the specifications set forth in the SOW. If the Project does not conform to such specifications, RGD2 shall be responsible for the timely correction of the Project, at RGD2’s sole expense and without charge to Client, to bring the Project into conformance with such specifications. This warranty shall be the exclusive warranty available to Client. Customer waives any other warranty, express or implied. Although RGD2 shall work to ensure the final product is free of any grammatical and spelling errors before giving the final product to the Client, it is expressly agreed that it is the Client’s responsibility to ensure that there are no spelling or grammatical errors contained in the final product. Client acknowledges that RGD2 is not responsible for fixing any problems, errors or omissions on the Project, after the final product has been committed to print or posted in view of the public, or after Client has tested, proofed and approved the Project. Client acknowledges that RGD2 is not responsible for the results obtained by Client's use of any part of the Project. RGD2 disclaims all implied warranties, including the warranty of merchantability and fitness for a particular use. Except as otherwise expressly stated herein, Client waives any claim for damages, direct or indirect, incidental or consequential, regardless of whether such failure was caused by intentional or negligent acts or omissions of RGD2 or a third party, and agrees that its sole and exclusive remedy for damages (either in contract or tort) is the return of the consideration paid to RGD2 as set forth in SOW attached hereto. This limited warranty shall become void and expire 30 days after the delivery of the Project by RGD2.
-
-14. **Acceptance Of Agreement**
-
-   The prices, specifications and conditions set forth in this Agreement (including SOWs which may be amended, modified and supplemented from time to time) are hereby accepted. RGD2 is authorized to execute the Project as outlined in this Agreement. Payment will be made as proposed above. This Agreement is not valid until signed by Client and returned to RGD2. This Agreement shall commence on the date stated above, and shall remain in effect until all obligations under this Agreement have been properly completed, or unless terminated by Client, and/or RGD2.
-
-15. **Relationship of the Parties**
-
-   - *Independent Contractor.*
-
-      RGD2 is an independent contractor, not an employee of Client or any company affiliated with Client. RGD2 shall provide the Services under the general direction of Client, but RGD2 shall determine, in RGD2’s sole discretion, the manner and means by which the Services are accomplished. This Agreement does not create a partnership or joint venture and neither party is authorized to act as agent or bind the other party except as expressly stated in this Agreement. RGD2 and the work product or Deliverables prepared by RGD2 shall not be deemed a work for hire as that term is defined under Copyright Law. All rights, if any, granted to Client are contractual in nature and are wholly defined by the express written agreement of the parties and the various terms and conditions of this Agreement.
-
-   - *No Solicitation.*
-
-      During the term of this Agreement, and for a period of six (6) months after expiration or termination of this Agreement, Client agrees not to solicit, recruit, engage, or otherwise employ or retain, on a full-time, part-time, consulting, work-for-hire, or any other kind of basis, any RGD2, employee or Design Agent of RGD2, whether or not said person has been assigned to perform tasks under this Agreement. In the event such employment, consultation or work-for-hire event occurs, Client agrees that RGD2 shall be entitled to an agency commission to be the greater of, either (a) 25 percent of said person’s starting salary with Client, or (b) 25 percent of fees paid to said person if engaged by Client as an independent contractor. In the event of (a) above, payment of the commission will be due within 30 days of the employment starting date. In the event of (b) above, payment will be due at the end of any month during which the independent contractor performed services for Client. RGD2, in the event of nonpayment and in connection with this section, shall be entitled to seek all remedies under law and equity.
-
-   - *No Exclusivity.*
-
-      The parties expressly acknowledge that this Agreement does not create an exclusive relationship between the parties. Client is free to engage others to perform services of the same or similar nature to those provided by RGD2, and RGD2 shall be entitled to offer and provide design services to others, solicit other Clients and otherwise advertise the services offered by RGD2.
-
+<small><strong style="color:red;">Questions?</strong> [Click to email Rafe.](mailto:rafegoldberg@gmail.com)</small><br><small style="color:#999;display:inline-block;line-height:1.1;">
+This proposal was written in markdown. There is also a PDF version of the proposol so you can easily share it with your team, friends, coworkers, or even your mother!
 </small>

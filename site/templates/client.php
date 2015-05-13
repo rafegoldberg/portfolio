@@ -3,13 +3,13 @@
 	'body' => 'grid parent grid-12',
 ))?>
 
-<?snippet('header')?>
 <?snippet('sidebar.client')?>
-
 <main>
-	<?=$page->text()->kirbytext()?>
+	<div class="grid-12 markdownWrap">
+		<section class="markdown markdown_block centered">
+			<?=$page->text()->kirbytext()?>
+		</section>
+	</div>
 </main>
-
-<?snippet('footer')?>
 
 <?snippet('bottom')?>

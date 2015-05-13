@@ -17,6 +17,15 @@ function jsl($arr=array('default'),$txt=false,$r=false){
 // FIELD METHODS               //
 /////////////////////////////////
 
+function get_user_timezone() {
+	return getdate();
+	return localtime(time(), true);
+}
+
+/////////////////////////////////
+// FIELD METHODS               //
+/////////////////////////////////
+
 
 // function prepend_states ($arr,$delim=' ',$tostr=false){
 // }

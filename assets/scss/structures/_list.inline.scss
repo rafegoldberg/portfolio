@@ -1,5 +1,5 @@
 @include list('_inline') {
-  @extend .list !optional;
+	@extend .list !optional;
 	@include list('--item') {
 		display: inline-block;
 	}
