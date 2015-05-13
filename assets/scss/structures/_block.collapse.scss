@@ -1,0 +1,15 @@
+@mixin block-collapse {
+	&%base {
+		max-width: 46em;
+		line-height: 1.5;
+		text-align: left;
+		padding: 0 1.375em;
+	}
+	> * {
+		&:first-child { margin-left:  0; }
+		&:last-child  { margin-right: 0; }
+	}
+	@content;
+}
+
+.legible-block { @include block-collapse { @extend %base; } }

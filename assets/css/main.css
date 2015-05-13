@@ -11156,11 +11156,15 @@ html.default .list_padded .list--item {
   display: none !important;
 }
 
-header_sep-stylized, .header_sep-stylized, #sidebar-main header, #sidebar-main .header {
+.header, .slider .header.slide--inner {
+  font-family: Avenir Next;
+  font-weight: 400;
+}
+.header_sep-stylized, #sidebar-main header, #sidebar-main .header {
   position: relative;
   z-index: -1;
 }
-header_sep-stylized:after, .header_sep-stylized:after, #sidebar-main header:after, #sidebar-main .header:after {
+.header_sep-stylized:after, #sidebar-main header:after, #sidebar-main .header:after {
   content: '⬘';
   font-size: 1.7em;
   position: absolute;
@@ -11174,17 +11178,26 @@ header_sep-stylized:after, .header_sep-stylized:after, #sidebar-main header:afte
   opacity: .5;
 }
 
+.aside, .slider .aside.slide--inner {
+  line-height: 2.5;
+  font-family: Didot, serif;
+  font-weight: 500;
+  letter-spacing: -0.025em;
+}
+
 .title, h1, h2, h3, h4, h5, h6 {
   margin: 0;
   font-size: 1.5em;
   line-height: 1.5;
+  font-family: Avenir Next;
 }
 
-.card, .slider .card.slide--inner {
+.card, .card_big, .card_huge, .slider .card_big.slide--inner, .slider .card_huge.slide--inner, .slider .card.slide--inner {
   padding: 2rem;
   box-sizing: border-box;
 }
-.card, .slider .card.slide--inner, .card:before, .slider .card.slide--inner:before, .card:after, .slider .card.slide--inner:after {
+.card, .card_big, .card_huge, .slider .card_big.slide--inner, .slider .card_huge.slide--inner, .slider .card.slide--inner, .card:before, .card_big:before, .card_huge:before, .slider .card_big.slide--inner:before, .slider .card_huge.slide--inner:before, .slider .card.slide--inner:before, .card:after, .card_big:after, .card_huge:after, .slider .card_big.slide--inner:after, .slider .card_huge.slide--inner:after, .slider .card.slide--inner:after {
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -11219,11 +11232,11 @@ html.mobile .card_big {
   padding: 22.5vh 3em;
 }
 html.tablet .card_huge {
-  padding: 13vh 2rem;
+  padding: 10vh 2rem;
 }
 @media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .card_huge {
-    padding: 13vh 2rem;
+    padding: 10vh 2rem;
   }
 }
 html.mobile .card_huge {
@@ -11687,6 +11700,7 @@ html.desktop #sidebar {
   left: 0;
   z-index: 5;
   box-shadow: 1px 0 rgba(157, 157, 157, 0.25);
+  box-shadow: 12px 0 75px -25px rgba(0, 0, 0, 0.375), 1px 0 rgba(157, 157, 157, 0.25);
 }
 @media screen and (min-width: 75em) {
   #sidebar {
@@ -11696,6 +11710,7 @@ html.desktop #sidebar {
     left: 0;
     z-index: 5;
     box-shadow: 1px 0 rgba(157, 157, 157, 0.25);
+    box-shadow: 12px 0 75px -25px rgba(0, 0, 0, 0.375), 1px 0 rgba(157, 157, 157, 0.25);
   }
 }
 html.tablet #sidebar {
@@ -16857,6 +16872,7 @@ html.mobile .bgpy-b-mobile {
   box-sizing: border-box;
 }
 .slider .slide--inner, .slider .slide--inner:before, .slider .slide--inner:after {
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -16891,11 +16907,11 @@ html.mobile .slider .slide--inner_big {
   padding: 22.5vh 3em;
 }
 html.tablet .slider .slide--inner_huge {
-  padding: 13vh 2rem;
+  padding: 10vh 2rem;
 }
 @media screen and (min-width: 36.063em) and (max-width: 74.938em) {
   .slider .slide--inner_huge {
-    padding: 13vh 2rem;
+    padding: 10vh 2rem;
   }
 }
 html.mobile .slider .slide--inner_huge {

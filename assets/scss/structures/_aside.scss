@@ -1,0 +1,17 @@
+@mixin aside() {
+	&%base {
+		line-height: 2.5;
+  		font-family: Didot, serif;
+		font-weight: 500;
+		letter-spacing: -0.025em;
+	}
+	// EXTENDERS
+	//—|
+	//—| .wrap &[child|modifier] {}
+	//—| &--[child] {}
+	//—| &__[modifier] {}
+	//—|
+	@content;
+}
+
+.aside { @include aside { @extend %base; } }

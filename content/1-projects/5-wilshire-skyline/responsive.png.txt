@@ -2,7 +2,11 @@ Sort: 3
 
 ----
 
-Caption-text: # A Responsive Mark, in 3 Sizes
+Caption-text: 
+
+# 3 Variations
+
+A *responsive* logo. So to speak.
 
 ----
 
