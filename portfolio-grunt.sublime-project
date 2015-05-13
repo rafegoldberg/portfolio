@@ -4,6 +4,7 @@
 		{
 			"file_exclude_patterns":
 			[
+				".*",
 				"*sublime*",
 				"*.map"
 			],
@@ -11,6 +12,7 @@
 			[
 				".*",
 				"kirby",
+				"content",
 				"panel",
 				"site",
 				"thumbs",
@@ -31,9 +33,6 @@
 			"path": "assets"
 		},
 		{
-			"file_exclude_patterns":
-			[
-			],
 			"name": "│ scss",
 			"path": "assets/scss"
 		},
@@ -65,6 +64,30 @@
 			"path": "assets/js/build"
 		},
 		{
+			"name": "│ blueprints",
+			"path": "site/blueprints"
+		},
+		{
+			"name": "│ templates",
+			"path": "site/templates"
+		},
+		{
+			"name": "│ snippets",
+			"path": "site/snippets"
+		},
+		{
+			"name": "│ plugins",
+			"path": "site/plugins"
+		},
+		{
+			"name": "└ tags",
+			"path": "site/tags"
+		},
+		{
+			"name": "content",
+			"path": "content"
+		},
+		{
 			"folder_exclude_patterns":
 			[
 				"templates",
@@ -76,26 +99,6 @@
 			],
 			"name": "site",
 			"path": "site"
-		},
-		{
-			"name": "│ templates",
-			"path": "site/templates"
-		},
-		{
-			"name": "│ snippets",
-			"path": "site/snippets"
-		},
-		{
-			"name": "│ blueprints",
-			"path": "site/blueprints"
-		},
-		{
-			"name": "│ plugins",
-			"path": "site/plugins"
-		},
-		{
-			"name": "└ tags",
-			"path": "site/tags"
 		},
 		{
 			"file_exclude_patterns":

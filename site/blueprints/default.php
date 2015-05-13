@@ -10,6 +10,3 @@ fields:
 	text:
 		label: Text
 		type:  textarea
-	sidebar:
-		label: Sidebar Snippet
-		typeL textarea
