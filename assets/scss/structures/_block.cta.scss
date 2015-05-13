@@ -1,0 +1,16 @@
+@mixin cta($args:()) {
+	$args: map-merge((),$args);
+	button, .button {
+		-webkit-appearance: none;
+		-moz-appearance: none;
+		appearance: none;
+		border: 1px solid rgb(204, 204, 204);
+		background-color: rgba(0, 0, 0, 0);
+		padding: 1em 1.5em;
+		font-size: .8em;
+	}
+}
+
+.call-to-action, .cta {
+	@include cta;
+}

@@ -8,3 +8,8 @@
 		overflow-y: scroll;
 	}
 }
+.overflow-y,
+.ov-y { @include block-overflow(y); }
+
+.overflow-x,
+.ov-x { @include block-overflow(x); }

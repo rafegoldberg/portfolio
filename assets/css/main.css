@@ -11041,6 +11041,20 @@ html body {
   padding-right: 2em;
 }
 
+.overflow-y,
+.ov-y {
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  overflow-y: scroll;
+}
+
+.overflow-x,
+.ov-x {
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  overflow-y: scroll;
+}
+
 .block-center-solo > *:only-child {
   display: block !important;
   float: none !important;
@@ -11054,6 +11068,16 @@ html.default .block-center-solo > *:only-child {
   margin-left: auto !important;
   margin-right: auto !important;
   clear: both !important;
+}
+
+.call-to-action button, .call-to-action .button, .cta button, .cta .button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 1px solid #cccccc;
+  background-color: transparent;
+  padding: 1em 1.5em;
+  font-size: .8em;
 }
 
 small {

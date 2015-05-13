@@ -13,31 +13,17 @@ Web Proposal Outline
 
 > <p><em>Citiwide is a real estate development firm based in Queens and focused on multifamily housing in New York City.</em></p><hr><p><small>We're growing rapidly and have over 100 properties coming to market, including a number of condo developments. We want to have a site that can be accessed easily (SEO), looks beautiful, has great maps, and is easy navigate, and has a staff page.</small></p>
 
-### Deliverables
+### Deliverables & Services
 
 1. Site Map
 2. Personas
 3. Content Guide
-4. Semantically coded, SEO-ed, responsive website
+4. Fully functional Site
+   - Fully responsive theme
+   - Reach (SEO; rich social sharing; metadata)
+   - Best-practice, semantic markup
+   - Modular architecture
 5. **1 month free hosting** and debug suport.
-
-###### Initial Site Map
-
-This is a very rough site map listing the different pages that make up your site as we understand it now. It is based on a few, brief conversations with Korie Enyard about Citiwide's goals for the project. This initial draft will be revised along with the client. (See <small>**Process**/Think</small> below for more.)
-
-1. *_Home_*
-2. *_About_*
-3. *_Staff_*<br><small>Feed of all users</small>
-4. *_Listings_*<br><small>Feed for all properties</small>
-    - *Single Property*<br><small>*Extensible template for each property*</small>
-
-<!--
-### Services & Guarantees
-
-* Cross Browser Compatibility
-* SEO Optimization
-* Initial Hosting + Maintenance
- -->
 
 ## Process
 
@@ -88,21 +74,32 @@ We kick off every new project by defining our goals and thinking a bit about our
 
 ###### Overview
 
-We'll start by reviewing the initial site map we put together. Getting this revised and finalized will be the first thing on our to-do list as it will inform nearly everything that comes afterwards..
+We'll start by reviewing the initial site map that RGD2 put together for the proposal:
 
-The next step is putting together the Content Guide and is solely the client's responsibility. You should use the finlized sitemap as a framework for thinking about, organizing and naming the necessary page folders, as well as the copy and assets within each of them. 
+> **Initial Site Map**
+> 
+> 1. *_Home_*
+> 2. *_About_*
+> 3. *_Staff_*<br><small>Feed of all users</small>
+> 4. *_Listings_*<br><small>Feed for all properties</small>
+>     - *Single Property*<br><small>*Extensible template for each property*</small>
+>
 
-(This will definitely be the most labor-intensive step of the project for you guys on the client-side. But it's also important, since combing through assets for selects, writing out copy, building a tone, sketching out what information goes where, etc. will inform our understanding of your vision for the site.)
+This is a rough illustration of the structure and relationships of the different pages that make up the site as we understand it based on a brief conversation with Korie Enyard about Citiwide's goals for this project. Getting this site map revised and finalized will be the first thing on our to-do list as it will inform nearly everything that comes afterwards.
+
+The next step will be putting together the Content Guide using the finlized sitemap as a framework for thinking about, organizing the necessary files, copy, images, and other assets within each of the page folders. This will definitely be the most labor-intensive step of the project for those of you on the client-side, but it's of critical importance to our process. Combing through assets, writing copy, and curating content may seem boring but it's a simple and effective way to inspect, challenge, and clarify your vision for the site.
 
 > <small>At the end of this stage, the updated Site Map and Content Guide will be locked in, superseding this proposal and other drafts. These versions will serve as the _final, agreed-upon scope_ documents. Any subsequent structural or material changes from this point forward may result in a scope change.</small>
 
 ### Build
 
-RGD2's progressive, in-browser approach to frontend web development means we don't waste pixels by emailing you a million attachments of wireframes and mockups. Instead of trying to keep track of multiple attachements and incomprehensibly named files all you have to remember is this link:
+RGD2's progressive, in-browser approach to frontend web development means we don't waste pixels by emailing you a million attachments of wireframes and mockups. Instead of trying to keep track of multiple attachements and incomprehensibly named files all you have to remember is the link to your RGD2 client panel:
 
 [**`rgd2.co/clients/citiwide`**](http://rgd2.co/clients/citiwide)
 
-Did you click it? Nice, though there's not much to see right now. Once we kick off the project, though, this link will link to the live, bleeding-edge beta site. Think of it as a live preview; it'll give you instant access, allowing your team to easily keep up to date with the project and provide better feedback faster.
+Did you click it? Nice! There's not much to see right now, but once we kick off the project it'll be a central place to keep up with development, find old documents, and track progress. But most importantly, it'll give you access to **the bleeding-edge beta**.
+
+Think of this as a preview site where you can see exactly what we're working on. It's a great way for your team to easily keep up to date with the project and provide better feedback faster.
 
 ###### Frontend / Design
 
@@ -168,26 +165,41 @@ For a month following final approval we also guarantee to host your site and fix
 
 |Duration   |Costs      |RGD2                                                                                 |                                                   Client|Payment|
 |:---------:|:---------:|:------------------------------------------------------------------------------------|--------------------------------------------------------:|:-----:|
-| 1.5 Weeks |    $825.00|<small>Site Map<br>Structural Guide<br>Personas</small>                            |<small>Initial Payment<br>Brainstorming<br>Feedback</small>  |  $2400|
+| 1.5 Weeks |     `$875.00`|<small>Site Map<br>Structural Guide<br>Personas</small>                            |<small>**Initial Payment**<br>Brainstorming<br>Feedback</small>  |  2500|
 
 ###### Build
 
 |Duration   |Costs      |RGD2                                                                                 |                                                   Client|Payment|
 |:---------:|:---------:|:------------------------------------------------------------------------------------|--------------------------------------------------------:|:-----:|
-| 2-3 Weeks |    1275.00|<small>Functional Templates<br>Responsive Layout<br>CMS Content Integration</small>      |<small>Copy/Content<br>Live Testing<br>Final Approval</small>|  |
+| 2-3 Weeks |    `$1300.00`|<small>Functional Templates<br>Responsive Layout<br>CMS Content Integration</small>      |<small>Copy/Content<br>Live Testing<br>Final Approval</small>|  |
 
 ###### Launch
 
 |Duration   |Costs      |RGD2                                                                                 |                                                   Client|Payment|
 |:---------:|:---------:|:------------------------------------------------------------------------------------|--------------------------------------------------------:|:-----:|
-|  1 Week   |    2700.00|<small>Compatability Testing<br>**Free Hosting & Debug!**<small style="font-size:9px;color:#8A8A8A;"><br>Up to 30 days</small></small>                   |<small>Final Payment</small>                             |   2400|
+|  1 Week   | `$2825.00`|<small>**Free Hosting!**<br>Debugging<br>Compatability Testing<br>Site Transfer</small>                   |<small>Hosting Details<br>**Final Payment**</small>                             |   2500|
 
-*Costs & Timframe:* `$5000.00` for ~1½ months of work
-<small style="color:#999;">Project kickoff begins the first weekday day following receipt of initial payment .</small>
+###### Totals
+
+Citiwide's site, as outlined above, will take 1½ to 2 months to complete. All features and services per the above outline wil be provided at a total cost of `$5000.00`.
+
+<aside class="grid-12 parent vertical-align-middle CTA gutter-top gutter-bottom">
+	<header class="grid-6 no-gutter gutter-top gutter-bottom">
+		<h1 style="margin:0;">Ready to get started?</h1>
+		<small>Click <strong>Accept</strong> to jump over to PayPal to get started with RGD2.</small>
+	</header>
+	<secton class="grid-6 gutter-top gutter-bottom ta-right">
+		<button>Accept</button>
+	</secton>
+</aside>
+
+Compensation is split evenly in to an initial and final installment. These are due at the beginning of the project and on delivery of the final deliverables. The former marks the official kick off date, while the latter is due on reciept of the final project deliverables as outlined in the scope documents.
+
+<small style="color:#999;">Note: Project kickoff will officially begin the first weekday day following RGD2's receipt of the initial payment installment .</small>
 
 ## Terms & Conditions
 
-Read the (link: ./terms text: terms and conditions) of the project or proposal.
+Read the [terms and conditions](citiwide/terms) of the project or proposal.
 
 ----
 
@@ -197,8 +209,8 @@ Links:
 
 Sidebar: 
 
-This is RGD2's response to an informal RFP made by Kori Enyard on behalf of Citiwide for a turnkey website. [To **accept this proposal** click here.](http://rgd2.co/clients/citiwide)
+This is RGD2's response to an informal RFP made by Kori Enyard on behalf of Citiwide for a turnkey website. [To **accept this proposal** click here.](http://rgd2.co/clients/citiwide) You can also [**download a PDF version**](http://localhost/dev/portfolio/content/clients/1-citiwide/v1-initial.pdf) of this proposal.
 
 <small><strong style="color:red;">Questions?</strong> [Click to email Rafe.](mailto:rafegoldberg@gmail.com)</small><br><small style="color:#999;display:inline-block;line-height:1.1;">
-This proposal was written in markdown. There is also a PDF version of the proposol so you can easily share it with your team, friends, coworkers, or even your mother!
+This proposal was [written in markdown](http://daringfireball.net/projects/markdown/syntax#philosophy). There is also a PDF version of the proposol so you can easily share it with your team, friends, coworkers, or even your mother!
 </small>
