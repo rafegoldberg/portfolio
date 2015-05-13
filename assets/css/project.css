@@ -2746,8 +2746,7 @@ html body {
 
 .project-link {
   background-color: #fefefe;
-  -webkit-transition: background-color .15 ease-in-out;
-          transition: background-color .15 ease-in-out;
+  transition: background-color .15 ease-in-out;
 }
 .project-link:hover {
   background-color: #fbfbfb;
