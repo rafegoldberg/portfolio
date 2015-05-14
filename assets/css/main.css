@@ -11353,6 +11353,10 @@ img {
 .link, .soft--links a, .list_inline a, .list_sep-space a, .list_sep-slash a, .list_sep-comma a, .list_tags a {
   text-decoration: none;
 }
+.link_hide, .link[hide], .soft--links a[hide], .list_inline a[hide], .list_sep-space a[hide], .list_sep-slash a[hide], .list_sep-comma a[hide], .list_tags a[hide] {
+  text-decoration: none !important;
+  color: inherit !important;
+}
 
 .soft--links a, .list_inline a, .list_sep-space a, .list_sep-slash a, .list_sep-comma a, .list_tags a {
   color: inherit;
@@ -17441,8 +17445,8 @@ html.mobile .slider .slide--inner {
   transform: scale(1.1, 1.1);
 }
 
-.tooltip {
-  text-decoration: underline !important;
+p > .tooltip {
+  text-decoration: underline;
 }
 
 .tooltipster-base {
@@ -17529,8 +17533,8 @@ html.mobile .markdown_block {
   }
 }
 .markdown a {
-  color: inherit !important;
-  text-decoration: underline;
+  color: dodgerblue;
+  text-decoration: none !important;
 }
 .markdown a[href*="?show"], .markdown a[href$="&show"], .markdown a[href$="?show"] {
   text-decoration: underline !important;

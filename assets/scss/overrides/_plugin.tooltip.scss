@@ -1,7 +1,9 @@
 @import "plugin.tooltip-defaults.scss";
 
 .tooltip { // TOOLTIPPED LINKS
-	text-decoration: underline !important;
+	p > & {
+		text-decoration: underline;
+	}
 }
 .tooltipster { // TOOLTIP VIEW
 	&-base {

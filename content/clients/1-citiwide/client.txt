@@ -181,17 +181,39 @@ For a month following final approval we also guarantee to host your site and fix
 
 ###### Totals
 
-Citiwide's site, as outlined above, will take 1½ to 2 months to complete. All features and services per the above outline wil be provided at a total cost of `$5000.00`.
+Citiwide's site, as outlined above, will take 1½ to 2 months to complete. All features and services per the above outline wil be provided at a total cost of $5000.00
 
-<aside class="grid-12 parent vertical-align-middle CTA gutter-top gutter-bottom">
-	<header class="grid-6 no-gutter gutter-top gutter-bottom">
-		<h1 style="margin:0;">Ready to get started?</h1>
-		<small>Click <strong>Accept</strong> to jump over to PayPal to get started with RGD2.</small>
-	</header>
-	<secton class="grid-6 gutter-top gutter-bottom ta-right">
-		<button>Accept</button>
+---
+
+<aside id="cta-accept" class="grid-12 parent CTA gutter-top gutter-bottom" data-js="#cta-accept">
+	<section class="grid-6 grid-mobile-12 gutter-top gutter-bottom">
+		<header>
+			<h1 style="line-height:1;margin:0;">Ready to go?</h1>
+			<p>Once we recieve the first installment we'll get started on the double! Click below to jump over to PayPal.</p>
+		</header>
+		<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+			<input type="hidden" name="cmd" value="_s-xclick">
+			<input type="hidden" name="hosted_button_id" value="PPFYHD3T4E24C">
+			<button name="submit" class="tooltip" alt="Kick off this project!" title="Submit the first installment to kick of this project!" style="padding:1em 1.25em;border:solid #CCC;border-width:1px 1px 2px;border-radius:2px;background:white;font-size:.825em;cursor:pointer;outline:none;">
+				<div class="iconic d-ib va-middle" data-glyph="credit-card"></div>
+				<div class="d-ib va-middle">Make moves!</div>
+			</button>
+			<img border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+		</form>
+	</section>
+	<secton class="grid-6 grid-mobile-12 gutter-top gutter-bottom ta-right">
+		<header>
+			<h1 style="line-height:1;margin:0;">Want to talk?</h1>
+			<p>We're always interested in hearing your thoughts and ideas. We even answer questions! Click below to email us.</p>
+		</header>
+		<button onclick="window.open('mailto:rafegoldberg@gmail.com');" style="padding:1em 1.25em;border:solid #CCC 1px;border-radius:1px;background:transparent;font-size:.825em;cursor:pointer;outline:none;">
+			<div class="iconic d-ib va-middle" data-glyph="envelope-open"></div>
+			<div class="d-ib va-middle">Get in Touch</div>
+		</button>
 	</secton>
 </aside>
+
+---
 
 Compensation is split evenly in to an initial and final installment. These are due at the beginning of the project and on delivery of the final deliverables. The former marks the official kick off date, while the latter is due on reciept of the final project deliverables as outlined in the scope documents.
 
@@ -209,8 +231,7 @@ Links:
 
 Sidebar: 
 
-This is RGD2's response to an informal RFP made by Kori Enyard on behalf of Citiwide for a turnkey website. [To **accept this proposal** click here.](http://rgd2.co/clients/citiwide) You can also [**download a PDF version**](../content/clients/1-citiwide/v1-initial.pdf) of this proposal.
+This is RGD2's response to an informal RFP made by Kori Enyard on behalf of Citiwide for a turnkey website. Ready to accept our proposal? We're flattered! We'll get started as soon as we've <a href="#show">recived the first installment.</a>
 
-<small><strong style="color:red;">Questions?</strong> [Click to email Rafe.](mailto:rafegoldberg@gmail.com)</small><br><small style="color:#999;display:inline-block;line-height:1.1;">
-This proposal was [written in markdown](http://daringfireball.net/projects/markdown/syntax#philosophy). There is also a PDF version of the proposol so you can easily share it with your team, friends, coworkers, or even your mother!
+<small><strong style="color:red;">Thoughts? Questions?</strong> [Click to email Rafe.](mailto:rafegoldberg@gmail.com)</small><br><small style="color:#999;display:inline-block;line-height:1.1;">Want to share this proposal? Copy and paste the link or [download the PDF.](../content/clients/1-citiwide/v1-initial.pdf?show)
 </small>

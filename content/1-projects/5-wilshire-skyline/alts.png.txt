@@ -4,8 +4,8 @@ Sort: 4
 
 Caption-text: 
 
-<h1 style="text-align:center !important;color:#006FAE !important;line-height:1 !important;margin:.9em 0 0 !important;">Ideation + Iteration</h1>
-<p class="d-n-mobile" style="text-align:center !important;color:#006FAE !important;margin:.375em 0 0 !important;line-height:1.125 !important;">The mark resulted from experiments with disparate directions and subtle iterations.</p>
+<h1 style="text-align:center !important;color:#006FAE !important;line-height:1 !important;margin:.9em 0 0 !important;">Ideation / Iteration</h1>
+<p class="d-n-mobile" style="text-align:center !important;color:#006FAE !important;margin:.375em 0 0 !important;line-height:1.125 !important;">The mark resulted from experimentation with radical departures as well as subtle iterations.</p>
 
 ----
 
@@ -26,7 +26,3 @@ Bgpy: center
 ----
 
 Invert: bgz, colors
-
-----
-
-Apply-view: desktop

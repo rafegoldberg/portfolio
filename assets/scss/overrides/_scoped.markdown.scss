@@ -20,8 +20,8 @@
 	// SUB-ELEMS
 	// 
 	a {
-		color: inherit !important;
-		text-decoration: underline;
+		color: dodgerblue;
+		text-decoration: none !important;
 		&[href*="?show"], &[href$="&show"], &[href$="?show"] {
 			text-decoration: underline !important;
 		}
