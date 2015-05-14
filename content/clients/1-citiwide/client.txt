@@ -97,7 +97,7 @@ RGD2's progressive, in-browser approach to frontend web development means we don
 
 [**`rgd2.co/clients/citiwide`**](http://rgd2.co/clients/citiwide)
 
-Did you click it? Nice! There's not much to see right now, but once we kick off the project it'll be a central place to keep up with development, find old documents, and track progress. But most importantly, it'll give you access to **the bleeding-edge beta**.
+Did you click it? Nice! There's not much to see right now, but once we kick off the project it'll be *the* central place to keep up with development, find old documents, and track progress. But most importantly, it'll give you access to **the bleeding-edge beta**.
 
 Think of this as a preview site where you can see exactly what we're working on. It's a great way for your team to easily keep up to date with the project and provide better feedback faster.
 
@@ -209,7 +209,7 @@ Links:
 
 Sidebar: 
 
-This is RGD2's response to an informal RFP made by Kori Enyard on behalf of Citiwide for a turnkey website. [To **accept this proposal** click here.](http://rgd2.co/clients/citiwide) You can also [**download a PDF version**](http://localhost/dev/portfolio/content/clients/1-citiwide/v1-initial.pdf) of this proposal.
+This is RGD2's response to an informal RFP made by Kori Enyard on behalf of Citiwide for a turnkey website. [To **accept this proposal** click here.](http://rgd2.co/clients/citiwide) You can also [**download a PDF version**](../content/clients/1-citiwide/v1-initial.pdf) of this proposal.
 
 <small><strong style="color:red;">Questions?</strong> [Click to email Rafe.](mailto:rafegoldberg@gmail.com)</small><br><small style="color:#999;display:inline-block;line-height:1.1;">
 This proposal was [written in markdown](http://daringfireball.net/projects/markdown/syntax#philosophy). There is also a PDF version of the proposol so you can easily share it with your team, friends, coworkers, or even your mother!

@@ -1,15 +1,67 @@
-@mixin block-overflow($dir:y) {
+// MIXINS
+// 
+@mixin block-overflow-fade {
+	&_fade {
+		& {
+			position: relative;
+		}
+		&, &-in, &-out {
+			&:before, &:after {
+		  		content: ' ';
+		  		position: absolute;
+		  		top: -3px;
+		  		display: block;
+		  		width: 5%;
+		  		height: 100%;
+		  		min-width: 20px;
+		  		max-width: 70px;
+		  		pointer-events: none;
+		  		box-sizing: content-box;
+		  		padding: 3px;
+		  		z-index: d(front);
+			}
+			&:before {
+				left: -3px;
+				@include linear-gradient(to right, c(light) 20%, rgba(c(light),0) 80%);
+			}
+			&:after  {
+				right: -3px;
+				@include linear-gradient(to left, c(light) 20%, rgba(c(light),0) 80%);
+			}
+		}
+		&-in  { &:after  { display: none !important; } }
+		&-out { &:before { display: none !important; } }
+	}
+}
+@mixin block-overflow-extras {
+	.overflowWrap {
+		@include block-overflow-fade;
+
+		&-mobile { @include gridle_state( mobile ) {
+			@include block-overflow-fade;
+		} }
+		
+		&-tablet { @include gridle_state( mobile tablet ) {
+			@include block-overflow-fade;
+		} }
+	}
+}
+@mixin block-overflow($dir:y,$args:()) {
+	$args: map-merge((),$args);
 	@content;
 	overflow: hidden;
 	-webkit-overflow-scrolling: touch;
-	@if str-index($dir,'h')==1 {
+	@if ($dir==x) {
 		overflow-x: scroll;
+		max-width: 100%;
 	} @else {
 		overflow-y: scroll;
 	}
 }
-.overflow-y,
-.ov-y { @include block-overflow(y); }
 
-.overflow-x,
-.ov-x { @include block-overflow(x); }
+// DEFAULTS
+// 
+.overflow-box, .overflow-box-x, .overflow-x, .ov-x { @include block-overflow(x); }
+.overflow-box-y .overflow-y, .ov-y { @include block-overflow(y); }
+
+@include block-overflow-extras;

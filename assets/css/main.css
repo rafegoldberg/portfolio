@@ -11041,18 +11041,269 @@ html body {
   padding-right: 2em;
 }
 
-.overflow-y,
-.ov-y {
+.overflow-box, .overflow-box-x, .overflow-x, .ov-x {
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  overflow-x: scroll;
+  max-width: 100%;
+}
+
+.overflow-box-y .overflow-y, .ov-y {
   overflow: hidden;
   -webkit-overflow-scrolling: touch;
   overflow-y: scroll;
 }
 
-.overflow-x,
-.ov-x {
-  overflow: hidden;
-  -webkit-overflow-scrolling: touch;
-  overflow-y: scroll;
+.overflowWrap_fade {
+  position: relative;
+}
+.overflowWrap_fade:before, .overflowWrap_fade:after, .overflowWrap_fade-in:before, .overflowWrap_fade-in:after, .overflowWrap_fade-out:before, .overflowWrap_fade-out:after {
+  content: ' ';
+  position: absolute;
+  top: -3px;
+  display: block;
+  width: 5%;
+  height: 100%;
+  min-width: 20px;
+  max-width: 70px;
+  pointer-events: none;
+  box-sizing: content-box;
+  padding: 3px;
+  z-index: 5;
+}
+.overflowWrap_fade:before, .overflowWrap_fade-in:before, .overflowWrap_fade-out:before {
+  left: -3px;
+  background: #FBFBFB;
+  background: -webkit-linear-gradient(left, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+  background: linear-gradient(to right, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+}
+.overflowWrap_fade:after, .overflowWrap_fade-in:after, .overflowWrap_fade-out:after {
+  right: -3px;
+  background: #FBFBFB;
+  background: -webkit-linear-gradient(right, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+  background: linear-gradient(to left, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+}
+.overflowWrap_fade-in:after {
+  display: none !important;
+}
+.overflowWrap_fade-out:before {
+  display: none !important;
+}
+html.mobile .overflowWrap-mobile_fade {
+  position: relative;
+}
+html.mobile .overflowWrap-mobile_fade:before, html.mobile .overflowWrap-mobile_fade:after, html.mobile .overflowWrap-mobile_fade-in:before, html.mobile .overflowWrap-mobile_fade-in:after, html.mobile .overflowWrap-mobile_fade-out:before, html.mobile .overflowWrap-mobile_fade-out:after {
+  content: ' ';
+  position: absolute;
+  top: -3px;
+  display: block;
+  width: 5%;
+  height: 100%;
+  min-width: 20px;
+  max-width: 70px;
+  pointer-events: none;
+  box-sizing: content-box;
+  padding: 3px;
+  z-index: 5;
+}
+html.mobile .overflowWrap-mobile_fade:before, html.mobile .overflowWrap-mobile_fade-in:before, html.mobile .overflowWrap-mobile_fade-out:before {
+  left: -3px;
+  background: #FBFBFB;
+  background: -webkit-linear-gradient(left, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+  background: linear-gradient(to right, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+}
+html.mobile .overflowWrap-mobile_fade:after, html.mobile .overflowWrap-mobile_fade-in:after, html.mobile .overflowWrap-mobile_fade-out:after {
+  right: -3px;
+  background: #FBFBFB;
+  background: -webkit-linear-gradient(right, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+  background: linear-gradient(to left, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+}
+html.mobile .overflowWrap-mobile_fade-in:after {
+  display: none !important;
+}
+html.mobile .overflowWrap-mobile_fade-out:before {
+  display: none !important;
+}
+@media screen and (max-width: 36em) {
+  .overflowWrap-mobile_fade {
+    position: relative;
+  }
+  .overflowWrap-mobile_fade:before, .overflowWrap-mobile_fade:after, .overflowWrap-mobile_fade-in:before, .overflowWrap-mobile_fade-in:after, .overflowWrap-mobile_fade-out:before, .overflowWrap-mobile_fade-out:after {
+    content: ' ';
+    position: absolute;
+    top: -3px;
+    display: block;
+    width: 5%;
+    height: 100%;
+    min-width: 20px;
+    max-width: 70px;
+    pointer-events: none;
+    box-sizing: content-box;
+    padding: 3px;
+    z-index: 5;
+  }
+  .overflowWrap-mobile_fade:before, .overflowWrap-mobile_fade-in:before, .overflowWrap-mobile_fade-out:before {
+    left: -3px;
+    background: #FBFBFB;
+    background: -webkit-linear-gradient(left, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+    background: linear-gradient(to right, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+  }
+  .overflowWrap-mobile_fade:after, .overflowWrap-mobile_fade-in:after, .overflowWrap-mobile_fade-out:after {
+    right: -3px;
+    background: #FBFBFB;
+    background: -webkit-linear-gradient(right, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+    background: linear-gradient(to left, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+  }
+  .overflowWrap-mobile_fade-in:after {
+    display: none !important;
+  }
+  .overflowWrap-mobile_fade-out:before {
+    display: none !important;
+  }
+}
+html.mobile .overflowWrap-tablet_fade {
+  position: relative;
+}
+html.mobile .overflowWrap-tablet_fade:before, html.mobile .overflowWrap-tablet_fade:after, html.mobile .overflowWrap-tablet_fade-in:before, html.mobile .overflowWrap-tablet_fade-in:after, html.mobile .overflowWrap-tablet_fade-out:before, html.mobile .overflowWrap-tablet_fade-out:after {
+  content: ' ';
+  position: absolute;
+  top: -3px;
+  display: block;
+  width: 5%;
+  height: 100%;
+  min-width: 20px;
+  max-width: 70px;
+  pointer-events: none;
+  box-sizing: content-box;
+  padding: 3px;
+  z-index: 5;
+}
+html.mobile .overflowWrap-tablet_fade:before, html.mobile .overflowWrap-tablet_fade-in:before, html.mobile .overflowWrap-tablet_fade-out:before {
+  left: -3px;
+  background: #FBFBFB;
+  background: -webkit-linear-gradient(left, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+  background: linear-gradient(to right, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+}
+html.mobile .overflowWrap-tablet_fade:after, html.mobile .overflowWrap-tablet_fade-in:after, html.mobile .overflowWrap-tablet_fade-out:after {
+  right: -3px;
+  background: #FBFBFB;
+  background: -webkit-linear-gradient(right, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+  background: linear-gradient(to left, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+}
+html.mobile .overflowWrap-tablet_fade-in:after {
+  display: none !important;
+}
+html.mobile .overflowWrap-tablet_fade-out:before {
+  display: none !important;
+}
+@media screen and (max-width: 36em) {
+  .overflowWrap-tablet_fade {
+    position: relative;
+  }
+  .overflowWrap-tablet_fade:before, .overflowWrap-tablet_fade:after, .overflowWrap-tablet_fade-in:before, .overflowWrap-tablet_fade-in:after, .overflowWrap-tablet_fade-out:before, .overflowWrap-tablet_fade-out:after {
+    content: ' ';
+    position: absolute;
+    top: -3px;
+    display: block;
+    width: 5%;
+    height: 100%;
+    min-width: 20px;
+    max-width: 70px;
+    pointer-events: none;
+    box-sizing: content-box;
+    padding: 3px;
+    z-index: 5;
+  }
+  .overflowWrap-tablet_fade:before, .overflowWrap-tablet_fade-in:before, .overflowWrap-tablet_fade-out:before {
+    left: -3px;
+    background: #FBFBFB;
+    background: -webkit-linear-gradient(left, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+    background: linear-gradient(to right, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+  }
+  .overflowWrap-tablet_fade:after, .overflowWrap-tablet_fade-in:after, .overflowWrap-tablet_fade-out:after {
+    right: -3px;
+    background: #FBFBFB;
+    background: -webkit-linear-gradient(right, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+    background: linear-gradient(to left, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+  }
+  .overflowWrap-tablet_fade-in:after {
+    display: none !important;
+  }
+  .overflowWrap-tablet_fade-out:before {
+    display: none !important;
+  }
+}
+html.tablet .overflowWrap-tablet_fade {
+  position: relative;
+}
+html.tablet .overflowWrap-tablet_fade:before, html.tablet .overflowWrap-tablet_fade:after, html.tablet .overflowWrap-tablet_fade-in:before, html.tablet .overflowWrap-tablet_fade-in:after, html.tablet .overflowWrap-tablet_fade-out:before, html.tablet .overflowWrap-tablet_fade-out:after {
+  content: ' ';
+  position: absolute;
+  top: -3px;
+  display: block;
+  width: 5%;
+  height: 100%;
+  min-width: 20px;
+  max-width: 70px;
+  pointer-events: none;
+  box-sizing: content-box;
+  padding: 3px;
+  z-index: 5;
+}
+html.tablet .overflowWrap-tablet_fade:before, html.tablet .overflowWrap-tablet_fade-in:before, html.tablet .overflowWrap-tablet_fade-out:before {
+  left: -3px;
+  background: #FBFBFB;
+  background: -webkit-linear-gradient(left, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+  background: linear-gradient(to right, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+}
+html.tablet .overflowWrap-tablet_fade:after, html.tablet .overflowWrap-tablet_fade-in:after, html.tablet .overflowWrap-tablet_fade-out:after {
+  right: -3px;
+  background: #FBFBFB;
+  background: -webkit-linear-gradient(right, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+  background: linear-gradient(to left, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+}
+html.tablet .overflowWrap-tablet_fade-in:after {
+  display: none !important;
+}
+html.tablet .overflowWrap-tablet_fade-out:before {
+  display: none !important;
+}
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
+  .overflowWrap-tablet_fade {
+    position: relative;
+  }
+  .overflowWrap-tablet_fade:before, .overflowWrap-tablet_fade:after, .overflowWrap-tablet_fade-in:before, .overflowWrap-tablet_fade-in:after, .overflowWrap-tablet_fade-out:before, .overflowWrap-tablet_fade-out:after {
+    content: ' ';
+    position: absolute;
+    top: -3px;
+    display: block;
+    width: 5%;
+    height: 100%;
+    min-width: 20px;
+    max-width: 70px;
+    pointer-events: none;
+    box-sizing: content-box;
+    padding: 3px;
+    z-index: 5;
+  }
+  .overflowWrap-tablet_fade:before, .overflowWrap-tablet_fade-in:before, .overflowWrap-tablet_fade-out:before {
+    left: -3px;
+    background: #FBFBFB;
+    background: -webkit-linear-gradient(left, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+    background: linear-gradient(to right, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+  }
+  .overflowWrap-tablet_fade:after, .overflowWrap-tablet_fade-in:after, .overflowWrap-tablet_fade-out:after {
+    right: -3px;
+    background: #FBFBFB;
+    background: -webkit-linear-gradient(right, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+    background: linear-gradient(to left, #FBFBFB 20%, rgba(251, 251, 251, 0) 80%);
+  }
+  .overflowWrap-tablet_fade-in:after {
+    display: none !important;
+  }
+  .overflowWrap-tablet_fade-out:before {
+    display: none !important;
+  }
 }
 
 .block-center-solo > *:only-child {
@@ -17206,7 +17457,7 @@ html.mobile .slider .slide--inner {
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif !important;
 }
 .markdownWrap {
-  background-color: #FCFCFC;
+  background-color: #FBFBFB;
   float: left;
   direction: ltr;
   padding-left: 0.75rem;
@@ -17249,14 +17500,40 @@ html.default .markdownWrap {
   font-family: inherit !important;
 }
 .markdown_block {
-  min-width: 450px;
-  width: 75%;
-  max-width: 650px;
-  margin: 0 auto;
+  width: 70%;
+}
+.markdown_block.legible-block, .markdown_block.header, .markdown_block.aside, .markdown_block.card, .markdown_block.card_big, .markdown_block.card_huge, .markdown_block.cms-text, .slider .markdown_block.slide--inner {
+  max-width: 46em;
+  line-height: 1.5;
+  text-align: left;
+  padding: 0 1.375em;
+}
+.markdown_block_pad-edges {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+html.tablet .markdown_block {
+  width: 90%;
+}
+@media screen and (min-width: 36.063em) and (max-width: 74.938em) {
+  .markdown_block {
+    width: 90%;
+  }
+}
+html.mobile .markdown_block {
+  width: 90%;
+}
+@media screen and (max-width: 36em) {
+  .markdown_block {
+    width: 90%;
+  }
 }
 .markdown a {
   color: inherit !important;
   text-decoration: underline;
+}
+.markdown a[href*="?show"], .markdown a[href$="&show"], .markdown a[href$="?show"] {
+  text-decoration: underline !important;
 }
 .markdown pre, .markdown code {
   font-size: 1em;

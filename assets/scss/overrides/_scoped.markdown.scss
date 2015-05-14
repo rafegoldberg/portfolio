@@ -1,7 +1,7 @@
 .markdown {
 	font-family: Helvetica Neue, Helvetica, Arial, sans-serif !important;
 	&Wrap {
-		background-color: #FCFCFC;
+		background-color: c(light);
 		@include gridle_set((grid: 12));
 		str,
 		h1, h2, h3, h4, h5, h6 {
@@ -9,10 +9,12 @@
 		}
 	}
 	&_block {
-		min-width: 450px;
-		width: 75%;
-		max-width: 650px;
-		margin: 0 auto;
+		// @extend .legible-block;
+		@include block-legible;
+		width: 70%;
+		@include gridle_state( tablet mobile ) {
+			width: 90%;
+		}
 	}
 	// 
 	// SUB-ELEMS
@@ -20,6 +22,9 @@
 	a {
 		color: inherit !important;
 		text-decoration: underline;
+		&[href*="?show"], &[href$="&show"], &[href$="?show"] {
+			text-decoration: underline !important;
+		}
 	}
 	pre, code {
 		font-size: 1em;
